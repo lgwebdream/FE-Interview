@@ -1,6 +1,4 @@
-# FE-Interview-Planet
-
-## 前端面试星球
+# 前端面试星球
 
 > 技术在于折腾，学习永不打烊，不是为了谁而来，是为了自己而来。今天的努力，是为了明天更好的自己。
 
@@ -18,11 +16,9 @@
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
-## 面试题大汇总
 
-|                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |                                                              |
-| :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Html](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)** | **[Css](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md)** | **[JavaScript](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md)** | **[Vue](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md)** | **[React](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md)** | **[Angular](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/angular.md)** | **[Node](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md)** | **[TypeScript](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/typescript.md)** | **[算法](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/算法.md)** | **[网络&安全](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/网络&安全.md)** | **[软技能](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/软技能.md)** | **[其它](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md)** |
+
+## 面试题大汇总
 
 |   面试题分类   |                          面试题汇总                          |
 | :------------: | :----------------------------------------------------------: |
