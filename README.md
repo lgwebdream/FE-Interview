@@ -39,7 +39,7 @@
 
 > 每日一题会在前一天下午六点在github发布。第二天下午四点在交流群集中讨论，五点github、交流群同步更新答案
 
-第1题：实现`Promise.all`
+**第1题：实现`Promise.all`**
 
 **[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
 
