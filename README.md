@@ -22,20 +22,22 @@
 
 |   面试题分类   |                          面试题汇总                          |
 | :------------: | :----------------------------------------------------------: |
+|    **全部**    | **[1000](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)** |
 |    **Html**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)** |
-|    **Css**     |                 **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)**                 |
-| **JavaScript** |              **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md)**              |
-|    **Vue**     |                 **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md)**                  |
-|   **React**    |                **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md)**                 |
-|  **Angular**   |               **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/angular.md)**                |
-|    **Node**    |                 **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md)**                 |
-| **TypeScript** |              **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/typescript.md)**              |
-|    **算法**    |                 **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/算法.md)**                 |
-| **网络&安全**  |              **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/网络&安全.md)**               |
-|   **软技能**   |                **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/软技能.md)**                |
-|    **其它**    |                **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md)**                 |
+|    **Css**     | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)** |
+| **JavaScript** | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md)** |
+|    **Vue**     | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md)** |
+|   **React**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md)** |
+|  **Angular**   | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/angular.md)** |
+|    **Node**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md)** |
+| **TypeScript** | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/typescript.md)** |
+|    **算法**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/算法.md)** |
+| **网络&安全**  | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/网络&安全.md)** |
+|   **软技能**   | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/软技能.md)** |
+|    **其它**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md)** |
+|  **每日一题**  | **[1000](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)** |
 
-## 每日一题(2020.05.21)-[汇总](https://github.com/lgwebdream/FE-Interview-Planet/issues)
+## 每日一题(2020.05.21)-[汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)
 
 > 每日一题会在前一天下午六点在github发布。第二天下午四点在交流群集中讨论，五点github、交流群同步更新答案
 
