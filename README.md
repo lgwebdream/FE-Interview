@@ -35,7 +35,6 @@
 | **网络&安全**  | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/网络&安全.md)** |
 |   **软技能**   | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/软技能.md)** |
 |    **其它**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md)** |
-|  **每日一题**  | **[1000](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)** |
 
 ## 每日一题(2020.05.21)-[汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)
 
