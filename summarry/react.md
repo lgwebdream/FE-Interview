@@ -38,6 +38,8 @@ sayHi()
 </p>
 </details>
 
+**[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
+
 ---
 
 ###### 2.输出是什么
@@ -71,6 +73,8 @@ sayHi()
 
 </p>
 </details>
+
+**[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
 
 ---
 
