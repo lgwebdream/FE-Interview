@@ -8,7 +8,8 @@
 
 > 每日一题会在前一天下午六点在github发布。第二天下午四点在交流群集中讨论，五点github、交流群同步更新答案
 
-**第1题：实现`Promise.all`**-**[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **今天题目：实现`Promise.all`**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **昨天题目：`Promise.all`**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
 
 ## 📚面试题大汇总
 
