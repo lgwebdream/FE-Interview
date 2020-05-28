@@ -1,27 +1,16 @@
 <br>
 
 <div align="center">
-    <img src="http://smartlive.site/fe.png" width="300px" >
+    <img src="http://smartlive.site/fe.png" width="200px" >
 </div>
 
 
 
 <br>
-# 前端面试星球
 
-> 技术在于折腾，学习永不打烊。今天的努力，是为了明天更好的自己。
-
-你是否还在前端茫茫大海漂泊？
-
-你是否在前端广阔的天地迷失了方向？
-
-你是否还在为了面试而忧愁？
-
-你是否在面试题海中迷失了自我？
-
-找不到面试题？没有答案？没有解析？没有人讨论？
-
-前端面试星球来了，高频大厂面试题汇总，全方位答案解析，让面试不再如此艰难
+| <img src="http://smartlive.site/html.png" width="50px" > | <img src="http://smartlive.site/css.png" width="50px" > | <img src="http://smartlive.site/js.png" width="50px" > | <img src="http://smartlive.site/vue.png" width="50px" > | <img src="http://smartlive.site/react.png" width="50px" > | <img src="http://smartlive.site/node.png" width="50px" > | <img src="http://smartlive.site/webpack.png" width="50px" > | <img src="http://smartlive.site/http.png" width="50px" > | <img src="http://smartlive.site/algorithm.png" width="50px" > | <img src="http://smartlive.site/other.png" width="50px" > |
+| :------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| **Html**                                                 | **Css**                                                 | **JavaScript**                                         | **Vue**                                                 | **React**                                                 | **Node**                                                 | **工程化**                                                  | **网络&安全**                                            | **算法**                                                     | **其它**                                                  |
 
 
 ## 面试题大汇总
