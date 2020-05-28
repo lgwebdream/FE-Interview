@@ -1,35 +1,8 @@
-<br>
+![concat](http://smartlive.site/t.png)
 
-<div align="center">
-    <img src="http://smartlive.site/fe.png" width="200px" >
-</div>
-
-
-
-<br>
-
-| <img src="http://smartlive.site/html.png" width="50px" > | <img src="http://smartlive.site/css.png" width="50px" > | <img src="http://smartlive.site/js.png" width="50px" > | <img src="http://smartlive.site/vue.png" width="50px" > | <img src="http://smartlive.site/react.png" width="50px" > | <img src="http://smartlive.site/node.png" width="50px" > | <img src="http://smartlive.site/webpack.png" width="50px" > | <img src="http://smartlive.site/http.png" width="50px" > | <img src="http://smartlive.site/algorithm.png" width="50px" > | <img src="http://smartlive.site/other.png" width="50px" > |
-| :------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- |
-| **Html**                                                 | **Css**                                                 | **JavaScript**                                         | **Vue**                                                 | **React**                                                 | **Node**                                                 | **工程化**                                                  | **网络&安全**                                            | **算法**                                                     | **其它**                                                  |
-
-
-## 面试题大汇总
-
-|   面试题分类   |                          面试题汇总                          |
-| :------------: | :----------------------------------------------------------: |
-|    **全部**    | **[1000](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)** |
-|    **Html**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)** |
-|    **Css**     | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md)** |
-| **JavaScript** | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md)** |
-|    **Vue**     | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md)** |
-|   **React**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md)** |
-|  **Angular**   | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/angular.md)** |
-|    **Node**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md)** |
-| **TypeScript** | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/typescript.md)** |
-|    **算法**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/算法.md)** |
-| **网络&安全**  | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/网络&安全.md)** |
-|   **软技能**   | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/软技能.md)** |
-|    **其它**    | **[188](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md)** |
+| <img src="http://smartlive.site/html.png" width="30px" > | <img src="http://smartlive.site/css.png" width="30px" > | <img src="http://smartlive.site/js.png" width="30px" > | <img src="http://smartlive.site/vue.png" width="30px" > | <img src="http://smartlive.site/react.png" width="30px" > | <img src="http://smartlive.site/node.png" width="30px" > | <img src="http://smartlive.site/webpack.png" width="30px" > | <img src="http://smartlive.site/http.png" width="30px" > | <img src="http://smartlive.site/algorithm.png" width="30px" > | <img src="http://smartlive.site/write.png" width="30px" > | <img src="http://smartlive.site/other.png" width="30px" > |
+| :------------------------------------------------------: | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | :------------------------------------------------------: | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
+|                        **[Html]()**                        | **[Css]()**                                                 | **[JavaScript]()**                                         | **[Vue]()**                                                 | **[React]()**                                                 |                         **[Node]()**                         | **[工程化]()**                                                  | **[网络&安全]()**                                            | **[算法]()**                                                     | **[编程题]()**                                                | **[其它]()**                                                  |
 
 ## 每日一题(2020.05.21)-[汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)
 
