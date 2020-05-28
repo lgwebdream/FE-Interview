@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-    <img src="http://smartlive.site/frontend.jpg" width="400px" >
+    <img src="http://smartlive.site/top.png" width="300px" >
 </div>
 
 
