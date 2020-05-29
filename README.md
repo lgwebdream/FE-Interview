@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="http://smartlive.site/t1.png" width="80%">
+    <img src="http://smartlive.site/t1.png" width="100%">
 </div>
 <br />
 
