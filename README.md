@@ -14,17 +14,17 @@
 <div align="center" >
 <table display="table">
   <tr>
-    <th align="center"><b> <img src="http://smartlive.site/html1.png" width="35px" > </b></th>
-    <th align="center"><b><img src="http://smartlive.site/css.png" width="40px" > </b></th>
-    <th align="center"><b><img src="http://smartlive.site/javascript1.png" width="40px" ></b></th>
-    <th align="center"><b><img src="http://smartlive.site/vue.svg" width="40px" ></b></th>
-    <th align="center"><b><img src="http://smartlive.site/react1.png" width="40px" ></b></th>
-  <th align="center"><b><img src="http://smartlive.site/node1.png" width="40px" ></b></th>
-    <th align="center"><b><img src="http://smartlive.site/webpack.svg" width="40px" ></b></th>
-   <th align="center"><b><img src="http://smartlive.site/http1.png" width="35px" ></b></th>
-    <th align="center"><b><img src="http://smartlive.site/algorithm1.png" width="35px" ></b></th>
-   <th align="center"><b><img src="http://smartlive.site/pro.svg" width="40px" ></b></th>
-    <th align="center"><b><img src="http://smartlive.site/other.png" width="38px" > </b></th>
+    <th align="center"><b> <a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md"><img src="http://smartlive.site/html1.png" width="35px" > </b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://smartlive.site/css.png" width="40px" > </b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md"><img src="http://smartlive.site/javascript1.png" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md"><img src="http://smartlive.site/vue.svg" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md"><img src="http://smartlive.site/react1.png" width="40px" ></b></th>
+  <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://smartlive.site/node1.png" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://smartlive.site/webpack.svg" width="40px" ></b></th>
+   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://smartlive.site/http1.png" width="35px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm1.png" width="35px" ></b></th>
+   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://smartlive.site/pro.svg" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://smartlive.site/other.png" width="38px" > </b></th>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md">Html</a></b></td>
@@ -46,8 +46,8 @@
 
 > 每日一题会在前一天下午六点在 github 发布。第二天下午四点在交流群集中讨论，五点 github、交流群同步更新答案
 
-- **今天题目：实现`Promise.all`**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
-- **昨天题目：`Promise.all`**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **今日题目：实现`Promise.all`**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **昨日题目：`Promise.all`**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
 
 ## 📚 面试题大汇总
 
