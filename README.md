@@ -12,12 +12,7 @@
 <br />
 
 <div align="center" >
-<style>
-.markdown-body table{
-    display:table !important;
-}
-</style>
-<table >
+<table display="table">
   <tr>
     <th align="center"><b> <img src="http://smartlive.site/html1.png" width="35px" > </b></th>
     <th align="center"><b><img src="http://smartlive.site/css.png" width="40px" > </b></th>
