@@ -11,7 +11,7 @@
 <br />
 
 <div align="center" >
-<table style="display:table">
+<table display="table" style="display:table">
   <tr>
     <th align="center"><b> <img src="http://smartlive.site/html1.png" width="35px" > </b></th>
     <th align="center"><b><img src="http://smartlive.site/css.png" width="40px" > </b></th>
