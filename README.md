@@ -1,6 +1,8 @@
 <div align="center">
-    <img src="http://smartlive.site/t1.png" width="100%">
+    <img src="http://smartlive.site/t1.png" width="80%">
 </div>
+<br />
+
 
 | <img src="http://smartlive.site/html1.png" width="35px" > | <img src="http://smartlive.site/css.png" width="40px" > | <img src="http://smartlive.site/javascript1.png" width="40px" > | <img src="http://smartlive.site/vue.svg" width="40px" > | <img src="http://smartlive.site/react1.png" width="40px" > | <img src="http://smartlive.site/node1.png" width="40px" > | <img src="http://smartlive.site/webpack.svg" width="40px" > | <img src="http://smartlive.site/http1.png" width="35px" > | <img src="http://smartlive.site/algorithm1.png" width="35px" > | <img src="http://smartlive.site/code.png" width="40px" > | <img src="http://smartlive.site/other.png" width="38px" > |
 | :------------------------------------------------------: | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | :------------------------------------------------------: | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
@@ -30,5 +32,5 @@
 
 > 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
-![concat](http://smartlive.site/concat.jpg)
+![concat](http://smartlive.site/twechat.png)
 
