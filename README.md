@@ -3,6 +3,7 @@
    <a href="https://github.com/lgwebdream/FE-Interview/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview"><img alt="GitHub license" src="https://img.shields.io/github/license/lgwebdream/FE-Interview?color=success"></a>
+   
 </div>
 
 <div align="center">
@@ -11,7 +12,12 @@
 <br />
 
 <div align="center" >
-<table display="table" style="display:table">
+<style>
+.markdown-body table{
+    display:table !important;
+}
+</style>
+<table >
   <tr>
     <th align="center"><b> <img src="http://smartlive.site/html1.png" width="35px" > </b></th>
     <th align="center"><b><img src="http://smartlive.site/css.png" width="40px" > </b></th>
