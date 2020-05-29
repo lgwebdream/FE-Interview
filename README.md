@@ -9,7 +9,7 @@
     <img src="http://smartlive.site/t1.png" width="100%">
 </div>
 <br />
-
+ 
 
 | <img src="http://smartlive.site/html1.png" width="35px" > | <img src="http://smartlive.site/css.png" width="40px" > | <img src="http://smartlive.site/javascript1.png" width="40px" > | <img src="http://smartlive.site/vue.svg" width="40px" > | <img src="http://smartlive.site/react1.png" width="40px" > | <img src="http://smartlive.site/node1.png" width="40px" > | <img src="http://smartlive.site/webpack.svg" width="40px" > | <img src="http://smartlive.site/http1.png" width="35px" > | <img src="http://smartlive.site/algorithm1.png" width="35px" > | <img src="http://smartlive.site/pro.svg" width="40px" > | <img src="http://smartlive.site/other.png" width="38px" > |
 | :------------------------------------------------------: | ------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | :------------------------------------------------------: | ----------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------------------------- |
