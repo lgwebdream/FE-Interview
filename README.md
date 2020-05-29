@@ -39,6 +39,6 @@
 
 > 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 <div align="center">
-    <img src="http://smartlive.site/bot.gif" width="300px" >
+    <img src="http://smartlive.site/bot.gif" width="500px" >
 </div>
 
