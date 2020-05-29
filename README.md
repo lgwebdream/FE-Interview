@@ -10,7 +10,7 @@
 </div>
 <br />
 
-<div align="center">
+<div align="center" display="inline">
 <table>
   <tr>
     <th align="center"><b> <img src="http://smartlive.site/html1.png" width="35px" > </b></th>
