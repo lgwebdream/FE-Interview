@@ -1,7 +1,7 @@
 <!--
  * @Author: wgz
  * @Date: 2020-05-21 18:13:48
- * @LastEditTime: 2020-06-03 11:12:37
+ * @LastEditTime: 2020-06-03 11:14:37
 --> 
 <div align="center">
    <a href="https://github.com/lgwebdream/FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success"></a>
@@ -24,8 +24,8 @@
   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://smartlive.site/node1.png" width="40px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://smartlive.site/webpack.svg" width="40px" ></b></th>
    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://smartlive.site/http1.png" width="35px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm3.svg" width="45px" ></b></th>
-   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://smartlive.site/pro.svg" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm3.svg" width="52px" ></b></th>
+   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://smartlive.site/pro.svg" width="50px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://smartlive.site/other.png" width="38px" > </b></th>
   </tr>
   <tr>
