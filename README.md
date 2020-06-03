@@ -1,16 +1,18 @@
+<!--
+ * @Author: wgz
+ * @Date: 2020-05-21 18:13:48
+ * @LastEditTime: 2020-06-03 11:12:37
+--> 
 <div align="center">
    <a href="https://github.com/lgwebdream/FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview"><img alt="GitHub license" src="https://img.shields.io/github/license/lgwebdream/FE-Interview?color=success"></a>
-   
 </div>
 
 <div align="center">
-    <img src="http://smartlive.site/t2.png" width="100%">
+    <img src="http://smartlive.site/t3.png" width="300px">
 </div>
-<br />
-
 <div align="center" >
 <table display="table">
   <tr>
@@ -22,7 +24,7 @@
   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://smartlive.site/node1.png" width="40px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://smartlive.site/webpack.svg" width="40px" ></b></th>
    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://smartlive.site/http1.png" width="35px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm1.png" width="35px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm3.svg" width="45px" ></b></th>
    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://smartlive.site/pro.svg" width="40px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://smartlive.site/other.png" width="38px" > </b></th>
   </tr>
