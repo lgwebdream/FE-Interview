@@ -1,8 +1,3 @@
-<!--
- * @Author: wgz
- * @Date: 2020-05-21 18:13:48
- * @LastEditTime: 2020-06-03 11:14:37
---> 
 <div align="center">
    <a href="https://github.com/lgwebdream/FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/lgwebdream/FE-Interview?color=success"></a>
