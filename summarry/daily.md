@@ -38,74 +38,9 @@ setTimeout(() => {
   });
 });
 ```
-```js
-// 答案
-node <11:1 7 6 8 2 4 9 11 3 10 5 12
-node>=11:1 7 6 8 2 4 3 5 9 11 10 12
-
-// 解析
-1.宏任务和微任务
-
-宏任务：macrotask,包括setTimeout、setInerVal、setImmediate(node独有)、requestAnimationFrame(浏览器独有)、I/O、UI rendering(浏览器独有)
-
-微任务：microtask,包括process.nextTick(Node独有)、Promise.then()、Object.observe、MutationObserver
-
-2.Promise构造函数中的代码是同步执行的，new Promise()构造函数中的代码是同步代码，并不是微任务
-
-3.Node.js中的EventLoop执行宏队列的回调任务有**6个阶段**
-
-（1）timers阶段：这个阶段执行setTimeout和setInterval预定的callback
-
-（2）I/O callback阶段：执行除了close事件的callbacks、被timers设定的callbacks、setImmediate()设定的callbacks这些之外的callbacks
-
-（3）idle, prepare阶段：仅node内部使用
-
-（4）poll阶段：获取新的I/O事件，适当的条件下node将阻塞在这里
-
-（5）check阶段：执行setImmediate()设定的callbacks
-
-（6）close callbacks阶段：执行socket.on('close', ....)这些callbacks
-
-4.NodeJs中宏队列主要有4个
-
-（1）Timers Queue
-
-（2）IO Callbacks Queue
-
-（3）Check Queue
-
-（4）Close Callbacks Queue
-
-这4个都属于宏队列，但是在浏览器中，可以认为只有一个宏队列，所有的macrotask都会被加到这一个宏队列中，但是在NodeJS中，不同的macrotask会被放置在不同的宏队列中。
-
-5.NodeJS中微队列主要有2个
-
-（1）Next Tick Queue：是放置process.nextTick(callback)的回调任务的
-
-（2）Other Micro Queue：放置其他microtask，比如Promise等
-
-在浏览器中，也可以认为只有一个微队列，所有的microtask都会被加到这一个微队列中，但是在NodeJS中，不同的microtask会被放置在不同的微队列中。
-
-6.Node.js中的EventLoop过程
-
-（1）执行全局Script的同步代码
-
-（2）执行microtask微任务，先执行所有Next Tick Queue中的所有任务，再执行Other Microtask Queue中的所有任务
-
-（3）开始执行macrotask宏任务，共6个阶段，从第1个阶段开始执行相应每一个阶段macrotask中的所有任务，注意，这里是所有每个阶段宏任务队列的所有任务，在浏览器的Event Loop中是只取宏队列的第一个任务出来执行，每一个阶段的macrotask任务执行完毕后，开始执行微任务，也就是步骤2
-
-（4）Timers Queue -> 步骤2 -> I/O Queue -> 步骤2 -> Check Queue -> 步骤2 -> Close Callback Queue -> 步骤2 -> Timers Queue ......
-
-（5）这就是Node的Event Loop
-
-7.Node 11.x新变化
-
-现在node11在timer阶段的setTimeout,setInterval...和在check阶段的immediate都在node11里面都修改为一旦执行一个阶段里的一个任务就立刻执行微任务队列。为了和浏览器更加趋同.
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/37)
 
 <br/>
 
@@ -123,18 +58,9 @@ function a(a, b, c = 3) {
 a(1, 1, 1);
 ```
 
-```js
-// 答案
-12
-
-// 解析
-arguments 中 c 的值还是 1 不会变成 10，  
-因为 a 函数加了默认值，就按 ES 的方式解析，ES6 是有块级作用域的，所以 c 的值是不会改变的
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/38)
 
 <br/>
 
@@ -146,25 +72,11 @@ max = Math.max();
 console.log(min < max);
 ```
 
-```js
-// 答案
-false
-
-// 解析
-按常规的思路，这段代码应该输出 true，毕竟最小值小于最大值。但是却输出 false  
-MDN 相关文档是这样解释的  
-Math.min 的参数是 0 个或者多个，如果多个参数很容易理解，返回参数中最小的。如果没有参数，则返回 Infinity，无穷大。  
-而 Math.max 没有传递参数时返回的是-Infinity.所以输出 false  
-
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/39)
 
 <br/>
-
-
 
 ### Day4:写出执行结果,并解释原因
 
@@ -177,20 +89,9 @@ var a = 1;
 
 ```
 
-```js
-// 答案
-ƒ a () {
-    a = 2;
-    console.log(a);
-}
-
-// 解析
-立即调用的函数表达式（IIFE） 有一个 自己独立的 作用域，如果函数名称与内部变量名称冲突，就会永远执行函数本身；所以上面的结果输出是函数本身；
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/40)
 
 <br/>
 
@@ -205,38 +106,11 @@ if (a) {
 }
 ```
 
-```js
-// 答案
-false
+分类：JavaScript
 
-// 解析
-1）当 a 出现在 if 的条件中时，被转成布尔值，而 Boolean([0])为 true,所以就进行下一步判断 a == true,在进行比较时，[0]被转换成了 0，所以 0==true 为 false
-数组从非 primitive 转为 primitive 的时候会先隐式调用 join 变成“0”，string 和 boolean 比较的时候，两个都先转为 number 类型再比较，最后就是 0==1 的比较了
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/41)
 
-var a = [1];
-if (a) {
-  console.log(a == true);
-} else {
-  console.log(a);
-}
-// true
-
-!![] //true 空数组转换为布尔值是 true,  
-!![0]//true 数组转换为布尔值是 true  
-[0] == true;//false 数组与布尔值比较时却变成了 false  
-Number([])//0  
-Number(false)//0  
-Number(['1'])//1
-
-2）所以当 a 出现在 if 的条件中时，被转成布尔值，而 Boolean([0])为 true,所以就进行下一步判断 a == true,在进行比较时，js 的规则是：
-①如果比较的是原始类型的值，原始类型的值会转成数值再进行比较
-1 == true  //true   1 === Number(true)
-'true' == true //false Number('true')->NaN  Number(true)->1
-'' = 0//true
-'1' == true//true  Number('1')->1
-②对象与原始类型值比较，对象会转换成原始类型的值再进行比较。
-③undefined和null与其它类型进行比较时，结果都为false，他们相互比较时结果为true。
-```
+<br/>
 
 ### Day6:写出执行结果,并解释原因
 
@@ -249,40 +123,9 @@ console.log(b);
 console.log(a);
 ```
 
-```js
-// 答案
-5 Error, a is not defined
-
-// 解析
-在这个立即执行函数表达式（IIFE）中包括两个赋值操作，其中`a`使用`var`关键字进行声明，因此其属于函数内部的局部变量（仅存在于函数中），相反，`b`被分配到全局命名空间。
-另一个需要注意的是，这里没有在函数内部使用[严格模式](http://cjihrig.com/blog/javascripts-strict-mode-and-why-you-should-use-it/)(`use strict`;)。如果启用了严格模式，代码会在输出 b 时报错`Uncaught ReferenceError: b is not defined`,需要记住的是，严格模式要求你显式的引用全局作用域。因此，你需要写成：
-(function () {
-  "use strict";
-  var a = (window.b = 5);
-})();
-console.log(b);
-
-再看一个
-
-(function() {
-   'use strict';
-   var a = b = 5;
-})();
- 
-console.log(b);  //Uncaught ReferenceError: b is not defined
-
-//---------------------------
-  (function() {
-   'use strict';
-   var a = window.b = 5;
-})();
- 
-console.log(b);  // 5
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/42)
 
 <br/>
 
@@ -305,18 +148,9 @@ var test = obj.prop.getFullname;
 console.log(test());  // a
 ```
 
-```js
-// 答案
-c a
-
-// 解析
-原因在于`this`指向的是函数的执行环境，`this`取决于其被谁调用了，而不是被谁定义了。
-对第一个`console.log()`语句而言，`getFullName()`是作为`obj.prop`对象的一个方法被调用的，因此此时的执行环境应该是这个对象。另一方面，但`getFullName()`被分配给`test`变量时，此时的执行环境变成全局对象（`window`），原因是`test`是在全局作用域中定义的。因此，此时的`this`指向的是全局作用域的`fullname`变量，即a。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/43)
 
 <br/>
 
@@ -331,69 +165,9 @@ delete yideng.address
 console.log(yideng.address);
 ```
 
-```js
-// 答案
-beijing
-
-// 解析
-这里的 yideng 通过 prototype 继承了 company的 address。yideng自己并没有address属性。所以delete操作符的作用是无效的。
-
-// 知识点
-1.delete使用原则：delete 操作符用来删除一个对象的属性。
-2.delete在删除一个不可配置的属性时在严格模式和非严格模式下的区别:
-（1）在严格模式中，如果属性是一个不可配置（non-configurable）属性，删除时会抛出异常;
-（2）非严格模式下返回 false。
-3.delete能删除隐式声明的全局变量：这个全局变量其实是global对象(window)的属性
-4.delete能删除的：
-（1）可配置对象的属性（2）隐式声明的全局变量 （3）用户定义的属性 （4）在ECMAScript 6中，通过 const 或 let 声明指定的 "temporal dead zone" (TDZ) 对 delete 操作符也会起作用
-delete不能删除的：
-（1）显式声明的全局变量 （2）内置对象的内置属性 （3）一个对象从原型继承而来的属性
-5.delete删除数组元素：
-（1）当你删除一个数组元素时，数组的 length 属性并不会变小，数组元素变成undefined
-（2）当用 delete 操作符删除一个数组元素时，被删除的元素已经完全不属于该数组。
-（3）如果你想让一个数组元素的值变为 undefined 而不是删除它，可以使用 undefined 给其赋值而不是使用 delete 操作符。此时数组元素是在数组中的
-6.delete 操作符与直接释放内存（只能通过解除引用来间接释放）没有关系。
-
-// 其它例子
-// 下面代码输出什么？
-var output = (function(x){
-    delete x;
-    return x;
-})(0);
-console.log(output);
-// 答案：0，`delete` 操作符是将object的属性删去的操作。但是这里的 `x` 是并不是对象的属性， `delete` 操作符并不能作用。
-
-// 下面代码输出什么？
-var x = 1;
-var output = (function(){
-    delete x;
-    return x;
-})();
-console.log(output);
-// 答案：输出是 1。delete 操作符是将object的属性删去的操作。但是这里的 x 是并不是对象的属性， delete 操作符并不能作用。
-
-// 下面代码输出什么?
-x = 1;
-var output = (function(){
-    delete x;
-    return x;
-})();
-console.log(output);
-// 答案：报错 VM548:1 Uncaught ReferenceError: x is not defined,
-
-// 下面代码输出什么？
-var x = { foo : 1};
-var output = (function(){
-    delete x.foo;
-    return x.foo;
-})();
-console.log(output);
-// 答案：输出是 undefined。x虽然是全局变量，但是它是一个object。delete作用在x.foo上，成功的将x.foo删去。所以返回undefined
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/44)
 
 <br/>
 
@@ -404,24 +178,9 @@ var foo = function bar(){ return 12; };
 console.log(typeof bar());  
 ```
 
-```js
-// 答案
-输出是抛出异常，bar is not defined。
-
-// 解析
-这种命名函数表达式函数只能在函数体内有效
-var foo = function bar(){ 
-    // foo is visible here 
-    // bar is visible here
-    console.log(typeof bar()); // Work here :)
-};
-// foo is visible here
-// bar is undefined here
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/45)
 
 <br/>
 
@@ -435,17 +194,9 @@ if(function f(){}){
 console.log(x)
 ```
 
-```js
-// 答案
-1 undefined
-
-// 解析
-条件判断为假的情况有：0，false，''，null，undefined，未定义对象。函数声明写在运算符中，其为true，但放在运算符中的函数声明在执行阶段是找不到的。另外，对未声明的变量执行typeOf不会报错，会返回undefined
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/46)
 
 <br/>
 
@@ -455,25 +206,12 @@ console.log(x)
 function f(){
       return f;
  }
- console.log(new f() instanceof f);
-```
-
-```js
-// 答案
-false
-
-// 解析
-a instanceof b 用于检测a是不是b的实例。如果题目f中没有return f,则答案明显为true;而在本题中new f()其返回的结果为f的函数对象，其并不是f的一个实例。
-function f(){
-     
- }
- console.log(new f() instanceof f);
-// 答案：true
+console.log(new f() instanceof f);
 ```
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/47)
 
 <br/>
 
@@ -489,17 +227,9 @@ var foo = {
 console.log(typeof (f=foo.bar)());
 ```
 
-```js
-// 答案
-undefined
-
-// 解析
-将foo.bar赋值给f,相当于f(),故其this指向window
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/48)
 
 <br/>
 
@@ -515,19 +245,9 @@ D.CMD 是提前执行;AMD 是延迟执行
 E.AMD性能好,因为只有用户需要的时候才执行;CMD用户体验好,因为没有延迟,依赖模块提前执行了
 ```
 
-```js
-// 答案
-A B 
-
-// 解析
-C.CMD 推崇依赖就近;AMD 推崇依赖前置
-D.CMD 是延迟执行;AMD 是提前执行
-E.CMD性能好,因为只有用户需要的时候才执行;AMD用户体验好,因为没有延迟,依赖模块提前执行了
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/49)
 
 <br/>
 
@@ -543,27 +263,9 @@ D.前进后退路由管理需要使用浏览器的前进后退功能
 E.SEO 难度较大：由于所有的内容都在一个页面中动态替换显示，所以在 SEO 上其有着天然的弱势。
 ```
 
-```js
-// 答案
-B C  E
-
-// 解析
-SPA（ single-page application ）仅在 Web 页面初始化时加载相应的 HTML、JavaScript 和 CSS。一旦页面加载完成，SPA 不会因为用户的操作而进行页面的重新加载或跳转；取而代之的是利用路由机制实现 HTML 内容的变换，UI 与用户的交互，避免页面的重新加载。
-
-// SPA优点
-- 用户体验好、快，内容的改变不需要重新加载整个页面，避免了不必要的跳转和重复渲染；
-- 基于上面一点，SPA 相对对服务器压力小；
-- 前后端职责分离，架构清晰，前端进行交互逻辑，后端负责数据处理；
-
-// SPA缺点
-- 初次加载耗时多：为实现单页 Web 应用功能及显示效果，需要在加载页面的时候将 JavaScript、CSS 统一加载，部分页面按需加载；
-- 前进后退路由管理：由于单页应用在一个页面中显示所有的内容，所以不能使用浏览器的前进后退功能，所有的页面切换需要自己建立堆栈管理；
-- SEO 难度较大：由于所有的内容都在一个页面中动态替换显示，所以在 SEO 上其有着天然的弱势。
-```
-
 分类：Vue、React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/50)
 
 <br/>
 
@@ -579,18 +281,9 @@ D.keep-alive 是 Vue 内置的一个组件，可以使被包含的组件保留�
 
 ```
 
-```js
-// 答案
-A C
-
-// 解析
-B: include的优先级比 exclude 低；
-D：能避免重新渲染
-```
-
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/51)
 
 <br/>
 
@@ -605,23 +298,9 @@ C.可以进行极致优化： 虚拟 DOM + 合理的优化，可以使性能达�
 D.可以跨平台，虚拟 DOM 本质上是 JavaScript 对象,而 DOM 与平台强相关，相比之下虚拟 DOM 可以进行更方便地跨平台操作，例如服务器渲染、weex 开发等等。
 ```
 
-```js
-// 答案
-A B D
-
-// 解析
-1）优点
-- **保证性能下限：** 框架的虚拟 DOM 需要适配任何上层 API 可能产生的操作，它的一些 DOM 操作的实现必须是普适的，所以它的性能并不是最优的；但是比起粗暴的 DOM 操作性能要好很多，因此框架的虚拟 DOM 至少可以保证在你不需要手动优化的情况下，依然可以提供还不错的性能，即保证性能的下限；
-- **无需手动操作 DOM：** 我们不再需要手动去操作 DOM，只需要写好 View-Model 的代码逻辑，框架会根据虚拟 DOM 和 数据双向绑定，帮我们以可预期的方式更新视图，极大提高我们的开发效率；
-- **跨平台：** 虚拟 DOM 本质上是 JavaScript 对象,而 DOM 与平台强相关，相比之下虚拟 DOM 可以进行更方便地跨平台操作，例如服务器渲染、weex 开发等等。
-
-2）缺点
-**无法进行极致优化：** 虽然虚拟 DOM + 合理的优化，足以应对绝大部分应用的性能需求，但在一些性能要求极高的应用中虚拟 DOM 无法进行针对性的极致优化。比如VScode采用直接手动操作DOM的方式进行极端的性能优化
-```
-
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/52)
 
 <br/>
 
@@ -633,23 +312,9 @@ for (let i = 0; i < 3; i++) {
 }
 ```
 
-```js
-// 答案
-0 1 2
-
-// 解析
-使用`let`关键字声明变量`i`：使用`let`（和`const`）关键字声明的变量是具有块作用域的（块是`{}`之间的任何东西）。 在每次迭代期间，`i`将被创建为一个新值，并且每个值都会存在于循环内的块级作用域。
-
-// 下面代码输出什么
-for (var i = 0; i < 3; i++) {
-  setTimeout(() => console.log(i), 1);
-}
-// 答案：3 3 3，由于JavaScript中的事件执行机制，setTimeout函数真正被执行时，循环已经走完。 由于第一个循环中的变量i是使用var关键字声明的，因此该值是全局的。 在循环期间，我们每次使用一元运算符++都会将i的值增加1。 因此在第一个例子中，当调用setTimeout函数时，i已经被赋值为3。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/53)
 
 <br/>
 
@@ -667,17 +332,9 @@ console.log(num.add());
 console.log(num.reduce());
 ```
 
-```js
-// 答案
-12 NaN
-
-// 解析
-注意，add是普通函数，而reduce是箭头函数。对于箭头函数，`this`关键字指向是它所在上下文（定义时的位置）的环境，与普通函数不同！ 这意味着当我们调用reduce时，它不是指向num对象，而是指其定义时的环境（window）。没有值a属性，返回`undefined`。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/54)
 
 <br/>
 
@@ -693,19 +350,9 @@ console.log(sayHi.call(person, 5));
 console.log(sayHi.bind(person, 5));
 ```
 
-```js
-// 答案
-yideng is 21     ƒ sayHi(age) {return `${this.name} is ${age}`;}
-
-// 解析
-使用两者，我们可以传递我们想要`this`关键字引用的对象。 但是，`.call`方法会立即执行！
-
-`.bind`方法会返回函数的拷贝值，但带有绑定的上下文！ 它不会立即执行。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/55)
 
 <br/>
 
@@ -715,34 +362,9 @@ yideng is 21     ƒ sayHi(age) {return `${this.name} is ${age}`;}
 ["1", "2", "3"].map(parseInt);
 ```
 
-```js
-// 答案
-[1,NaN,NaN]
-
-// 解析
-Array.prototype.map()
-array.map(callback[, thisArg])
-callback函数的执行规则
-参数：自动传入三个参数
-currentValue（当前被传递的元素）；
-index（当前被传递的元素的索引）；
-array（调用map方法的数组）
-
-parseInt方法接收两个参数
-第三个参数["1", "2", "3"]将被忽略。parseInt方法将会通过以下方式被调用
-parseInt("1", 0)
-parseInt("2", 1)
-parseInt("3", 2)
-
-parseInt的第二个参数radix为0时，ECMAScript5将string作为十进制数字的字符串解析；
-parseInt的第二个参数radix为1时，解析结果为NaN；
-parseInt的第二个参数radix在2—36之间时，如果string参数的第一个字符（除空白以外），不属于radix指定进制下的字符，解析结果为NaN。
-parseInt("3", 2)执行时，由于"3"不属于二进制字符，解析结果为NaN。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/56)
 
 <br/>
 
@@ -752,28 +374,9 @@ parseInt("3", 2)执行时，由于"3"不属于二进制字符，解析结果为N
 [typeof null, null instanceof Object]
 ```
 
-```js
-// 答案
- [object, false]
- 
-// 解析
-typeof 返回一个表示类型的字符串.
-typeof 的结果列表
-}Undefined   "undefined" 
-Null        "object" 
-Boolean     "boolean" 
-Number      "number" 
-String      "string"
-Symbol      "symbol" 
-Function   "function" 
-Object      "object"
-
-instanceof 运算符用来检测 constructor.prototype 是否存在于参数 object 的原型链上.
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/57)
 
 <br/>
 
@@ -785,19 +388,9 @@ const a = f.prototype,b = Object.getPrototypeOf(f)
 console.log(a === b);
 ```
 
-```js
-// 答案
-false
-
-// 解析
-f.prototype 是使用使用 new 创建的 f 实例的原型. 而 Object.getPrototypeOf 是 f 函数的原型.
-a === Object.getPrototypeOf(new f()) // true 
-b === Function.prototype // true
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/58)
 
 <br/>
 
@@ -822,21 +415,9 @@ function showCase(value) {
 showCase(new String('A'));
 ```
 
-```js
-// 答案
- 'Do not know!'
- 
-// 解析
-switch 是严格比较, String 实例和 字符串不一样.
-var str1 = 'str';
-var str2 = new String('str');
-console.log(typeof str1); // "string"
-console.log(typeof str2); //"object"
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/59)
 
 <br/>
 
@@ -854,21 +435,9 @@ D. 1 NaN
 */
 ```
 
-```js
-// 答案
-C
-
-// 解析
-arr.reduce(callback[, initialValue])
-reduce接受两个参数, 一个回调, 一个初始值
-回调函数接受四个参数 previousValue, currentValue, currentIndex, array
-需要注意的是 If the array is empty and no initialValue was provided, TypeError would be thrown.
-所以第二个会报异常. 第一个表达式等价于 Math.pow(2, 1) => 2; Math.pow(2, 0) =>1
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/60)
 
 <br/>
 
@@ -881,20 +450,12 @@ function test(){
         eval("");
     }
 }
-test();
-```
-
-```js
-// 答案
-不会
-
-// 解析
-因为eval会欺骗词法作用域，例如function test(){eval("var a = 1"},创建了一个a变量，不确定eval是否对a进行了引用，所以为了保险，不对其进行优化。相对，try catch,with也不会被回收，with会创建新的作用域。  
+test();  
 ```
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/61)
 
 <br/>
 
@@ -905,18 +466,9 @@ const value  = 'Value is' + !!Number(['0']) ? 'yideng' : 'undefined';
 console.log(value);
 ```
 
-```js
-// 答案
-yideng
-
-// 解析
-+优先级大于？
-所以原题等价于 'Value is false' ? 'yideng' : undefined'' 而不是 'Value is' + (false ? 'yideng' : 'undefined')
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/62)
 
 <br/>
 
@@ -929,18 +481,9 @@ newArr = arr.filter(function(x) { return x === undefined;});
 console.log(newArr.length);
 ```
 
-```js
-// 答案
-0
-
-// 解析
-`filter` 为数组中的每个元素调用一次 `callback` 函数，并利用所有使得 `callback` 返回 true 或[等价于 true 的值](https://developer.mozilla.org/zh-CN/docs/Glossary/Truthy)的元素创建一个新数组。`callback` 只会在已经赋值的索引上被调用，对于那些已经被删除或者从未被赋值的索引不会被调用。那些没有通过 `callback` 测试的元素会被跳过，不会被包含在新数组中。
-也就是说 从 2-4 都是没有初始化的'坑'!, 这些索引并不存在与数组中. 在 array 的函数调用的时候是会跳过这些'坑'的.
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/63)
 
 <br/>
 
@@ -969,67 +512,9 @@ new Promise(function(resolve) {
 console.log('script end');
 ```
 
-```js
-// 答案：
-script start
-async1 start
-async2
-promise1
-script end
-async1 end
-promise2
-setTimeout
-
-// 解析：
-知识点：
-考察的是js中的事件循环和回调队列。注意以下几点
-1.`Promise`优先于`setTimeout`宏任务。所以，`setTimeout`回调会在最后执行。
-2.`Promise`一旦被定义，就会立即执行
-3.`Promise`的`reject`和`resolve`是异步执行的回调。所以，`resolve()`会被放到回调队列中，在主函数执行完和`setTimeout`前调用。
-4.`await`执行完后，会让出线程。`async`标记的函数会返回一个`Promise`对象
-
-// 迷惑点：
-async function async1() {
-	console.log('async1 start');
-	await async2();
-	console.log('async1 end');
-}
-async function async2() {
-	console.log('async2');
-}
-// 相当于
-function async1() {
-	return new Promise((resolve,reject)=>{
-		console.log('async1 start');
-		async1().then((result)=>{
-			console.log('async1 end');
-		})
-       resolve()
-	})
-}
-function async2() {
-	return new Promise((resolve)=>{
-		console.log('async2');
-		resolve()
-	})
-}
-
-// 执行流程分析
-1.首先，事件循环从宏任务(macrotask)队列开始，这个时候，宏任务队列中，只有一个script(整体代码)任务；从宏任务队列中取一个任务出来执行。
-a.首先执行console.log('script start') ，输出 'script start' 。
-b.遇到setTimeout 把 console.log('setTimeout') 放到macroTask队列中。
-c.执行async1()， 输出 'async1 start' 和 'async2' ，把 console.log('async1 end') 放到micro 队列中。
-d.执行到promise ， 输出 'promise1' ， 把 console.log('promise2') 放到micro 队列中。
-e.执行 console.log('script end') 。输出 'script end'
-
-2.macrotask 执行完会执行microtask ，把 microtask quene 里面的 microtask 全部拿出来一次性执行完，所以会输出 ‘async1 end’ 和 ‘ promise2’
-
-3.开始新一轮事件循环，去除一个macrotask执行，所以会输出 “setTimeout”。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/64)
 
 <br/>
 
@@ -1042,99 +527,9 @@ if(a == 1 && a== 2 && a== 3){
 }
 ```
 
-```js
-// 答案&解析
-比较操作涉及多不同类型的值时候，会涉及到很多隐式转换，其中规则繁多即便是经验老道的程序员也没办法完全记住，特别是用到 `==` 和 `!=` 运算时候。所以一些团队规定禁用 `==` 运算符换用`===` 严格相等。
-
-// 答案一
-var aﾠ = 1;
-var a = 2;
-var ﾠa = 3;
-if(aﾠ==1 && a== 2 &&ﾠa==3) {
-    console.log("1")
-}
-/*
-	考察你的找茬能力，注意if里面的空格，它是一个Unicode空格字符，不被ECMA脚本解释为空格字符(这意味着它是标识符的有效字符)。所以它可以解释为
-  var a_ = 1;
-  var a = 2;
-  var _a = 3;
-  if(a_==1 && a== 2 &&_a==3) {
-      console.log("1")
-  }
-*/
-
-//答案二
-var a = {
-  i: 1,
-  toString: function () {
-    return a.i++;
-  }
-}
-if(a == 1 && a == 2 && a == 3) {
-  console.log('1');
-}
-/*
-	如果原始类型的值和对象比较，对象会转为原始类型的值，再进行比较。
-	对象转换成原始类型的值，算法是先调用valueOf方法；如果返回的还是对象，再接着调用toString方法。
-*/
-
-// 答案三
-var a = [1,2,3];
-a.join = a.shift;
-console.log(a == 1 && a == 2 && a == 3);
-/*
-	比较巧妙的方式，array也属于对象，
-	对于数组对象，toString 方法返回一个字符串，该字符串由数组中的每个元素的 toString() 返回值经调用 join() 方法连接（由逗号隔开）组成。
-	数组 toString 会调用本身的 join 方法，这里把自己的join方法该写为shift,每次返回第一个元素，而且原数组删除第一个值，正好可以使判断成立
-*/
-
-
-// 答案四
-var i = 0;
-with({
-  get a() {
-    return ++i;
-  }
-}) {
-  if (a == 1 && a == 2 && a == 3)
-    console.log("1");
-}
-/*
-	with 也是被严重建议不使用的对象，这里也是利用它的特性在代码块里面利用对象的 get 方法动态返回 i.
-*/
-
-
-// 答案五
-var val = 0;
-Object.defineProperty(window, 'a', {
-  get: function() {
-    return ++val;
-  }
-});
-if (a == 1 && a == 2 && a == 3) {
-  console.log('1');
-}
-/*
-	全局变量也相当于 window 对象上的一个属性，这里用defineProperty 定义了 a的 get 也使得其动态返回值。和with 有一些类似。
-*/
-
-
-// 答案六
-let a = {[Symbol.toPrimitive]: ((i) => () => ++i) (0)};
-if (a == 1 && a == 2 && a == 3) {
-  console.log('1');
-}
-/*
-	ES6 引入了一种新的原始数据类型Symbol，表示独一无二的值。我们之前在定义类的内部私有属性时候习惯用 __xxx ,这种命名方式避免别人定义相同的属性名覆盖原来的属性，有了 Symbol  之后我们完全可以用 Symbol值来代替这种方法，而且完全不用担心被覆盖。
-	除了定义自己使用的 Symbol 值以外，ES6 还提供了 11 个内置的 Symbol 值，指向语言内部使用的方法。Symbol.toPrimitive就是其中一个，它指向一个方法，表示该对象被转为原始类型的值时，会调用这个方法，返回该对象对应的原始类型值。这里就是改变这个属性，把它的值改为一个 闭包 返回的函数。
-*/
-
-// 业务中一般不会写出这种代码,重点还是知识点的考察
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/65)
 
 <br/>
 
@@ -1153,25 +548,9 @@ obj.push(2)
 console.log(obj)
 ```
 
-```js
-// 答案
-Object(4) [empty × 2, 1, 2, splice: ƒ, push: ƒ]
-
-// 涉及知识点：
-1.类数组（ArrayLike）：一组数据，由数组来存，但是如果要对这组数据进行扩展，会影响到数组原型，ArrayLike的出现则提供了一个中间数据桥梁，ArrayLike有数组的特性， 但是对ArrayLike的扩展并不会影响到原生的数组。
-
-2.push方法：push 方法有意具有通用性。该方法和 call() 或 apply() 一起使用时，可应用在类似数组的对象上。push 方法根据 length 属性来决定从哪里开始插入给定的值。如果 length 不能被转成一个数值，则插入的元素索引为 0，包括 length 不存在时。当 length 不存在时，将会创建它。
-唯一的原生类数组（array-like）对象是 Strings，尽管如此，它们并不适用该方法，因为字符串是不可改变的。
-
-3.对象转数组的方式：Array.from()、splice()、concat()等
-
-// 解析：
-这个obj中定义了两个key值，分别为splice和push分别对应数组原型中的splice和push方法，因此这个obj可以调用数组中的push和splice方法，调用对象的push方法：push(1)，因为此时obj中定义length为2，所以从数组中的第二项开始插入，也就是数组的第三项（下表为2的那一项），因为数组是从第0项开始的，这时已经定义了下标为2和3这两项，所以它会替换第三项也就是下标为2的值，第一次执行push完，此时key为2的属性值为1，同理：第二次执行push方法，key为3的属性值为2。此时的输出结果就是：Object(4) [empty × 2, 1, 2, splice: ƒ, push: ƒ]，因为只是定义了2和3两项，没有定义0和1这两项，所以前面会是empty。
-```
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/66)
 
 <br/>
 
