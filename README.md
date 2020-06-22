@@ -63,11 +63,6 @@
   // 写出执行结果，并解释原因
   ```
 
-## 📚 面试题大汇总
-
-- **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
-- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
-
 ## ⏱️ 最近更新
 
 - **[写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/lgwebdream/FE-Interview/issues/7)**
@@ -101,6 +96,10 @@
 - **[手写数组转树](https://github.com/lgwebdream/FE-Interview/issues/35)**
 - **[手写用 ES6proxy 如何实现 arr[-1] 的访问](https://github.com/lgwebdream/FE-Interview/issues/36)**
 
+## 📚 面试题大汇总
+
+- **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
+- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
 
 ## 🏠 前端面试星球 Family
 
