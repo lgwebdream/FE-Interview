@@ -1,5 +1,3 @@
-[TOC]
-
 # 全部面试题汇总
 
 ### 第 1 题：写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal
@@ -8,7 +6,7 @@
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/7)
 
 <br/>
 
@@ -18,7 +16,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/8)
 
 <br/>
 
@@ -28,7 +26,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/9)
 
 <br/>
 
@@ -38,7 +36,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/10)
 
 <br/>
 
@@ -48,7 +46,7 @@
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/11)
 
 <br/>
 
@@ -58,7 +56,7 @@
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/12)
 
 <br/>
 
@@ -68,7 +66,7 @@
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/13)
 
 <br/>
 
@@ -78,7 +76,7 @@
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/14)
 
 <br/>
 
@@ -88,7 +86,7 @@
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/15)
 
 <br/>
 
@@ -98,7 +96,7 @@
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/16)
 
 <br/>
 
@@ -108,7 +106,7 @@
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/17)
 
 <br/>
 
@@ -118,7 +116,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/18)
 
 <br/>
 
@@ -128,17 +126,17 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/19)
 
 <br/>
 
-### 第 14 题：实现 lodash 的\_.get
+### 第 14 题：实现 lodash 的_.get
 
 公司：滴滴
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/20)
 
 <br/>
 
@@ -148,7 +146,7 @@
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/21)
 
 <br/>
 
@@ -158,7 +156,7 @@
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/22)
 
 <br/>
 
@@ -168,7 +166,7 @@
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/23)
 
 <br/>
 
@@ -178,7 +176,7 @@
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/24)
 
 <br/>
 
@@ -188,7 +186,7 @@
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/25)
 
 <br/>
 
@@ -198,7 +196,7 @@
 
 分类：Node、JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/26)
 
 <br/>
 
@@ -208,7 +206,7 @@
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/27)
 
 <br/>
 
@@ -218,7 +216,7 @@
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/28)
 
 <br/>
 
@@ -228,7 +226,7 @@
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/29)
 
 <br/>
 
@@ -244,7 +242,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/30)
 
 <br/>
 
@@ -254,7 +252,7 @@ Promise.all = function (arr) {
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/31)
 
 <br/>
 
@@ -264,7 +262,7 @@ Promise.all = function (arr) {
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/32)
 
 <br/>
 
@@ -274,7 +272,7 @@ Promise.all = function (arr) {
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/33)
 
 <br/>
 
@@ -284,7 +282,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/34)
 
 <br/>
 
@@ -294,7 +292,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/35)
 
 <br/>
 
@@ -304,7 +302,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/36)
 
 <br/>
 
@@ -398,9 +396,17 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 39 题：大数计算如何实现
+### 第 39 题：请用算法实现，从给定的无序、不重复的数组data中，取出n个数，使其相加和为sum。并给出算法的时间/空间复杂度。(不需要找到所有的解，找到一个解即可)
 
-分类：JavaScript
+```js
+function getResult(data,n,sum){
+  // your code
+}
+```
+
+公司：头条
+
+分类：算法
 
 [答案&解析]()
 
@@ -3045,7 +3051,7 @@ console.log(add(two(one()))); //3
 
 <br/>
 
-### 第 259 题：promise 跟 async await 的区别，使用场景  
+### 第 259 题：promise 跟 async await 的区别，使用场景 
 
 公司：网易、虎扑、沪江
 
@@ -8730,22 +8736,6 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 公司：头条
 
 分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 759 题：请用算法实现，从给定的无序、不重复的数组data中，取出n个数，使其相加和为sum。并给出算法的时间/空间复杂度。(不需要找到所有的解，找到一个解即可)
-
-```js
-function getResult(data,n,sum){
-  // your code
-}
-```
-
-公司：头条
-
-分类：算法
 
 [答案&解析]()
 

@@ -1,80 +1,100 @@
-# Javascript进阶面试题列表
+# Html题目汇总
 
-从基础到进阶，测试你有多了解JavaScript,刷新你的知识，或者帮助你coding面试！
+### meta 元素都有什么
 
-答案在问题下方的折叠部分，点击即可展开问题。
+公司：完美世界
 
----
+分类：Html
 
-###### 1.输出是什么
+[答案&解析]()
 
-```js
-function sayHi() {
-  console.log(name)
-  console.log(age)
-  var name = 'Lydia'
-  let age = 21
-}
+<br/>
 
-sayHi()
-```
+### script 的 async 跟 defer 的区别？
 
-- A: `Lydia` 和 `undefined`
-- B: `Lydia` 和 `ReferenceError`
-- C: `ReferenceError` 和 `21`
-- D: `undefined` 和 `ReferenceError`
+公司：虎扑
 
-<details>
-  <summary><b>答案</b></summary>
-<p>
+分类：Html
 
+[答案&解析]()
 
-#### 答案: D
+<br/>
 
-在函数内部，我们首先通过 `var` 关键字声明了 `name` 变量。这意味着变量被提升了（内存空间在创建阶段就被设置好了），直到程序运行到定义变量位置之前默认值都是 `undefined`。因为当我们打印 `name` 变量时还没有执行到定义变量的位置，因此变量的值保持为 `undefined`。
+### 知道语义化吗？说说你理解的语义化，如果是你，平时会怎么做来保证语义化？说说你了解的 HTML5 语义化标签？
 
-通过 `let` 和 `const` 关键字声明的变量也会提升，但是和 `var` 不同，它们不会被<i>初始化</i>。在我们声明（初始化）之前是不能访问它们的。这个行为被称之为暂时性死区。当我们试图在声明之前访问它们时，JavaScript 将会抛出一个 `ReferenceError` 错误。
+公司：蘑菇街
 
-</p>
-</details>
+分类：Html
 
-**[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
+[答案&解析]()
 
----
+<br/>
 
-###### 2.输出是什么
+### a 标签默认事件禁掉之后做了什么才实现了跳转
 
-```js
-function sayHi() {
-  console.log(name)
-  console.log(age)
-  var name = 'Lydia'
-  let age = 21
-}
+公司：滴滴
 
-sayHi()
-```
+分类：Html
 
-- A: `Lydia` 和 `undefined`
-- B: `Lydia` 和 `ReferenceError`
-- C: `ReferenceError` 和 `21`
-- D: `undefined` 和 `ReferenceError`
+[答案&解析]()
 
-<details>
-  <summary><b>答案</b></summary>
-<p>
+<br/>
 
+### a 标签默认事件禁掉之后做了什么才实现了跳转
 
-#### 答案: D
+公司：滴滴
 
-在函数内部，我们首先通过 `var` 关键字声明了 `name` 变量。这意味着变量被提升了（内存空间在创建阶段就被设置好了），直到程序运行到定义变量位置之前默认值都是 `undefined`。因为当我们打印 `name` 变量时还没有执行到定义变量的位置，因此变量的值保持为 `undefined`。
+分类：Html
 
-通过 `let` 和 `const` 关键字声明的变量也会提升，但是和 `var` 不同，它们不会被<i>初始化</i>。在我们声明（初始化）之前是不能访问它们的。这个行为被称之为暂时性死区。当我们试图在声明之前访问它们时，JavaScript 将会抛出一个 `ReferenceError` 错误。
+[答案&解析]()
 
-</p>
-</details>
+<br/>
 
-**[解析&讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
+### 网站 SEO 怎么处理
 
----
+公司：喜马拉雅
+
+分类：Html
+
+[答案&解析]()
+
+<br/>
+
+### html 标签 b 和 strong 的区别
+
+公司：蘑菇街
+
+分类：Html
+
+[答案&解析]()
+
+<br/>
+
+### 说一下减少 dom 数量的办法？一次性给你大量的 dom 怎么优化？
+
+公司：58
+
+分类：Html
+
+[答案&解析]()
+
+<br/>
+
+### Html5 有哪些新特性？如何处理 Html5 新标签的浏览器兼容问题？如何区分 Html 和 Html5?
+
+分类：Html
+
+[答案&解析]()
+
+<br/>
+
+### 请说明 Html 布局元素的分类有哪些？边描述每种布局元素的应用场景
+
+公司：玄武科技
+
+分类：Html
+
+[答案&解析]()
+
+<br/>
 

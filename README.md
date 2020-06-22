@@ -41,10 +41,27 @@
 
 ## ☕ 每日一题(2020.05.21)
 
-> 每日一题会在前一天下午六点在 github 发布。第二天下午四点在交流群集中讨论，五点 github、交流群同步更新答案
+> 每日一题会在前一天下午五点在 github 发布。第二天下午四点在交流群集中讨论，五点 github、交流群同步更新答案
 
-- **今日题目：实现`Promise.all`**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
-- **昨日题目：`Promise.all`**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **今日题目：请写出如下代码的打印结果**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+
+  - ```js
+    var obj = {};
+    var x = +obj.yideng?.name ?? '京程一灯';
+    console.log(x);
+    ```
+
+- **昨日题目：写出代码执行结果，并解释原因**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+
+  - ```js
+    let a = [];
+    let b = "0";
+    console.log(a == 0);
+    console.log(a == !a);
+    console.log(b == 0);
+    console.log(a == b);
+    // 写出执行结果，并解释原因
+    ```
 
 ## 📚 面试题大汇总
 
@@ -53,11 +70,37 @@
 
 ## ⏱️ 最近更新
 
-- **[第 2 题：实现`Promise.all`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
-- **[第 3 题：实现`Promise.all`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
-- **[第 4 题：实现`Promise.all`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
-- **[第 5 题：实现`Promise.all`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
-- **[第 6 题：实现`Promise.all`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/7)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/8)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/9)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/10)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/11)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/12)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/13)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/14)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/15)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/16)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/17)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/18)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/19)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/20)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/21)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/22)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/23)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/24)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/25)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/26)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/27)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/28)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/29)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/30)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/31)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/32)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/33)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/34)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/35)**
+- **[](https://github.com/lgwebdream/FE-Interview/issues/36)**
+
 
 ## 🏠 前端面试星球 Family
 

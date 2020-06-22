@@ -1,76 +1,312 @@
-# Javascript进阶面试题列表
+# Node题目汇总
 
-从基础到进阶，测试你有多了解JavaScript,刷新你的知识，或者帮助你coding面试！
+### React SSR实现过程？原理是什么？有什么注意事项？
 
-答案在问题下方的折叠部分，点击即可展开问题。
+分类：Node
 
----
+[答案&解析]()
 
-###### 1.输出是什么
+<br/>
 
-```js
-function sayHi() {
-  console.log(name)
-  console.log(age)
-  var name = 'Lydia'
-  let age = 21
-}
+### Node性能如何进监控以及优化？
 
-sayHi()
-```
+分类：Node
 
-- A: `Lydia` 和 `undefined`
-- B: `Lydia` 和 `ReferenceError`
-- C: `ReferenceError` 和 `21`
-- D: `undefined` 和 `ReferenceError`
+[答案&解析]()
 
-<details>
-  <summary><b>答案</b></summary>
-<p>
+<br/>
 
+### 说一下事件循环机制(node、浏览器)
 
-#### 答案: D
+公司：滴滴、伴鱼、高德、自如、虎扑、58
 
-在函数内部，我们首先通过 `var` 关键字声明了 `name` 变量。这意味着变量被提升了（内存空间在创建阶段就被设置好了），直到程序运行到定义变量位置之前默认值都是 `undefined`。因为当我们打印 `name` 变量时还没有执行到定义变量的位置，因此变量的值保持为 `undefined`。
+分类：Node、JavaScript
 
-通过 `let` 和 `const` 关键字声明的变量也会提升，但是和 `var` 不同，它们不会被<i>初始化</i>。在我们声明（初始化）之前是不能访问它们的。这个行为被称之为暂时性死区。当我们试图在声明之前访问它们时，JavaScript 将会抛出一个 `ReferenceError` 错误。
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/26)
 
-</p>
-</details>
+<br/>
 
----
+### 如何封装 node 中间件
 
-###### 2.输出是什么
+公司：滴滴、酷狗
 
-```js
-function sayHi() {
-  console.log(name)
-  console.log(age)
-  var name = 'Lydia'
-  let age = 21
-}
+分类：Node
 
-sayHi()
-```
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/27)
 
-- A: `Lydia` 和 `undefined`
-- B: `Lydia` 和 `ReferenceError`
-- C: `ReferenceError` 和 `21`
-- D: `undefined` 和 `ReferenceError`
+<br/>
 
-<details>
-  <summary><b>答案</b></summary>
-<p>
+### node 中间层怎样做的请求合并转发
 
+公司：易车
 
-#### 答案: D
+分类：Node
 
-在函数内部，我们首先通过 `var` 关键字声明了 `name` 变量。这意味着变量被提升了（内存空间在创建阶段就被设置好了），直到程序运行到定义变量位置之前默认值都是 `undefined`。因为当我们打印 `name` 变量时还没有执行到定义变量的位置，因此变量的值保持为 `undefined`。
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/28)
 
-通过 `let` 和 `const` 关键字声明的变量也会提升，但是和 `var` 不同，它们不会被<i>初始化</i>。在我们声明（初始化）之前是不能访问它们的。这个行为被称之为暂时性死区。当我们试图在声明之前访问它们时，JavaScript 将会抛出一个 `ReferenceError` 错误。
+<br/>
 
-</p>
-</details>
+### 是否熟悉 Node，主要做过哪些业务，平时用过什么包？
 
----
+公司：快手
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 手动实现一个 Promisify 函数
+
+公司：高德
+
+分类：Node、编程题
+
+[答案&解析]()
+
+<br/>
+
+### 介绍一下 node 核心模块（主要是 stream）
+
+公司：自如、菜鸟网络
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### node 如何做错误监控（运行时与其他）如何生成日志，日志等级
+
+公司：自如
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### Node 的适用场景以及优缺点是什么？
+
+公司：道一云
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### koa2 和 express 区别
+
+公司：菜鸟网络、海风教育
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 上传文件的 Content_Type 什么，node 如何拿到上传的文件内容(不适用第三方插件)？文件内容是一次行传输过去的么
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 介绍下 pm2，pm2 依据什么重启服务
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 什么是微服务，微服务跟单体应用的区别是啥，用微服务有啥好处？
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 使用过的 koa2 中间件，中间价的原理是什么
+
+公司：阿里、宝宝树
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### koa-body 原理
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 有没有写过中间件，介绍下自己写过的中间件
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 有没有涉及到 Cluster，说一下你的理解
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 有没有涉及到 Cluster，说一下你的理解
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### master 挂了的话 pm2 怎么处理
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### Node 如何和 MySQL 进行通信
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 服务端渲染 SSR
+
+公司：阿里
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### koa 中 response.send、response.rounded、response.json 发生了什么事，浏览器为什么能识别到它是一个 json 结构或是 html
+
+公司：滴滴
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### koa-bodyparser 如何解析 request
+
+公司：滴滴
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### pm2 怎么做进程管理，进程挂掉怎么处理
+
+公司：挖财
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 不用 pm2 怎么做进程管理
+
+公司：挖财
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### jsonp 方案需要服务端怎么配合
+
+公司：沪江
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### node 接口转发有无做什么优化？node 起服务如何保证稳定性，平缓降级，重启等
+
+公司：微医
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### 介绍 node 文件查找优先级
+
+公司：宝宝树
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### npm2 和 npm3+有什么区别
+
+公司：宝宝树
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### Node 不支持哪些 ES6 语法
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
+
+### node 如何进行跨域通信
+
+公司：高思教育
+
+分类：Node
+
+[答案&解析]()
+
+<br/>
 

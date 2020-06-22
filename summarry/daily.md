@@ -3473,15 +3473,220 @@ console.log(formatNumber("1234567890"));
 
 <br/>
 
+### Day79:Script放在底部还会影响dom的解析和渲染吗？Script内部的代码执行会等待css加载完吗？css加载会影响DOMContentLoaded么？
 
-### Day79:写出执行结果,并解释原因
-
-```js
-
+```html
+<!ODCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>京程一灯，每日一题</title>
+  </head>
+  <body>
+    <!--
+			1.Script放在底部还会影响dom的解析和渲染吗？
+			2.Script内部的代码执行会等待css加载完吗？
+			3.css加载会影响DOMContentLoaded么？
+		-->
+    <link href="https://cdn/css/bootstrap.css" ref="stylesheet">
+    <h1>京程一灯</h1>
+    <script>
+    	console.log("DOMContentLoaded");
+    </script>
+  </body>
+</html>
 ```
 
 ```js
+// 答案与解析
+1.script放在底部影响dom渲染。不会影响解析
+2.script内的代码执行会等待css加载.
+3.css代码若无script代码段，就不会影响DOMContentLoaded
+也可以借助Permance详细的查看HTML的整体渲染流程。这是你成为高级前端的第一步。
+```
 
+### Day80:写出代码执行结果并解释原因
+
+```js
+console.log(null == 0);
+console.log(null < 0);
+console.log(null < 0);
+```
+
+```js
+// 答案与解析
+- 1.在JavaScript中，null不等于零，也不是零。
+- 2.null只等于undefined 剩下它俩和谁都不等
+- 3.关系运算符，在设计上总是需要运算元尝试转为一个number，而相等运算符在设计上，则没有这方面的考虑。所以 计算null<=0 或者>=0的时候回触发Number(null)，它将被视为0（Number(null)== 0为true）
+```
+
+### Day81:写出代码正确打印结果，并解释为什么
+
+```js
+const arr1 = ['a', 'b', 'c'];
+const arr2 = ['b', 'c', 'a'];
+console.log(
+  arr1.sort() === arr1,
+  arr2.sort() == arr2,
+  arr1.sort() === arr2.sort()
+);console.log(null == 0);
+console.log(null < 0);
+console.log(null < 0);
+```
+
+```js
+// 答案
+true, true, false
+
+// 解析
+①array 的 sort 方法对原始数组进行排序，并返回对该数组的引用。调用 arr2.sort() 时，arr2 数组内的对象将会被排序。
+②当你比较对象时，数组的排序顺序并不重要。由于 arr1.sort() 和 arr1 指向内存中的同一对象，因此第一个相等测试返回 true。第二个比较也是如此：arr2.sort() 和 arr2 指向内存中的同一对象。
+③在第三个测试中，arr1.sort() 和 arr2.sort() 的排序顺序相同；但是，它们指向内存中的不同对象。因此，第三个测试的评估结果为 false。
+```
+
+### Day82:写出代码正确打印结果，并解释为什么
+
+```js
+// 京程一灯，每日一题
+const debounce = (fn,delay) => {
+  // 介绍防抖函数原理，并实现
+  // your code
+}
+const throttle = (fn,delay = 500) => {
+  // 介绍节流函数原理，并实现
+   // your code
+}
+```
+
+```js
+// 答案与解析
+/*
+	1）防抖函数原理：在事件被触发n秒后再执行回调，如果在这n秒内又被触发，则重新计时。
+	适用场景：
+		①按钮提交场景：防止多次提交按钮，只执行最后提交的一次
+		②服务端验证场景：表单验证需要服务端配合，只执行一段连续的输入事件的最后一次，还有搜索联想词功能类似
+*/
+// 手写简化版实现
+const debounce = (fn,delay) => {
+  let timer = null;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      fn.apply(this,args);
+    },delay)
+  }
+}
+
+/*
+	2）节流函数原理:规定在一个单位时间内，只能触发一次函数。如果这个单位时间内触发多次函数，只有一次生效。防抖是延迟执行，而节流是间隔执行，函数节流即每隔一段时间就执行一次
+	适用场景：
+		①拖拽场景：固定时间内只执行一次，防止超高频次触发位置变动
+		②缩放场景：监控浏览器resize
+		③动画场景：避免短时间内多次触发动画引起性能问题
+*/
+// 手写简化版实现
+// ①定时器实现
+const throttle = (fn,delay = 500) =>{
+  let flag = true;
+  return (...args) => {
+    if(!flag) return;
+    flag = false;
+    setTimeout(() => {
+      fn.apply(this,args);
+      flag = true;
+    },delay);
+  };
+}
+// ②时间戳实现
+const throttle = (fn,delay = 500) => {
+  let preTime = Date.now();
+  return (...args) => {
+    const nowTime = Date.now();
+    if(nowTime - preTime >= delay){
+      	preTime = Date.now();
+      	fn.apply(this,args);
+    }
+  }
+}
+```
+
+
+
+
+### Day83:写出执行结果,并解释原因
+
+```js
+let a = [];
+let b = "0";
+console.log(a == 0);
+console.log(a == !a);
+console.log(b == 0);
+console.log(a == b);
+```
+
+```js
+// 答案
+true true true false
+
+// 解析
+1) [] == 0 => true
+对象与原始类型值相等比较，对象类型会依照ToPrimitive规则转换成原始类型的值再进行比较。
+①[] == 0 =>[].valueOf().toSting() == 0 =>  '' == 0
+数组[]是对象类型，所以会进行ToPrimitive操作，即调用valueOf再调用toString,数组被转换为空字符串'',
+②'' == 0 => Number('') == 0 => 0 == 0 => true
+空字符串再和数字0比较时，比较的是原始类型的值,原始类型的值会转成数值再进行比较,所以最后得到true
+
+2）[] == ![] => true
+!的优先级高于==，所以先执行!，将[]转为boolean值，null、undefined、NaN以及空字符串('')取反都为true，其余都为false，所以![]为false
+[] == false => 如果有一个操作数是布尔值，则在比较相等性之前先将其转换为数值 => [] == 0 => 同第一问 => true
+
+3）"0" == 0 => true
+如果比较的是原始类型的值，原始类型的值会转成数值再进行比较
+Number('0') => 0 => 0 == 0 => true
+
+4）[] == "0" => false
+根据1）可以知道[] 被转换为了 '' , 所以'' == '0'，为false
+
+// 知识点
+一、ToString、ToNumber、ToBoolean、ToPrimitive转换规则：
+1）ToString
+这里所说的ToString可不是对象的toString方法，而是指其他类型的值转换为字符串类型的操作。
+看下null、undefined、布尔型、数字、数组、普通对象转换为字符串的规则：
+①null：转为"null"
+②undefined：转为"undefined"
+③布尔类型：true和false分别被转为"true"和"false"
+④数字类型：转为数字的字符串形式，如10转为"10"， 1e21转为"1e+21"
+⑤数组：转为字符串是将所有元素按照","连接起来，相当于调用数组的Array.prototype.join()方法，如[1, 2, 3]转为"1,2,3"，空数组[]转为空字符串，数组中的null或undefined，会被当做空字符串处理
+⑥普通对象：转为字符串相当于直接使用Object.prototype.toString()，返回"[object Object]"
+
+2）ToNumber
+ToNumber指其他类型转换为数字类型的操作。
+①null： 转为0
+②undefined：转为NaN
+③字符串：如果是纯数字形式，则转为对应的数字，空字符转为0, 否则一律按转换失败处理，转为NaN
+④布尔型：true和false被转为1和0
+⑤数组：数组首先会被转为原始类型，也就是ToPrimitive，然后在根据转换后的原始类型按照上面的规则处理，
+⑥对象：同数组的处理
+
+3）ToBoolean
+ToBoolean指其他类型转换为布尔类型的操作
+js中的假值只有false、null、undefined、空字符、0和NaN，其它值转为布尔型都为true。
+
+4）ToPrimitive
+ToPrimitive指对象类型类型（如：对象、数组）转换为原始类型的操作。
+①当对象类型需要被转为原始类型时，它会先查找对象的valueOf方法，如果valueOf方法返回原始类型的值，则ToPrimitive的结果就是这个值
+②如果valueOf不存在或者valueOf方法返回的不是原始类型的值，就会尝试调用对象的toString方法，也就是会遵循对象的ToString规则，然后使用toString的返回值作为ToPrimitive的结果。如果valueOf和toString都没有返回原始类型的值，则会抛出异常。
+③注意：对于不同类型的对象来说，ToPrimitive的规则有所不同，比如Date对象会先调用toString，可以参考ECMA规则：https://www.ecma-international.org/ecma-262/6.0/#sec-toprimitive
+	a.Number([])， 空数组会先调用valueOf，但返回的是数组本身，不是原始类型，所以会继续调用toString，得到空字符串，相当于Number('')，所以转换后的结果为"0"
+	b.同理，Number(['10'])相当于Number('10')，得到结果10
+  
+二、宽松相等(==)比较时的隐士转换规则
+宽松相等（==）和严格相等（===）的区别在于宽松相等会在比较中进行隐式转换。
+1）布尔类型和其他类型的相等比较，只要布尔类型参与比较，该布尔类型的值首先会被转换为数字类型
+2）数字类型和字符串类型的相等比较，当数字类型和字符串类型做相等比较时，字符串类型会被转换为数字类型
+3）当对象类型和原始类型做相等比较时，对象类型会依照ToPrimitive规则转换为原始类型
+4）当两个操作数都是对象时，JavaScript会比较其内部引用，当且仅当他们的引用指向内存中的相同对象（区域）时才相等，即他们在栈内存中的引用地址相同。
+5）ECMAScript规范中规定null和undefined之间互相宽松相等（==），并且也与其自身相等，但和其他所有的值都不宽松相等（==）
 ```
 
 分类：JavaScript
@@ -3490,4 +3695,20 @@ console.log(formatNumber("1234567890"));
 
 <br/>
 
+### Day84:请写出如下代码的打印结果
 
+```js
+var obj = {};
+var x = +obj.yideng?.name ?? '京程一灯';
+console.log(x);
+```
+
+```js
+// 答案鱼解析
+- 1.?省去过去判断key的麻烦。所以 obj.yideng?.name 遇到不存在的值返回undefined
+- 2.+undefined 强制转化number NaN
+- 3.NaN ?? 京程一灯 返回NaN。原因：??为空值合并操作符（是一个逻辑操作符，当左侧的表达式结果为 null 或者 undefined 时，其返回右侧表达式的结果，否则返回左侧表达式的结果。
+- https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
+```
+
+### Day85:
