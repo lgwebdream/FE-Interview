@@ -352,7 +352,7 @@ Promise.all = function (arr) {
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/239)
 
 <br/>
 
@@ -434,7 +434,7 @@ function getResult(data,n,sum){
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/233)
 
 <br/>
 
@@ -510,7 +510,7 @@ function getResult(data,n,sum){
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/225)
 
 <br/>
 
@@ -755,7 +755,7 @@ new new Foo().getName(); // ？
 
 分类：小程序
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/205)
 
 <br/>
 
@@ -1287,7 +1287,7 @@ new new Foo().getName(); // ？
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/154)
 
 <br/>
 
@@ -1297,7 +1297,7 @@ new new Foo().getName(); // ？
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/153)
 
 <br/>
 
@@ -2172,7 +2172,7 @@ console.log(obj);
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/316)
 
 <br/>
 
@@ -3061,7 +3061,7 @@ console.log(add(two(one()))); //3
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/398)
 
 <br/>
 
@@ -3071,7 +3071,7 @@ console.log(add(two(one()))); //3
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/397)
 
 <br/>
 
@@ -3284,7 +3284,7 @@ console.log(n.b.bx); //1
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/380)
 
 <br/>
 
@@ -3656,7 +3656,7 @@ new Promise((resolve, reject) => {
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/567)
 
 <br/>
 
@@ -3664,7 +3664,7 @@ new Promise((resolve, reject) => {
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/566)
 
 <br/>
 
@@ -3698,7 +3698,7 @@ new Promise((resolve, reject) => {
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/562)
 
 <br/>
 
@@ -3933,7 +3933,7 @@ d3,,,
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/540)
 
 <br/>
 
@@ -4153,7 +4153,7 @@ d3,,,
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/518)
 
 <br/>
 
@@ -4220,7 +4220,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/512)
 
 <br/>
 
@@ -4320,7 +4320,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/502)
 
 <br/>
 
@@ -4330,7 +4330,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/501)
 
 <br/>
 
@@ -4340,7 +4340,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/500)
 
 <br/>
 
@@ -4410,7 +4410,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/493)
 
 <br/>
 
@@ -4650,7 +4650,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/469)
 
 <br/>
 
@@ -5010,7 +5010,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/432)
 
 <br/>
 
@@ -5020,7 +5020,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/431)
 
 <br/>
 
@@ -5450,7 +5450,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/776)
 
 <br/>
 
@@ -5800,7 +5800,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/740)
 
 <br/>
 
@@ -7137,7 +7137,7 @@ console.log(5);
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/630)
 
 <br/>
 
@@ -7247,7 +7247,7 @@ console.log(s); // laohu2020
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/620)
 
 <br/>
 
@@ -7267,7 +7267,7 @@ console.log(s); // laohu2020
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/618)
 
 <br/>
 
@@ -7475,7 +7475,7 @@ console.log(s); // laohu2020
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/846)
 
 <br/>
 
@@ -7847,7 +7847,7 @@ function sort(n) {
 
 分类：小程序
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/811)
 
 <br/>
 
@@ -7958,7 +7958,7 @@ console.log(myCounter);
 
 分类：其它、编程题
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/801)
 
 <br/>
 
