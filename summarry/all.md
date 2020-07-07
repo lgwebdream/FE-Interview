@@ -7637,7 +7637,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/832)
 
 <br/>
 
