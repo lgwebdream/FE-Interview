@@ -1595,7 +1595,7 @@ let ydWithXGetter2 = {
 
 ### Day89:请问React调用机制一共对任务设置了几种优先级别？每种优先级都代表的具体含义是什么？在你开发过程中如果遇到影响主UI渲染卡顿的任务，你又是如何利用这些优先级的？
 
-分类：JavaScript
+分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/137)
 
@@ -1603,7 +1603,7 @@ let ydWithXGetter2 = {
 
 ### Day90:Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。
 
-分类：JavaScript
+分类：Vue
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/138)
 
@@ -1617,9 +1617,17 @@ Vue.set (object, propertyName, value)
 vm.$set (object, propertyName, value)
 ```
 
-分类：JavaScript
+分类：Vue
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/139)
+
+<br/>
+
+### Day92:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/904)
 
 <br/>
 
