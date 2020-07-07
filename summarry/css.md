@@ -483,7 +483,7 @@ E.border
 
 分类：Css
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/797)
 
 <br/>
 
@@ -491,7 +491,7 @@ E.border
 
 分类：Css
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/796)
 
 <br/>
 
@@ -512,7 +512,7 @@ E.border
 
 分类：Css
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/867)
 
 <br/>
 
@@ -522,6 +522,6 @@ E.border
 
 分类：Css
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/145)
 
 <br/>
