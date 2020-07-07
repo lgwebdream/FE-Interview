@@ -43,7 +43,7 @@
 
 ## ☕ 每日一题(2020.05.21)
 
-> 每日一题会在下午四点在交流群集中讨论，五点 Github、交流群同步更新答案
+> 每日一题会在下午4:00在交流群集中讨论，5:00 Github、交流群同步更新答案
 
 - **今日题目：既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/904)**
 
@@ -80,7 +80,7 @@
 - **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
 - **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
 
-## 🏠 前端面试星球 Family
+## 🏠 前端面试星球 Family    
 
 > 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
