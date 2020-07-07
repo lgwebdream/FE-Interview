@@ -4347,3 +4347,13 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/236)
 
 <br/>
+
+### 列举 3 种强制类型转换和 2 种隐式类型转换
+
+公司：58
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/812)
+
+<br/>
