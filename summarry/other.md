@@ -296,3 +296,13 @@ D.安全性更高，客户端支持防御 XSRF
 [答案&解析]()
 
 <br/>
+
+### 小程序里面打开页面最多多少，生命周期、常用的 api 列举几个？
+
+公司：饿了么、安居客
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/811)
+
+<br/>

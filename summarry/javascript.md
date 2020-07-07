@@ -134,7 +134,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/242)
 
 <br/>
 
@@ -144,17 +144,17 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/235)
 
 <br/>
 
 ### 什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
 
-公司：顺丰、新东方、高德、虎扑、微医、百分点、酷狗、新东方
+公司：顺丰、新东方、高德、虎扑、微医、百分点、酷狗
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/903)
 
 <br/>
 
@@ -162,7 +162,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/234)
 
 <br/>
 
@@ -172,7 +172,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/230)
 
 <br/>
 
@@ -182,7 +182,7 @@ Promise.all = function (arr) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/215)
 
 <br/>
 
@@ -222,7 +222,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/213)
 
 <br/>
 
@@ -243,7 +243,7 @@ new new Foo().getName(); // ？
 
 分类：
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/211)
 
 <br/>
 
@@ -253,7 +253,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/210)
 
 <br/>
 
@@ -263,7 +263,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/208)
 
 <br/>
 
@@ -273,7 +273,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/204)
 
 <br/>
 
@@ -283,17 +283,17 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/203)
 
 <br/>
 
-### 移动设备安卓根 iOS 的软键盘弹出的处理方式有什么不同
+### 移动设备安卓与 iOS 的软键盘弹出的处理方式有什么不同
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/202)
 
 <br/>
 
@@ -303,7 +303,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/200)
 
 <br/>
 
@@ -321,7 +321,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/199)
 
 <br/>
 
@@ -331,7 +331,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/198)
 
 <br/>
 
@@ -341,7 +341,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/197)
 
 <br/>
 
@@ -351,7 +351,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/195)
 
 <br/>
 
@@ -361,7 +361,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/189)
 
 <br/>
 
@@ -371,7 +371,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/188)
 
 <br/>
 
@@ -385,7 +385,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/185)
 
 <br/>
 
@@ -395,7 +395,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/175)
 
 <br/>
 
@@ -405,7 +405,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/174)
 
 <br/>
 
@@ -415,7 +415,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/173)
 
 <br/>
 
@@ -435,7 +435,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/171)
 
 <br/>
 
@@ -445,7 +445,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/170)
 
 <br/>
 
@@ -455,7 +455,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/169)
 
 <br/>
 
@@ -465,7 +465,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/168)
 
 <br/>
 
@@ -475,7 +475,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/163)
 
 <br/>
 
@@ -485,7 +485,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/162)
 
 <br/>
 
@@ -495,7 +495,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/161)
 
 <br/>
 
@@ -505,7 +505,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/160)
 
 <br/>
 
@@ -520,7 +520,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/159)
 
 <br/>
 
@@ -535,7 +535,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/158)
 
 <br/>
 
@@ -545,7 +545,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/156)
 
 <br/>
 
@@ -555,7 +555,7 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/155)
 
 <br/>
 
@@ -578,7 +578,7 @@ var obj = {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/152)
 
 <br/>
 
@@ -598,7 +598,7 @@ console.log(b); // ?
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/149)
 
 <br/>
 
@@ -616,7 +616,7 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/148)
 
 <br/>
 
@@ -626,7 +626,7 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/147)
 
 <br/>
 
@@ -645,7 +645,7 @@ function sortVersion(versions) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/146)
 
 <br/>
 
@@ -665,7 +665,7 @@ let urls = ['http://dcdapp.com', …];
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/144)
 
 <br/>
 
@@ -699,7 +699,7 @@ console.log("scripts end");
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/142)
 
 <br/>
 
@@ -716,7 +716,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/141)
 
 <br/>
 
@@ -726,7 +726,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScirpt
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/359)
 
 <br/>
 
@@ -736,7 +736,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/354)
 
 <br/>
 
@@ -746,7 +746,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/350)
 
 <br/>
 
@@ -756,7 +756,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/348)
 
 <br/>
 
@@ -766,7 +766,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/343)
 
 <br/>
 
@@ -776,7 +776,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/342)
 
 <br/>
 
@@ -786,7 +786,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/338)
 
 <br/>
 
@@ -796,7 +796,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/337)
 
 <br/>
 
@@ -806,7 +806,7 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/336)
 
 <br/>
 
@@ -825,7 +825,7 @@ A.prototype.getName = function () {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/333)
 
 <br/>
 
@@ -841,7 +841,7 @@ var obj = {};
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/332)
 
 <br/>
 
@@ -865,7 +865,7 @@ fn1();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/331)
 
 <br/>
 
@@ -906,7 +906,7 @@ console.log(int);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/330)
 
 <br/>
 
@@ -923,7 +923,7 @@ console.log(int);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/329)
 
 <br/>
 
@@ -945,7 +945,7 @@ arrys.forEach(function (fn) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/328)
 
 <br/>
 
@@ -955,7 +955,7 @@ arrys.forEach(function (fn) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/325)
 
 <br/>
 
@@ -965,7 +965,7 @@ arrys.forEach(function (fn) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/324)
 
 <br/>
 
@@ -994,7 +994,7 @@ getPathSum(node); // return 7 = (1+2) + (1+3)
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/323)
 
 <br/>
 
@@ -1015,7 +1015,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/324)
 
 <br/>
 
@@ -1025,7 +1025,7 @@ console.log(obj);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/319)
 
 <br/>
 
@@ -1035,7 +1035,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/318)
 
 <br/>
 
@@ -1045,7 +1045,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/317)
 
 <br/>
 
@@ -1055,7 +1055,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
@@ -1065,7 +1065,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/313)
 
 <br/>
 
@@ -1075,7 +1075,7 @@ console.log(obj);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/310)
 
 <br/>
 
@@ -1085,7 +1085,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/309)
 
 <br/>
 
@@ -1103,7 +1103,7 @@ console.log(b); // ?
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/303)
 
 <br/>
 
@@ -1123,7 +1123,7 @@ a.b();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/302)
 
 <br/>
 
@@ -1143,7 +1143,7 @@ function c() {}
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/301)
 
 <br/>
 
@@ -1166,7 +1166,7 @@ a(20);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/300)
 
 <br/>
 
@@ -1203,7 +1203,7 @@ Promise.resolve().then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/299)
 
 <br/>
 
@@ -1218,7 +1218,7 @@ Promise.resolve().then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/298)
 
 <br/>
 
@@ -1233,10 +1233,9 @@ typeof typeof typeof [];
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/297)
 
 <br/>
-
 
 
 ### 说一下什么是死锁
@@ -1245,7 +1244,7 @@ typeof typeof typeof [];
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/295)
 
 <br/>
 
@@ -1269,7 +1268,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/294)
 
 <br/>
 
@@ -1279,7 +1278,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/293)
 
 <br/>
 
@@ -1289,7 +1288,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/292)
 
 <br/>
 
@@ -1299,7 +1298,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/279)
 
 <br/>
 
@@ -1309,7 +1308,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/277)
 
 <br/>
 
@@ -1319,7 +1318,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/276)
 
 <br/>
 
@@ -1329,7 +1328,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/272)
 
 <br/>
 
@@ -1339,7 +1338,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/269)
 
 <br/>
 
@@ -1349,7 +1348,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/268)
 
 <br/>
 
@@ -1359,7 +1358,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/267)
 
 <br/>
 
@@ -1369,7 +1368,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/264)
 
 <br/>
 
@@ -1379,7 +1378,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/258)
 
 <br/>
 
@@ -1387,7 +1386,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/257)
 
 <br/>
 
@@ -1395,7 +1394,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/255)
 
 <br/>
 
@@ -1403,7 +1402,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/244)
 
 <br/>
 
@@ -1413,7 +1412,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/410)
 
 <br/>
 
@@ -1423,7 +1422,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/408)
 
 <br/>
 
@@ -1433,7 +1432,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/407)
 
 <br/>
 
@@ -1443,7 +1442,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/406)
 
 <br/>
 
@@ -1453,7 +1452,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/399)
 
 <br/>
 
@@ -1461,7 +1460,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/395)
 
 <br/>
 
@@ -1471,7 +1470,7 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/392)
 
 <br/>
 
@@ -1500,7 +1499,7 @@ new Promise((res) => res()).then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/391)
 
 <br/>
 
@@ -1532,7 +1531,7 @@ new Foo().getName();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/390)
 
 <br/>
 
@@ -1540,7 +1539,7 @@ new Foo().getName();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/387)
 
 <br/>
 
@@ -1568,7 +1567,7 @@ console.log(n.b.bx); //1
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/386)
 
 <br/>
 
@@ -1578,7 +1577,7 @@ console.log(n.b.bx); //1
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/384)
 
 <br/>
 
@@ -1588,7 +1587,7 @@ console.log(n.b.bx); //1
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/382)
 
 <br/>
 
@@ -1598,7 +1597,7 @@ console.log(n.b.bx); //1
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/378)
 
 <br/>
 
@@ -1624,7 +1623,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/376)
 
 <br/>
 
@@ -1632,7 +1631,7 @@ console.log(test());
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/375)
 
 <br/>
 
@@ -1640,7 +1639,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/374)
 
 <br/>
 
@@ -1650,7 +1649,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/373)
 
 <br/>
 
@@ -1658,7 +1657,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/372)
 
 <br/>
 
@@ -1666,7 +1665,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/371)
 
 <br/>
 
@@ -1674,7 +1673,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/370)
 
 <br/>
 
@@ -1684,7 +1683,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/369)
 
 <br/>
 
@@ -1692,7 +1691,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/368)
 
 <br/>
 
@@ -1700,7 +1699,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/367)
 
 <br/>
 
@@ -1708,7 +1707,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/366)
 
 <br/>
 
@@ -1716,7 +1715,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/592)
 
 <br/>
 
@@ -1726,7 +1725,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/590)
 
 <br/>
 
@@ -1736,7 +1735,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/589)
 
 <br/>
 
@@ -1744,7 +1743,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/588)
 
 <br/>
 
@@ -1752,7 +1751,7 @@ console.log(test());
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/587)
 
 <br/>
 
@@ -1760,7 +1759,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/586)
 
 <br/>
 
@@ -1768,15 +1767,15 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/585)
 
 <br/>
 
-### 函数中的 thisy 有几种
+### 函数中的 this 有几种
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/584)
 
 <br/>
 
@@ -1784,7 +1783,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/583)
 
 <br/>
 
@@ -1792,7 +1791,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/582)
 
 <br/>
 
@@ -1800,7 +1799,7 @@ console.log(test());
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/581)
 
 <br/>
 
@@ -1820,7 +1819,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/580)
 
 <br/>
 
@@ -1828,7 +1827,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/579)
 
 <br/>
 
@@ -1836,7 +1835,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/570)
 
 <br/>
 
@@ -1844,7 +1843,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/569)
 
 <br/>
 
@@ -1852,7 +1851,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/568)
 
 <br/>
 
@@ -1860,7 +1859,7 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/563)
 
 <br/>
 
@@ -1879,7 +1878,7 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/561)
 
 <br/>
 
@@ -1895,7 +1894,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/560)
 
 <br/>
 
@@ -1905,7 +1904,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/539)
 
 <br/>
 
@@ -1915,7 +1914,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/538)
 
 <br/>
 
@@ -1925,7 +1924,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/537)
 
 <br/>
 
@@ -1935,7 +1934,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/536)
 
 <br/>
 
@@ -1945,7 +1944,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/535)
 
 <br/>
 
@@ -1955,7 +1954,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/534)
 
 <br/>
 
@@ -1965,7 +1964,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/533)
 
 <br/>
 
@@ -1975,7 +1974,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/532)
 
 <br/>
 
@@ -1985,7 +1984,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/530)
 
 <br/>
 
@@ -1995,7 +1994,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/526)
 
 <br/>
 
@@ -2005,7 +2004,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/524)
 
 <br/>
 
@@ -2015,7 +2014,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/523)
 
 <br/>
 
@@ -2025,7 +2024,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/522)
 
 <br/>
 
@@ -2035,7 +2034,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/515)
 
 <br/>
 
@@ -2045,7 +2044,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/530)
 
 <br/>
 
@@ -2055,7 +2054,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/499)
 
 <br/>
 
@@ -2065,7 +2064,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/496)
 
 <br/>
 
@@ -2075,7 +2074,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/495)
 
 <br/>
 
@@ -2085,7 +2084,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/494)
 
 <br/>
 
@@ -2095,7 +2094,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/488)
 
 <br/>
 
@@ -2105,7 +2104,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/487)
 
 <br/>
 
@@ -2115,7 +2114,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/483)
 
 <br/>
 
@@ -2125,7 +2124,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/482)
 
 <br/>
 
@@ -2135,7 +2134,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/477)
 
 <br/>
 
@@ -2145,7 +2144,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/475)
 
 <br/>
 
@@ -2155,7 +2154,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/474)
 
 <br/>
 
@@ -2165,7 +2164,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/473)
 
 <br/>
 
@@ -2175,7 +2174,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/472)
 
 <br/>
 
@@ -2185,7 +2184,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/471)
 
 <br/>
 
@@ -2195,7 +2194,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/462)
 
 <br/>
 
@@ -2205,7 +2204,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/461)
 
 <br/>
 
@@ -2215,7 +2214,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/460)
 
 <br/>
 
@@ -2225,7 +2224,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/456)
 
 <br/>
 
@@ -2235,17 +2234,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
-
-<br/>
-
-### 小程序里面可以打开的页面是多少
-
-公司：饿了么
-
-分类：小程序
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/455)
 
 <br/>
 
@@ -2255,7 +2244,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/448)
 
 <br/>
 
@@ -2265,7 +2254,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/447)
 
 <br/>
 
@@ -2275,7 +2264,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/446)
 
 <br/>
 
@@ -2285,7 +2274,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/445)
 
 <br/>
 
@@ -2295,7 +2284,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/444)
 
 <br/>
 
@@ -2305,7 +2294,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/442)
 
 <br/>
 
@@ -2315,7 +2304,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/436)
 
 <br/>
 
@@ -2325,7 +2314,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/434)
 
 <br/>
 
@@ -2335,7 +2324,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/433)
 
 <br/>
 
@@ -2345,7 +2334,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/429)
 
 <br/>
 
@@ -2355,7 +2344,7 @@ d3,,,
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/428)
 
 <br/>
 
@@ -2365,7 +2354,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/427)
 
 <br/>
 
@@ -2375,7 +2364,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/423)
 
 <br/>
 
@@ -2385,7 +2374,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/421)
 
 <br/>
 
@@ -2395,17 +2384,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
-
-<br/>
-
-### 介绍 koa2，原理是什么？
-
-公司：兑吧、海风教育
-
-分类：JavaScript
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/420)
 
 <br/>
 
@@ -2415,7 +2394,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/418)
 
 <br/>
 
@@ -2425,7 +2404,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/417)
 
 <br/>
 
@@ -2435,7 +2414,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/416)
 
 <br/>
 
@@ -2445,7 +2424,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/415)
 
 <br/>
 
@@ -2455,7 +2434,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/613)
 
 <br/>
 
@@ -2465,7 +2444,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/612)
 
 <br/>
 
@@ -2475,7 +2454,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/611)
 
 <br/>
 
@@ -2485,7 +2464,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/610)
 
 <br/>
 
@@ -2495,7 +2474,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/609)
 
 <br/>
 
@@ -2505,7 +2484,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/608)
 
 <br/>
 
@@ -2515,7 +2494,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/607)
 
 <br/>
 
@@ -2525,7 +2504,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/605)
 
 <br/>
 
@@ -2535,7 +2514,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/604)
 
 <br/>
 
@@ -2545,7 +2524,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/603)
 
 <br/>
 
@@ -2555,7 +2534,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/602)
 
 <br/>
 
@@ -2565,7 +2544,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/779)
 
 <br/>
 
@@ -2575,7 +2554,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/778)
 
 <br/>
 
@@ -2585,17 +2564,7 @@ d3,,,
 
 分类：JavaScript、编程题
 
-[答案&解析]()
-
-<br/>
-
-### 如何对相对路径引用进行优化
-
-公司：宝宝树
-
-分类：JavaScript
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/775)
 
 <br/>
 
@@ -2605,7 +2574,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/770)
 
 <br/>
 
@@ -2615,7 +2584,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/769)
 
 <br/>
 
@@ -2625,7 +2594,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/768)
 
 <br/>
 
@@ -2635,7 +2604,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/767)
 
 <br/>
 
@@ -2645,7 +2614,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/765)
 
 <br/>
 
@@ -2655,7 +2624,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/763)
 
 <br/>
 
@@ -2665,7 +2634,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/762)
 
 <br/>
 
@@ -2675,7 +2644,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/761)
 
 <br/>
 
@@ -2685,7 +2654,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/760)
 
 <br/>
 
@@ -2695,7 +2664,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/759)
 
 <br/>
 
@@ -2705,7 +2674,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/758)
 
 <br/>
 
@@ -2715,7 +2684,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/757)
 
 <br/>
 
@@ -2725,7 +2694,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/755)
 
 <br/>
 
@@ -2735,7 +2704,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/754)
 
 <br/>
 
@@ -2745,7 +2714,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/753)
 
 <br/>
 
@@ -2755,7 +2724,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/752)
 
 <br/>
 
@@ -2765,7 +2734,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/743)
 
 <br/>
 
@@ -2775,7 +2744,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/742)
 
 <br/>
 
@@ -2785,7 +2754,7 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/741)
 
 <br/>
 
@@ -2818,7 +2787,7 @@ Person("Smith").sleepFirst(5).eat("supper");
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/738)
 
 <br/>
 
@@ -2838,7 +2807,7 @@ var yideng = {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/737)
 
 <br/>
 
@@ -2860,7 +2829,7 @@ function test() {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/736)
 
 <br/>
 
@@ -2873,7 +2842,7 @@ typeof x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/735)
 
 <br/>
 
@@ -2888,7 +2857,7 @@ typeof x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/734)
 
 <br/>
 
@@ -2904,7 +2873,7 @@ x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/733)
 
 <br/>
 
@@ -2919,7 +2888,7 @@ new f() instanceof f;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/732)
 
 <br/>
 
@@ -2935,7 +2904,7 @@ console.log(yideng.a);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/731)
 
 <br/>
 
@@ -2952,7 +2921,7 @@ if (yideng) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/730)
 
 <br/>
 
@@ -2971,7 +2940,7 @@ console.log(result.a);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/729)
 
 <br/>
 
@@ -3013,7 +2982,7 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/728)
 
 <br/>
 
@@ -3032,7 +3001,7 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/727)
 
 <br/>
 
@@ -3049,7 +3018,7 @@ console.log(result);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/726)
 
 <br/>
 
@@ -3066,7 +3035,7 @@ while (1) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/725)
 
 <br/>
 
@@ -3080,7 +3049,7 @@ while (1) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/724)
 
 <br/>
 
@@ -3092,7 +3061,7 @@ while (1) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/723)
 
 <br/>
 
@@ -3104,7 +3073,7 @@ while (1) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/722)
 
 <br/>
 
@@ -3118,7 +3087,7 @@ console.log("✈️".length);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/721)
 
 <br/>
 
@@ -3132,7 +3101,7 @@ console.log(yidenga === yidengb);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/720)
 
 <br/>
 
@@ -3155,7 +3124,7 @@ yideng.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/719)
 
 <br/>
 
@@ -3169,7 +3138,7 @@ var yi = new Date("2018-08-20"),
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/718)
 
 <br/>
 
@@ -3187,7 +3156,7 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/717)
 
 <br/>
 
@@ -3199,7 +3168,7 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/716)
 
 <br/>
 
@@ -3214,7 +3183,7 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/715)
 
 <br/>
 
@@ -3234,7 +3203,7 @@ yideng(1, 1, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/714)
 
 <br/>
 
@@ -3256,7 +3225,7 @@ if (flag) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/713)
 
 <br/>
 
@@ -3270,7 +3239,7 @@ console.log(min < max);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/712)
 
 <br/>
 
@@ -3278,7 +3247,7 @@ console.log(min < max);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/711)
 
 <br/>
 
@@ -3286,7 +3255,7 @@ console.log(min < max);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/710)
 
 <br/>
 
@@ -3294,7 +3263,7 @@ console.log(min < max);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/709)
 
 <br/>
 
@@ -3302,7 +3271,7 @@ console.log(min < max);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/708)
 
 <br/>
 
@@ -3310,7 +3279,7 @@ console.log(min < max);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/707)
 
 <br/>
 
@@ -3324,7 +3293,7 @@ console.log("hello" + (1 < 2) ? "word" : "me");
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/700)
 
 <br/>
 
@@ -3342,7 +3311,7 @@ console.log(a, b);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/699)
 
 <br/>
 
@@ -3360,7 +3329,7 @@ if ([] instanceof Object) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/698)
 
 <br/>
 
@@ -3378,7 +3347,7 @@ console.log(obj.name);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/697)
 
 <br/>
 
@@ -3396,7 +3365,7 @@ say("hello Lili");
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/696)
 
 <br/>
 
@@ -3418,7 +3387,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/695)
 
 <br/>
 
@@ -3428,7 +3397,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/689)
 
 <br/>
 
@@ -3438,7 +3407,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/688)
 
 <br/>
 
@@ -3448,7 +3417,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/687)
 
 <br/>
 
@@ -3466,7 +3435,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/685)
 
 <br/>
 
@@ -3476,7 +3445,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/683)
 
 <br/>
 
@@ -3486,7 +3455,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/682)
 
 <br/>
 
@@ -3496,7 +3465,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/681)
 
 <br/>
 
@@ -3506,7 +3475,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/674)
 
 <br/>
 
@@ -3514,7 +3483,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/673)
 
 <br/>
 
@@ -3522,7 +3491,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/672)
 
 <br/>
 
@@ -3530,7 +3499,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/671)
 
 <br/>
 
@@ -3538,7 +3507,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/670)
 
 <br/>
 
@@ -3548,7 +3517,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/666)
 
 <br/>
 
@@ -3556,7 +3525,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/665)
 
 <br/>
 
@@ -3564,7 +3533,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/664)
 
 <br/>
 
@@ -3572,7 +3541,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/660)
 
 <br/>
 
@@ -3580,7 +3549,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/659)
 
 <br/>
 
@@ -3588,7 +3557,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/655)
 
 <br/>
 
@@ -3596,7 +3565,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/651)
 
 <br/>
 
@@ -3604,7 +3573,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/650)
 
 <br/>
 
@@ -3612,7 +3581,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/648)
 
 <br/>
 
@@ -3622,7 +3591,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/647)
 
 <br/>
 
@@ -3632,7 +3601,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/643)
 
 <br/>
 
@@ -3642,7 +3611,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/642)
 
 <br/>
 
@@ -3652,7 +3621,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/641)
 
 <br/>
 
@@ -3662,7 +3631,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/640)
 
 <br/>
 
@@ -3672,7 +3641,7 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/639)
 
 <br/>
 
@@ -3698,7 +3667,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/638)
 
 <br/>
 
@@ -3708,7 +3677,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/637)
 
 <br/>
 
@@ -3718,7 +3687,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/636)
 
 <br/>
 
@@ -3728,7 +3697,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/635)
 
 <br/>
 
@@ -3738,7 +3707,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/634)
 
 <br/>
 
@@ -3748,7 +3717,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/633)
 
 <br/>
 
@@ -3758,7 +3727,7 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/627)
 
 <br/>
 
@@ -3768,7 +3737,7 @@ console.log(5);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/624)
 
 <br/>
 
@@ -3788,7 +3757,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/622)
 
 <br/>
 
@@ -3798,7 +3767,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/621)
 
 <br/>
 
@@ -3808,7 +3777,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/619)
 
 <br/>
 
@@ -3818,7 +3787,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/617)
 
 <br/>
 
@@ -3828,7 +3797,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/862)
 
 <br/>
 
@@ -3838,7 +3807,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/861)
 
 <br/>
 
@@ -3848,7 +3817,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/860)
 
 <br/>
 
@@ -3858,7 +3827,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/859)
 
 <br/>
 
@@ -3868,7 +3837,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/858)
 
 <br/>
 
@@ -3878,7 +3847,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/854)
 
 <br/>
 
@@ -3888,7 +3857,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/853)
 
 <br/>
 
@@ -3898,7 +3867,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/852)
 
 <br/>
 
@@ -3908,7 +3877,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/850)
 
 <br/>
 
@@ -3918,7 +3887,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/849)
 
 <br/>
 
@@ -3936,7 +3905,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript、Vue、React、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/848)
 
 <br/>
 
@@ -3946,7 +3915,7 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/847)
 
 <br/>
 
@@ -3966,7 +3935,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/844)
 
 <br/>
 
@@ -3976,7 +3945,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/841)
 
 <br/>
 
@@ -3986,7 +3955,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/838)
 
 <br/>
 
@@ -3996,7 +3965,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/837)
 
 <br/>
 
@@ -4006,7 +3975,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/836)
 
 <br/>
 
@@ -4016,7 +3985,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/832)
 
 <br/>
 
@@ -4026,7 +3995,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/831)
 
 <br/>
 
@@ -4036,7 +4005,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/830)
 
 <br/>
 
@@ -4046,7 +4015,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/829)
 
 <br/>
 
@@ -4056,7 +4025,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/825)
 
 <br/>
 
@@ -4066,7 +4035,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/822)
 
 <br/>
 
@@ -4076,17 +4045,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
-
-<br/>
-
-### 小程序里面打开页面最多多少，生命周期、常用的 api 列举几个？
-
-公司：安居客
-
-分类：小程序
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/814)
 
 <br/>
 
@@ -4096,7 +4055,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/809)
 
 <br/>
 
@@ -4106,7 +4065,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/808)
 
 <br/>
 
@@ -4127,7 +4086,7 @@ console.log(myCounter);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/802)
 
 <br/>
 
@@ -4143,7 +4102,7 @@ function A() {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/800)
 
 <br/>
 
@@ -4175,7 +4134,7 @@ new Promise(function (resolve, reject) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/799)
 
 <br/>
 
@@ -4195,7 +4154,7 @@ a();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/794)
 
 <br/>
 
@@ -4212,7 +4171,7 @@ alert(m.v);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/793)
 
 <br/>
 
@@ -4235,7 +4194,7 @@ function yideng() {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/792)
 
 <br/>
 
@@ -4256,7 +4215,7 @@ person.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/790)
 
 <br/>
 
@@ -4264,7 +4223,7 @@ person.method(fn, 1);
 
 分类：数据结构与算反
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/789)
 
 <br/>
 
@@ -4272,7 +4231,7 @@ person.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/783)
 
 <br/>
 
@@ -4280,7 +4239,7 @@ person.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/871)
 
 <br/>
 
@@ -4290,7 +4249,7 @@ person.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/866)
 
 <br/>
 
@@ -4307,7 +4266,7 @@ if([1] == [1]){console.log(4)};
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/865)
 
 <br/>
 
@@ -4350,7 +4309,7 @@ obj.say();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/864)
 
 <br/>
 
@@ -4375,7 +4334,7 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/863)
 
 <br/>
 
@@ -4385,6 +4344,6 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/236)
 
 <br/>
