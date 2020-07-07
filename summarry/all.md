@@ -715,7 +715,7 @@ new new Foo().getName(); // ？
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/209)
 
 <br/>
 
@@ -2272,7 +2272,7 @@ console.log(obj);
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/306)
 
 <br/>
 
@@ -2777,7 +2777,7 @@ console.log(add(two(one()))); //3
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/266)
 
 <br/>
 
@@ -2827,7 +2827,7 @@ console.log(add(two(one()))); //3
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/261)
 
 <br/>
 
@@ -2837,7 +2837,7 @@ console.log(add(two(one()))); //3
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/260)
 
 <br/>
 
@@ -3109,7 +3109,7 @@ console.log(add(two(one()))); //3
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/393)
 
 <br/>
 
@@ -3448,7 +3448,7 @@ console.log(test());
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/591)
 
 <br/>
 
@@ -3674,7 +3674,7 @@ new Promise((resolve, reject) => {
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/565)
 
 <br/>
 
@@ -3682,7 +3682,7 @@ new Promise((resolve, reject) => {
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/564)
 
 <br/>
 
@@ -3743,7 +3743,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/559)
 
 <br/>
 
@@ -3753,7 +3753,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/558)
 
 <br/>
 
@@ -3763,7 +3763,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/557)
 
 <br/>
 
@@ -3773,7 +3773,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/556)
 
 <br/>
 
@@ -3783,7 +3783,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/555)
 
 <br/>
 
@@ -3793,7 +3793,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/554)
 
 <br/>
 
@@ -3813,7 +3813,7 @@ d3,,,
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/552)
 
 <br/>
 
@@ -4290,7 +4290,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/505)
 
 <br/>
 
@@ -4300,7 +4300,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/504)
 
 <br/>
 
@@ -4690,7 +4690,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/465)
 
 <br/>
 
@@ -4700,7 +4700,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/464)
 
 <br/>
 
@@ -4710,7 +4710,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/463)
 
 <br/>
 
@@ -5340,7 +5340,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/597)
 
 <br/>
 
@@ -5490,7 +5490,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/772)
 
 <br/>
 
@@ -5500,7 +5500,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/771)
 
 <br/>
 
@@ -6377,7 +6377,7 @@ console.log(min < max);
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/702)
 
 <br/>
 
@@ -7677,7 +7677,7 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/828)
 
 <br/>
 
@@ -8193,7 +8193,7 @@ person.method(fn, 1);
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/869)
 
 <br/>
 
