@@ -2646,7 +2646,7 @@ console.log(arr2.slice(-1));
 // 答案
 3 ["a","b","c"] 3 ["a","b","c"]
 
-//解析
+### 解析
 这个题其实主要就是考察的reverse会返回该数组的引用，但是容易被迷惑，导致答错，如果知道这个点，就不会掉坑里了。
 
 1）reverse
@@ -2665,7 +2665,7 @@ slice() 方法返回一个新的数组对象，这一对象是一个由 begin �
 
 <br/>
 
-### Day76:写出执行结果,并解释原因
+### Day75:写出执行结果,并解释原因
 
 ```js
 var F = function(){}
@@ -2710,7 +2710,7 @@ f并不是Function的实例，因为它本来就不是构造函数，调用的�
 
 <br/>
 
-### Day77:写出执行结果,并解释原因
+### Day76:写出执行结果,并解释原因
 
 ```js
 const a = [1,2,3],
@@ -2767,7 +2767,7 @@ console.log([a == b, a === b, a > c, a < c, d > e]);
 <br/>
 
 
-### Day78:补充代码，使代码可以正确执行
+### Day77:补充代码，使代码可以正确执行
 
 ```js
 const str = '1234567890';
@@ -2838,7 +2838,7 @@ function formatNumber(str){
 }
 console.log(formatNumber("1234567890"));
 
- // ②还可以使用IntL对象
+// ②还可以使用IntL对象
 // Intl 对象是 ECMAScript 国际化 API 的一个命名空间，它提供了精确的字符串对比，数字格式化，日期和时间格式化。Collator，NumberFormat 和 DateTimeFormat 对象的构造函数是 Intl 对象的属性。
 function formatNumber(str){
   return new Intl.NumberFormat().format(str);
@@ -2852,7 +2852,7 @@ console.log(formatNumber("1234567890"));
 
 <br/>
 
-### Day79:Script放在底部还会影响dom的解析和渲染吗？Script内部的代码执行会等待css加载完吗？css加载会影响DOMContentLoaded么？
+### Day78:Script放在底部还会影响dom的解析和渲染吗？Script内部的代码执行会等待css加载完吗？css加载会影响DOMContentLoaded么？
 
 ```html
 <!ODCTYPE html>
@@ -2884,22 +2884,24 @@ console.log(formatNumber("1234567890"));
 也可以借助Permance详细的查看HTML的整体渲染流程。这是你成为高级前端的第一步。
 ```
 
-### Day80:写出代码执行结果并解释原因
+### Day79:写出下面代码null和0进行比较的代码执行结果，并解释原因
 
 ```js
 console.log(null == 0);
-console.log(null < 0);
+console.log(null <= 0);
 console.log(null < 0);
 ```
 
 ```js
 // 答案与解析
+false true false
+
 - 1.在JavaScript中，null不等于零，也不是零。
 - 2.null只等于undefined 剩下它俩和谁都不等
 - 3.关系运算符，在设计上总是需要运算元尝试转为一个number，而相等运算符在设计上，则没有这方面的考虑。所以 计算null<=0 或者>=0的时候回触发Number(null)，它将被视为0（Number(null)== 0为true）
 ```
 
-### Day81:写出代码正确打印结果，并解释为什么
+### Day80:关于数组sort，下面代码的正确打印结果是什么，并解释原因
 
 ```js
 const arr1 = ['a', 'b', 'c'];
@@ -2908,9 +2910,7 @@ console.log(
   arr1.sort() === arr1,
   arr2.sort() == arr2,
   arr1.sort() === arr2.sort()
-);console.log(null == 0);
-console.log(null < 0);
-console.log(null < 0);
+);
 ```
 
 ```js
@@ -2923,7 +2923,7 @@ true, true, false
 ③在第三个测试中，arr1.sort() 和 arr2.sort() 的排序顺序相同；但是，它们指向内存中的不同对象。因此，第三个测试的评估结果为 false。
 ```
 
-### Day82:写出代码正确打印结果，并解释为什么
+### Day81:介绍防抖与节流的原理，并动手实现
 
 ```js
 // 京程一灯，每日一题
@@ -2992,7 +2992,7 @@ const throttle = (fn,delay = 500) => {
 
 
 
-### Day83:写出执行结果,并解释原因
+### Day82:关于隐式转换，下面代码的执行结果是什么？并解释原因
 
 ```js
 let a = [];
@@ -3074,7 +3074,7 @@ ToPrimitive指对象类型类型（如：对象、数组）转换为原始类型
 
 <br/>
 
-### Day84:请写出如下代码的打印结果
+### Day83:请写出如下代码的打印结果
 
 ```js
 var obj = {};
@@ -3089,5 +3089,173 @@ console.log(x);
 - 3.NaN ?? 京程一灯 返回NaN。原因：??为空值合并操作符（是一个逻辑操作符，当左侧的表达式结果为 null 或者 undefined 时，其返回右侧表达式的结果，否则返回左侧表达式的结果。
 - https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator
 ```
+分类：JavaScript
 
-### Day85:
+[答案&解析]()
+
+<br/>
+
+### Day84:对于length下面代码的输出结果是什么？并解释原因
+
+```js
+ function foo(){
+   console.log(length);
+ }
+function bar(){
+  var length = "京程一灯";
+  foo();
+}
+bar();
+```
+
+```js
+**答案**
+0 (页面iframe数量)
+
+**解析**
+- 首次运行执行foo，foo内寻找length并没有定义
+- 然后很多同学可能会觉得在bar内定义了length。foo内应该寻找到了length
+- 其实函数作用域是在执行函数时创建的，当函数执行结束之后，函数作用域就随之被销毁掉了。所以向上寻找到该是全局的length
+- 那你会觉得length应该是undefined。其实length是你页面iframe的数量
+```
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+
+### Day85:对于扩展运算符，下面代码的执行结果是什么？并解释原因
+
+```js
+let ydObject = { ...null, ...undefined };
+console.log(ydObject);
+let ydArray = [...null, ...undefined];
+console.log(ydArray);
+```
+
+```js
+**答案**
+{}  抛出异常
+
+**解析**
+对象会忽略 null 和 undefined，数组会抛异常。这是ECMA的规范定义，所以大家在使用扩展运算符的时候还是要多加注意。这里补充一个其他小知识点，null 只能等于undefined,其余谁也不等。
+```
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+
+### Day86:写出类数组转换结果，并解释原因
+
+```js
+const arrLike = {
+  length:4,
+  0:0,
+  1:1,
+  '-1':2,
+  3:3,
+  4:4,
+}
+console.log(Array.from(arrLike));
+console.log(Array.prototype.slice.call(arrLike));
+```
+
+```js
+// 答案
+[0,1,undefined,3]
+[0,1,empty,3]
+
+// 解析
+1）类数组是一个拥有length属性，并且他属性为非负整数的普通对象，类数组不能直接调用数组方法。
+2）类数组转换为数组的方式
+  1. 使用 Array.from()
+  2. 使用 Array.prototype.slice.call()
+  3. 使用 Array.prototype.forEach() 进行属性遍历并组成新的数组
+3）转换须知
+  1. 转换后的数组长度由 length 属性决定。索引不连续时转换结果是连续的，会自动补位。
+  2. 仅考虑 0或正整数 的索引
+  3. 使用slice转换产生稀疏数组
+4）扩展
+  1. 稀疏数组是指索引不连续，数组长度大于元素个数的数组，通俗地说就是 有空隙的数组。
+  2. empty vs undefined
+   ①稀疏数组在控制台中的表示：
+      var a = new Array(5);
+      console.log(a);    // [empty × 5]
+      这里表示数组 a 有5个空隙。 empty 并非 JS 的基础数据类型
+      访问数组元素：`a[0];    // undefined`
+   ②empty 和 undefined 是一个含义？来看个例子
+      var b = [undefined, undefined, undefined];
+      console.log(b);    // [undefined, undefined, undefined]
+      b[0];              // undefined
+
+      a.forEach(i => { console.log(i) });    // 无 log 输出
+      b.forEach(i => { console.log(i) });    // undefined undefined undefined
+      数组 a 和 数组 b 只有访问具体元素的时候输出一致，其他情况都是存在差异的。遍历数组 a 时，由于数组中没有任何元素，所以回调函数不执行不会有 log 输出；而遍历数组 b 时，数组其实填充着元素 undefined，所以会打印 log。
+      这里的数组 b 其实是一个 密集数组。
+      为什么访问稀疏数组的缺失元素时会返回 undefined，是因为 JS 引擎在发现元素缺失时会临时赋值 undefined，类似于 JS 变量的声明提升：
+      	console.log(a); // undefined
+		    var a = 0;
+  3.稀疏数组跟密集数组相比具有以下特性：
+    ①访问速度慢
+    ②内存利用率高
+  4.稀疏数组跟密集数组相比访问速度慢的原因
+    ①该特性与 V8 引擎构建 JS 对象的方式有关。V8 访问对象有两种模式：字典模式 和 快速模式。
+    ②稀疏数组使用的是字典模式，也称为 散列表模式，该模式下 V8 使用散列表来存储对象属性。由于每次访问时都需要计算哈希值（实际上只需要计算一次，哈希值会被缓存）和寻址，所以访问速度非常慢。另一方面，对比起使用一段连续的内存空间来存储稀疏数组，散列表的方式会大幅度地节省内存空间。
+    ③而密集数组在内存空间中是被存储在一个连续的类数组里，引擎可以直接通过数组索引访问到数组元素，所以速度会非常快。
+```
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+
+### Day87:写出下面代码1，2，3的大小判断结果
+
+```js
+console.log(1 < 2 < 3);
+console.log(3 > 2 > 1);
+```
+
+### 答案
+
+```js
+true false
+```
+
+### 解析
+
+1. 对于运算符>、<,一般的计算从左向右
+2. 第一个题：1 < 2 等于 true, 然后true < 3，true == 1 ，因此结果是true
+3. 第二个题：3 > 2 等于 true, 然后true > 1, true == 1 ，因此结果是false
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+
+### Day88:随便打开一个网页，用 JavaScript 打印所有以 s 和 h 开头的标签，并计算出标签的种类
+
+### 代码实现
+
+```js
+let domArr = Array.from(document.getElementsByTagName("*"));
+let elObj = {};
+const reg = /^[s|h]+/g;
+domArr.map(item=>{
+  const el = item.tagName.toLowerCase();
+  reg.test(el) && (!elObj[el] ? elObj[el] = 1 : elObj[el]++);
+})
+console.log(elObj);
+```
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+

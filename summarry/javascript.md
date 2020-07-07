@@ -148,14 +148,6 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 大数计算如何实现
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
 ### 什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
 
 公司：顺丰、新东方、高德、虎扑、微医、百分点、酷狗、新东方
@@ -167,14 +159,6 @@ Promise.all = function (arr) {
 <br/>
 
 ### 实现一个方法判断 html 中的标签是否闭合
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 谈谈闭包优缺点以及应用
 
 分类：JavaScript
 
@@ -435,16 +419,6 @@ new new Foo().getName(); // ？
 
 <br/>
 
-### 说一下对面向对象的理解，面向对象有什么好处
-
-公司：边锋
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
 ### 类设计：使用面相对象设计一个停车场管理系
 
 ```js
@@ -670,16 +644,6 @@ function sortVersion(versions) {
 公司：头条
 
 分类：JavaScript、编程题
-
-[答案&解析]()
-
-<br/>
-
-### 怎样用 css 实现一个弹幕的效果，动手实现一下
-
-公司：头条
-
-分类：JavaScript
 
 [答案&解析]()
 
@@ -2245,16 +2209,6 @@ d3,,,
 
 <br/>
 
-### 加上 CORS 之后从发起到请求正式成功的过程
-
-公司：沪江
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
 ### Async 里面有多个 await 请求，可以怎么优化
 
 公司：沪江
@@ -2316,26 +2270,6 @@ d3,,,
 <br/>
 
 ### some、every、find、filter、map、forEach 有什么区别
-
-公司：饿了么
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 页面上有 1 万个 button 如何绑定事件
-
-公司：饿了么
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 页面上有 1 万个 button 如何绑定事件？
 
 公司：饿了么
 
@@ -2989,7 +2923,7 @@ new f() instanceof f;
 
 <br/>
 
-### 请选择正确的答案(单选题)
+### 请写出代码正确执行结果，并解释原因
 
 ```js
 Object.prototype.a = "a";
@@ -2998,13 +2932,6 @@ function Person() {}
 var yideng = new Person();
 console.log(yideng.a);
 ```
-
-选项：
-
-- A.a
-- B.a1
-- C.undefined
-- D.报错
 
 分类：JavaScript
 
@@ -3387,18 +3314,11 @@ console.log(min < max);
 
 <br/>
 
-### 以下代码的运行结果是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 console.log("hello" + (1 < 2) ? "word" : "me");
 ```
-
-选项：
-
-- A.world
-- B.hello world
-- C.hello me
-- D.me
 
 公司：会小二
 
@@ -3408,7 +3328,7 @@ console.log("hello" + (1 < 2) ? "word" : "me");
 
 <br/>
 
-### 以下代码的运行结果是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 var a = (b = 1);
@@ -3418,13 +3338,6 @@ var a = (b = 1);
 console.log(a, b);
 ```
 
-选项：
-
-- A.world
-- B.hello world
-- C.hello me
-- D.me
-
 公司：会小二
 
 分类：JavaScript
@@ -3433,7 +3346,7 @@ console.log(a, b);
 
 <br/>
 
-### 以下代码的运行结果是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 if ([] instanceof Object) {
@@ -3443,13 +3356,6 @@ if ([] instanceof Object) {
 }
 ```
 
-选项：
-
-- A.object
-- B.hello world
-- C.null
-- D.false
-
 公司：会小二
 
 分类：JavaScript
@@ -3458,7 +3364,7 @@ if ([] instanceof Object) {
 
 <br/>
 
-### 以下代码的运行结果是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 var obj = {};
@@ -3468,14 +3374,7 @@ peo.name = "second";
 console.log(obj.name);
 ```
 
-选项：
-
-- A.first
-- B.undefined
-- C.null
-- D.false
-
-公司：会小二
+选项：公司：会小二
 
 分类：JavaScript
 
@@ -3483,7 +3382,7 @@ console.log(obj.name);
 
 <br/>
 
-### 以下代码的运行结果是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 function say(word) {
@@ -3493,13 +3392,6 @@ function say(word) {
 say("hello Lili");
 ```
 
-选项：
-
-- A.hello Lili
-- B.undefined
-- C.报错
-- D.以上都不正确
-
 公司：会小二
 
 分类：JavaScript
@@ -3508,84 +3400,7 @@ say("hello Lili");
 
 <br/>
 
-### 下面描述正确的是？(多选题)
-
-选项：
-
-- A.== 在比较的过程中，不但会比较两边的值，还会比较两边的数据类型
-- B.NaN == NaN 的结果是 true
-- C.isNaN,判断传入的参数是否为数字，为数字返回 true,否则返回 false
-- D.字符串的 length 只可以读取，不可以设置
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 下面描述正确的是？(多选题)
-
-选项：
-
-- A.== 在比较的过程中，不但会比较两边的值，还会比较两边的数据类型
-- B.NaN == NaN 的结果是 true
-- C.isNaN,判断传入的参数是否为数字，为数字返回 true,否则返回 false
-- D.字符串的 length 只可以读取，不可以设置
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 一下关于 Array 数组对象的说法不正确的是？(多选题)
-
-选项：
-
-- A.对数组里数据的排序可以用 sort 函数，如果排序效果非预期，可以给 sort 函数加一个排序函数的参数
-- B.reverse 用于对数组数据的倒叙排列
-- C.向数组的最后位置加一个新元素，可以用 pop 方法
-- D.unshift 方法用于向数组删除第一个元素
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 关于代码执行结果正确的选项是？(单选题)
-
-```js
-for (var i = 0; i < 5; i++) {
-  setTimeout(function () {
-    console.log(i);
-  }, 1000);
-}
-console.log(i);
-```
-
-选项：
-
-- A.0 1 2 3 4 5
-- B.5 0 1 2 3 4
-- C.5 5 5 5 5 5
-- D.1 2 3 4 5
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 关于代码执行结果正确的选项是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 function fun(n, o) {
@@ -3598,30 +3413,6 @@ function fun(n, o) {
 }
 var b = fun(0).fun(1).fun(2).fun(3);
 ```
-
-选项：
-
-- A.undefined 0 0 0
-- B.undefined 1 2 3
-- C.0 1 2 3
-- D.undefined 0 1 2
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 关于身份证号正确的正则表达式是？(单选题)
-
-选项：
-
-- A.isIDCard = /^[1-9]\d{7}((0\d)|(1[0-2]))(([0|1|2]\d)|3[0-1])\d{3}\$/;
-- B.isIDCard = /^[1-9]\d{7}((9\d)|(1[0-2]))(([0|1|2]\d)|3[9-1])\d{3}\$/;
-- C.isIDCard = /^[1-9]\d{9}(0[1-9]|(1[0,2])(0[1-9]|[1,2]\d|3[0,1])\d{3}(\d|[x,X])\$/;
-- D.isIDCard = /^[1-9]\d{5}[1-9]\d{3}((9\d)|(1[9-2]))(([0|1|2]\d)|3[9-1])\d{4}\$/;
 
 公司：会小二
 
@@ -3746,21 +3537,6 @@ var b = fun(0).fun(1).fun(2).fun(3);
 ### 编写一个 Person 类，并创建两个不同的 Person 对象
 
 分类：JavaScript、编程题
-
-[答案&解析]()
-
-<br/>
-
-### `<div class="parent"></div>`下列选项中哪些宽度是 0？(单选题)
-
-选项：
-
-- A.parent{display:flex}
-- B.parent{display:inline}
-- C.parent{display:block}
-- D.parent{display:table}
-
-分类：JavaScript
 
 [答案&解析]()
 
@@ -4596,6 +4372,16 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 ```
 
 公司：头条
+
+分类：JavaScript
+
+[答案&解析]()
+
+<br/>
+
+### 文件上传如何做断点续传
+
+公司：网易、洋葱学院
 
 分类：JavaScript
 

@@ -6,22 +6,22 @@
 </div>
 
 <div align="center">
-    <img src="http://smartlive.site/t3.png" width="300px">
+    <img src="http://img-static.yidengxuetang.com/wxapp/github-img/t3.png" width="300px">
 </div>
 <div align="center" >
 <table display="table">
   <tr>
-    <th align="center"><b> <a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md"><img src="http://smartlive.site/html1.png" width="35px" > </b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://smartlive.site/css.png" width="40px" > </b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md"><img src="http://smartlive.site/javascript1.png" width="40px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md"><img src="http://smartlive.site/vue.svg" width="40px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md"><img src="http://smartlive.site/react1.png" width="40px" ></b></th>
-  <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://smartlive.site/node1.png" width="40px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://smartlive.site/webpack.svg" width="40px" ></b></th>
-   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://smartlive.site/http1.png" width="35px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://smartlive.site/algorithm3.svg" width="52px" ></b></th>
-   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://smartlive.site/pro.svg" width="50px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://smartlive.site/other.png" width="38px" > </b></th>
+    <th align="center"><b> <a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/html1.png" width="35px" > </b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/css.png" width="40px" > </b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/javascript1.png" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/vue.svg" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/react1.png" width="40px" ></b></th>
+  <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/node1.png" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/webpack.svg" width="40px" ></b></th>
+   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/http1.png" width="35px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/algorithm3.svg" width="52px" ></b></th>
+   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/pro.svg" width="50px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/other.png" width="38px" > </b></th>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md">Html</a></b></td>
@@ -43,25 +43,16 @@
 
 > 每日一题会在前一天下午五点在 github 发布。第二天下午四点在交流群集中讨论，五点 github、交流群同步更新答案
 
-- **今日题目：请写出如下代码的打印结果**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **今日题目：Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/139)**
 
   ```js
-  var obj = {};
-  var x = +obj.yideng?.name ?? '京程一灯';
-  console.log(x);
+  Vue.set (object, propertyName, value) 
+  vm.$set (object, propertyName, value)
   ```
 
-- **昨日题目：写出代码执行结果，并解释原因**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/2)**
+- **昨日题目：Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/138)**
 
-  ```js
-  let a = [];
-  let b = "0";
-  console.log(a == 0);
-  console.log(a == !a);
-  console.log(b == 0);
-  console.log(a == b);
-  // 写出执行结果，并解释原因
-  ```
+
 
 ## ⏱️ 最近更新
 
@@ -106,5 +97,5 @@
 > 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
 <div align="center">
-    <img src="http://smartlive.site/bot.gif" width="500px" >
+    <img src="http://img-static.yidengxuetang.com/wxapp/github-img/bot.gif" width="500px" >
 </div>

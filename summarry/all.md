@@ -1,6 +1,6 @@
 # 全部面试题汇总
 
-### 第 1 题：写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal
+### 写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal
 
 公司：头条
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-### 第 2 题：合并二维有序数组成一维有序数组，归并排序的思路
+### 合并二维有序数组成一维有序数组，归并排序的思路
 
 公司：头条
 
@@ -20,9 +20,9 @@
 
 <br/>
 
-### 第 3 题：斐波那契数列
+### 斐波那契数列
 
-公司：腾讯
+公司：腾讯、CVTE、微软
 
 分类：算法
 
@@ -30,7 +30,7 @@
 
 <br/>
 
-### 第 4 题：字符串出现的不重复最长长度
+### 字符串出现的不重复最长长度
 
 公司：腾讯
 
@@ -40,7 +40,7 @@
 
 <br/>
 
-### 第 5 题：介绍chrome 浏览器的几个版本
+### 介绍chrome 浏览器的几个版本
 
 公司：滴滴
 
@@ -50,7 +50,7 @@
 
 <br/>
 
-### 第 6 题：React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化
+### React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化
 
 公司：滴滴、掌门一对一、网易、有赞、沪江、喜马拉雅、酷家乐、快手
 
@@ -60,7 +60,7 @@
 
 <br/>
 
-### 第 7 题：react 最新版本解决了什么问题 加了哪些东西
+### react 最新版本解决了什么问题 加了哪些东西
 
 公司：滴滴
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-### 第 8 题：说一下 Http 缓存策略，有什么区别，分别解决了什么问题
+### 说一下 Http 缓存策略，有什么区别，分别解决了什么问题
 
 公司：滴滴、头条、网易、易车、脉脉、掌门一对一、虎扑、挖财、爱范儿
 
@@ -80,7 +80,7 @@
 
 <br/>
 
-### 第 9 题：介绍防抖节流原理、区别以及应用，并用JavaScript进行实现
+### 介绍防抖节流原理、区别以及应用，并用JavaScript进行实现
 
 公司：滴滴、虎扑、挖财、58、头条
 
@@ -90,7 +90,7 @@
 
 <br/>
 
-### 第 10 题：前端安全、中间人攻击
+### 前端安全、中间人攻击
 
 公司：滴滴
 
@@ -100,7 +100,7 @@
 
 <br/>
 
-### 第 11 题：对闭包的看法，为什么要用闭包？说一下闭包原理以及应用场景
+### 对闭包的看法，为什么要用闭包？说一下闭包原理以及应用场景
 
 公司：滴滴、携程、喜马拉雅、微医、蘑菇街、酷家乐、腾讯应用宝、安居客
 
@@ -110,7 +110,7 @@
 
 <br/>
 
-### 第 12 题：css 伪类与伪元素区别
+### css 伪类与伪元素区别
 
 公司：滴滴
 
@@ -120,7 +120,7 @@
 
 <br/>
 
-### 第 13 题：有一堆整数，请把他们分成三份，确保每一份和尽量相等（11，42，23，4，5，6 4 5 6 11 23 42 56 78 90）
+### 有一堆整数，请把他们分成三份，确保每一份和尽量相等（11，42，23，4，5，6 4 5 6 11 23 42 56 78 90）
 
 公司：滴滴
 
@@ -130,7 +130,7 @@
 
 <br/>
 
-### 第 14 题：实现 lodash 的_.get
+### 实现 lodash 的_.get
 
 公司：滴滴
 
@@ -140,7 +140,7 @@
 
 <br/>
 
-### 第 15 题：实现 add(1)(2)(3)
+### 实现 add(1)(2)(3)
 
 公司：滴滴
 
@@ -150,7 +150,7 @@
 
 <br/>
 
-### 第 16 题：实现链式调用
+### 实现链式调用
 
 公司：滴滴
 
@@ -160,7 +160,7 @@
 
 <br/>
 
-### 第 17 题：React 事件绑定原理
+### React 事件绑定原理
 
 公司：滴滴、沪江
 
@@ -170,7 +170,7 @@
 
 <br/>
 
-### 第 18 题：类数组和数组的区别，dom 的类数组如何转换成数组
+### 类数组和数组的区别，dom 的类数组如何转换成数组
 
 公司：海康威视
 
@@ -180,7 +180,7 @@
 
 <br/>
 
-### 第 19 题：webpack 做过哪些优化，开发效率方面、打包策略方面等等
+### webpack 做过哪些优化，开发效率方面、打包策略方面等等
 
 公司：滴滴、快手、掌门一对一、高思教育
 
@@ -190,7 +190,7 @@
 
 <br/>
 
-### 第 20 题：说一下事件循环机制(node、浏览器)
+### 说一下事件循环机制(node、浏览器)
 
 公司：滴滴、伴鱼、高德、自如、虎扑、58
 
@@ -200,7 +200,7 @@
 
 <br/>
 
-### 第 21 题：如何封装 node 中间件
+### 如何封装 node 中间件
 
 公司：滴滴、酷狗
 
@@ -210,7 +210,7 @@
 
 <br/>
 
-### 第 22 题：node 中间层怎样做的请求合并转发
+### node 中间层怎样做的请求合并转发
 
 公司：易车
 
@@ -220,7 +220,7 @@
 
 <br/>
 
-### 第 23 题：介绍下 promise 的特性、优缺点，内部是如何实现的，动手实现 Promise
+### 介绍下 promise 的特性、优缺点，内部是如何实现的，动手实现 Promise
 
 公司：滴滴、头条、喜马拉雅、兑吧、寺库、百分点、58、安居客
 
@@ -230,7 +230,7 @@
 
 <br/>
 
-### 第 24 题：实现 Promise.all
+### 实现 Promise.all
 
 ```js
 Promise.all = function (arr) {
@@ -246,7 +246,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 25 题：React 组件通信方式
+### React 组件通信方式
 
 公司：滴滴、掌门一对一、喜马拉雅、蘑菇街
 
@@ -256,7 +256,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 26 题：redux-saga 和 mobx 的比较
+### redux-saga 和 mobx 的比较
 
 公司：掌门一对一
 
@@ -266,7 +266,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 27 题：说一下 react-fiber
+### 说一下 react-fiber
 
 公司：头条、滴滴、菜鸟网络、挖财、喜马拉雅
 
@@ -276,7 +276,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 28 题：手写发布订阅
+### 手写发布订阅
 
 公司：滴滴、头条
 
@@ -286,7 +286,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 29 题：手写数组转树
+### 手写数组转树
 
 公司：滴滴
 
@@ -296,7 +296,7 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 30 题：手写用 ES6proxy 如何实现 arr[-1] 的访问
+### 手写用 ES6proxy 如何实现 arr[-1] 的访问
 
 公司：滴滴
 
@@ -306,27 +306,27 @@ Promise.all = function (arr) {
 
 <br/>
 
-### 第 31 题：手写实现 Array.flat()
+### 手写实现 Array.flat()
 
 公司：滴滴、快手、携程
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 32 题：react 实现一个全局的 dialog
+### react 实现一个全局的 dialog
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 33 题：[实操题]输入一条 polyline，输出 polyline 的中点
+### [实操题]输入一条 polyline，输出 polyline 的中点
 
 题目补充：
 
@@ -342,61 +342,61 @@ Promise.all = function (arr) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/240)
 
 <br/>
 
-### 第 34 题：Umi 和 dva 分别是干嘛用的？为什么会有 umi dva 的出现？使用起来有什么不方便的地方吗？
+### Umi 和 dva 分别是干嘛用的？为什么会有 umi dva 的出现？使用起来有什么不方便的地方吗？
 
 公司：洋葱学院
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 35 题：React 数据持久化有什么实践吗？
+### React 数据持久化有什么实践吗？
 
 公司：洋葱学院
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 36 题：使用过 mobox 吗？mobox 和 redux 有什么区别？
+### 使用过 mobox 吗？mobox 和 redux 有什么区别？
 
 公司：洋葱学院
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 37 题：文件上传如何做断点续传
+### 文件上传如何做断点续传
 
 公司：网易、洋葱学院
 
-分类：React
+分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 38 题：大数计算如何实现
+### 大数计算如何实现
 
 公司：洋葱学院
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 39 题：请用算法实现，从给定的无序、不重复的数组data中，取出n个数，使其相加和为sum。并给出算法的时间/空间复杂度。(不需要找到所有的解，找到一个解即可)
+### 请用算法实现，从给定的无序、不重复的数组data中，取出n个数，使其相加和为sum。并给出算法的时间/空间复杂度。(不需要找到所有的解，找到一个解即可)
 
 ```js
 function getResult(data,n,sum){
@@ -408,237 +408,221 @@ function getResult(data,n,sum){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/902)
 
 <br/>
 
-### 第 40 题：什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
+### 什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
 
 公司：顺丰、新东方、高德、虎扑、微医、百分点、酷狗、新东方
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 41 题：实现一个方法判断 html 中的标签是否闭合
+### 实现一个方法判断 html 中的标签是否闭合
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 42 题：mysql 和 mongodb 区别
+### mysql 和 mongodb 区别
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 43 题：V8 机制讲解
+### V8 机制讲解
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 44 题：谈谈闭包优缺点以及应用
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 45 题：说一下盒子模型，以及标准情况和 IE 下的区别
+### 说一下盒子模型，以及标准情况和 IE 下的区别
 
 公司：兑吧
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/231)
 
 <br/>
 
-### 第 46 题：箭头函数和普通函数的区别
+### 箭头函数和普通函数的区别
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/228)
 
 <br/>
 
-### 第 47 题：说下 webpack 的 loader 和 plugin 的区别，都使用过哪些 loader 和 plugin
+### 说下 webpack 的 loader 和 plugin 的区别，都使用过哪些 loader 和 plugin
 
 公司：阿里、滴滴、挖财
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 48 题：Css 如何画出一个扇形，动手实现下
+### Css 如何画出一个扇形，动手实现下
 
 公司：头条
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 49 题：介绍下 webpack，并说下 Webpack 的构建流程
+### 介绍下 webpack，并说下 Webpack 的构建流程
 
 公司：头条、挖财
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 50 题：说下 tree-shaking 的原理
+### 说下 tree-shaking 的原理
 
 公司：头条
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 51 题：Webp 格式的图片怎么生成，使用有什么兼容性问题，如何怎么解决
+### Webp 格式的图片怎么生成，使用有什么兼容性问题，如何怎么解决
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 52 题：React 高阶组件 renderprops hooks 有什么区别，为什么要不断迭代
+### React 高阶组件 renderprops hooks 有什么区别，为什么要不断迭代
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 53 题：说一下 React setState 原理
+### 说一下 React setState 原理
 
 公司：网易
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 54 题：说一下 React diff 算法
+### 说一下 React diff 算法
 
 公司：脉脉
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 55 题：说一下 React 生命周期，以及都有哪些改变
+### 说一下 React 生命周期，以及都有哪些改变，为什么去掉了那几个旧的生命周期
 
 公司：完美世界、高德、脉脉、有赞、挖财、沪江、携程、喜马拉雅、酷家乐
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 56 题：React 新版本的生命周期有哪些？ 为什么去掉了那几个旧的生命周期
-
-分类：React
-
-[答案&解析]()
-
-<br/>
-
-### 第 57 题：React key 是干嘛用的 为什么要加？key 主要是解决哪一类问题的
+### React key 是干嘛用的 为什么要加？key 主要是解决哪一类问题的
 
 公司：滴滴、挖财
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 58 题：Redux 中异步的请求怎么处理
+### Redux 中异步的请求怎么处理
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 59 题：CDN 是什么？描述下 CDN 原理？为什么要用 CDN?
+### CDN 是什么？描述下 CDN 原理？为什么要用 CDN?
 
 公司：头条、滴滴、网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 60 题：PWA 是什么？对 PWA 有什么了解
+### PWA 是什么？对 PWA 有什么了解
 
 公司：头条、喜马拉雅
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 61 题：讲一下 webpack 原理， loader 和 plugin，你知道哪些模块化标准，说下 cjs 和 esmodule 的区别
+### 讲一下 webpack 原理， loader 和 plugin，你知道哪些模块化标准，说下 cjs 和 esmodule 的区别
 
 公司：头条
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 62 题：es5 实现 isInteger
+### es5 实现 isInteger
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 63 题：单向链表实现队列
+### 单向链表实现队列
 
 公司：头条
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/214)
 
 <br/>
 
-### 第 64 题：写出输出结果
+### 写出输出结果
 
 ```js
 function Foo() {
@@ -674,11 +658,11 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 65 题：将给定的数组从顶级分类递归查找子分类，最终构建一个树状数组
+### 将给定的数组从顶级分类递归查找子分类，最终构建一个树状数组
 
 ```js
 /*
@@ -690,21 +674,11 @@ new new Foo().getName(); // ？
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/212)
 
 <br/>
 
-### 第 66 题：单向链表实现队列
-
-公司：头条
-
-分类：算法
-
-[答案&解析]()
-
-<br/>
-
-### 第 67 题：手写 dom 操作，翻转 li 标签，如何处理更优
+### 手写 dom 操作，翻转 li 标签，如何处理更优
 
 ```js
 /*
@@ -721,121 +695,121 @@ new new Foo().getName(); // ？
 
 分类：
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 68 题：怎样判断一个对象是否是数组，如何处理类数组对象
+### 怎样判断一个对象是否是数组，如何处理类数组对象
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 69 题：是否熟悉 Node，主要做过哪些业务，平时用过什么包？
+### 是否熟悉 Node，主要做过哪些业务，平时用过什么包？
 
 公司：快手
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 70 题：是否了解 glob，glob 是如何处理文件的，业界是否还有其它解决方案
+### 是否了解 glob，glob 是如何处理文件的，业界是否还有其它解决方案
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 71 题：说一下 Vue 的 keep-alive 是如何实现的，具体缓存的是什么？
+### 说一下 Vue 的 keep-alive 是如何实现的，具体缓存的是什么？
 
 公司：快手
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 72 题：Redux 和 Vuex 有什么区别，说下一它们的共同思想
+### Redux 和 Vuex 有什么区别，说下一它们的共同思想
 
 公司：快手
 
 分类：React、Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 73 题：谈一下微信小程序的架构以及为什么要用到双线程
+### 谈一下微信小程序的架构以及为什么要用到双线程
 
 公司：快手
 
 分类：小程序
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 74 题：随便打开一个网页，用 JavaScript 打印所有以 s 和 h 开头的标签，并计算出标签的种类
+### 随便打开一个网页，用 JavaScript 打印所有以 s 和 h 开头的标签，并计算出标签的种类
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 75 题：1000\*1000 的画布，上面有飞机、子弹，如何划分区域能够更有效的做碰撞检测，类似划分区域大小与碰撞检测效率的算法，说一下大致的思路
+### 1000\*1000 的画布，上面有飞机、子弹，如何划分区域能够更有效的做碰撞检测，类似划分区域大小与碰撞检测效率的算法，说一下大致的思路
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 76 题：移动设备安卓根 iOS 的软键盘弹出的处理方式有什么不同
+### 移动设备安卓与 iOS 的软键盘弹出的处理方式有什么不同，iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 77 题：iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
+### iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/201)
 
 <br/>
 
-### 第 78 题：iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
+### iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/200)
 
 <br/>
 
-### 第 79 题：给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组
+### 给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组
 
 ```js
 /*
@@ -849,151 +823,131 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 80 题：说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数
+### 说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数
 
 公司：伴鱼、喜马拉雅
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 81 题：var、let、const 的区别
+### var、let、const 的区别
 
 公司：伴鱼、百分点、心娱
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 82 题：说一下 GC
+### 说一下 GC
 
 公司：伴鱼
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 83 题：BFC 是什么？触发 BFC 的条件是什么？有哪些应用场景？
+### BFC 是什么？触发 BFC 的条件是什么？有哪些应用场景？
 
 公司：快手、伴鱼、网易
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/194)
 
 <br/>
 
-### 第 84 题：说一下浏览器解析 Html 文件的过程
+### 说一下浏览器解析 Html 文件的过程
 
 公司：伴鱼
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 85 题：说一下什么是重绘重排，哪些操作会造成重绘重排
+### 说一下什么是重绘重排，哪些操作会造成重绘重排
 
 公司：滴滴、伴鱼、菜鸟网络、58
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/192)
 
 <br/>
 
-### 第 86 题：什么情况会出现浏览器分层
+### 什么情况会出现浏览器分层
 
 公司：伴鱼
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/191)
 
 <br/>
 
-### 第 87 题：通过 link 进来的 css 会阻塞页面渲染嘛，js 呢
+### 通过 link 进来的 css 会阻塞页面渲染嘛，Js 会阻塞吗，如果会如何解决？
 
 公司：伴鱼
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/190)
 
 <br/>
 
-### 第 88 题：通过 link 进来的 css 会阻塞页面渲染嘛，Js 会阻塞吗，如果会如何解决？
-
-公司：伴鱼
-
-分类：CSS
-
-[答案&解析]()
-
-<br/>
-
-### 第 89 题：如何实现按需加载
+### 如何实现按需加载
 
 公司：伴鱼、腾讯应用宝
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 90 题：讲一下 import 的原理，与 require 有什么不同
+### 讲一下 import 的原理，与 require 有什么不同
 
 公司：伴鱼、腾讯应用宝
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 91 题：为什么 useState 要使用数组而不是对象
+### 为什么 useState 要使用数组而不是对象
 
 公司：伴鱼
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 92 题：为什么 useState 要使用数组而不是对象
-
-公司：伴鱼
-
-分类：React
-
-[答案&解析]()
-
-<br/>
-
-### 第 93 题：从输入 URL 到页面加载全过程
+### 从输入 URL 到页面加载全过程
 
 公司：头条、边锋、菜鸟网络、爱范儿、心娱
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 94 题：请实现如下的函数
+### 请实现如下的函数
 
 ```js
 /*
@@ -1003,151 +957,131 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 95 题：DNS 解析的具体过程
+### DNS 解析的具体过程
 
 公司：边锋、寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 96 题：常见的 http 请求头都有哪些，以及它们的作用
+### 常见的 http 请求头都有哪些，以及它们的作用
 
 公司：阿里、边锋、喜马拉雅、玄武科技
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 97 题：encoding 头都有哪些编码方式
+### encoding 头都有哪些编码方式
 
 公司：边锋
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 98 题：utf-8 和 asc 码有什么区别
+### utf-8 和 asc 码有什么区别
 
 公司：边锋
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 99 题：tcp 和 udp 有什么区别？tcp 怎样确保数据正确性？tcp 头包含什么？tcp 属于那一层？
+### tcp 和 udp 有什么区别？tcp 怎样确保数据正确性？tcp 头包含什么？tcp 属于那一层？
 
 公司：头条、边锋
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 100 题：传输层和网络层分别负责什么，端口在什么层标记
+### 传输层和网络层分别负责什么，端口在什么层标记
 
 公司：边锋
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 101 题：介绍下 Https，和 http 的区别是什么？https 为什么比 http 安全？如何进行配置？
+### 介绍下 Https，和 http 的区别是什么？https 为什么比 http 安全？如何进行配置？
 
 公司：边锋、老虎、脉脉、掌门一对一、喜马拉雅、寺库、腾讯应用宝、快手
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 102 题：说一下加密握手的过程
+### 说一下加密握手的过程
 
 公司：边锋、老虎
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 103 题：什么是中间人攻击
+### 对称加密和非对称加密的区别和用处
 
 公司：边锋
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 104 题：对称加密和非对称加密的区别和用处
-
-公司：边锋
-
-分类：网络&安全
-
-[答案&解析]()
-
-<br/>
-
-### 第 105 题：是否用过 restful 接口，和其他风格的有什么区别
+### 是否用过 restful 接口，和其他风格的有什么区别
 
 公司：边锋
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 106 题：说一下 get、post、put 的区别
+### 说一下 get、post、put 的区别
 
 公司：边锋、虎扑、酷家乐、酷狗、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 107 题：说一下对面向对象的理解，面向对象有什么好处
+### 说一下对面向对象的理解，面向对象有什么好处
 
 公司：边锋
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 108 题：说一下对面向对象的理解，面向对象有什么好处
-
-公司：边锋
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 109 题：类设计：使用面相对象设计一个停车场管理系
+### 类设计：使用面相对象设计一个停车场管理系
 
 ```js
 /*
@@ -1163,121 +1097,121 @@ new new Foo().getName(); // ？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 110 题：实现输出一个十六进制的随机颜色(#af0128a)
+### 实现输出一个十六进制的随机颜色(#af0128a)
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 111 题：justify-content:space-between around 有什么区别
+### justify-content:space-between around 有什么区别
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 112 题：手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
+### 手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 113 题：浏览器都有哪些进程，渲染进程中都有什么线程
+### 浏览器都有哪些进程，渲染进程中都有什么线程
 
 公司：老虎
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 114 题：说说浏览器渲染流程，分层之后在什么时候合成，什么是重排、重绘，怎样避免
+### 说说浏览器渲染流程，分层之后在什么时候合成，什么是重排、重绘，怎样避免
 
 公司：老虎
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 115 题：什么是同源策略？什么是跨域？都有哪些方式会造成跨域？解决跨域都有什么手段？
+### 什么是同源策略？什么是跨域？都有哪些方式会造成跨域？解决跨域都有什么手段？
 
 公司：阿里、滴滴、老虎、完美世界、沪江、喜马拉雅、兑吧、寺库、玄武科技
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 116 题：什么是 CORS，CORS 需要前端配置还是后端配置？
+### 什么是 CORS，CORS 需要前端配置还是后端配置？
 
 公司：酷狗
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 117 题：设计一个 Student 组件，实现输入姓名性别成绩（这三个必填），还有几个不是必填的属性，要设置默认值，点击弹出成绩
+### 设计一个 Student 组件，实现输入姓名性别成绩（这三个必填），还有几个不是必填的属性，要设置默认值，点击弹出成绩
 
 公司：老虎
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 118 题：设计一个函数，奇数次执行的时候打印 1，偶数次执行的时候打印 2
+### 设计一个函数，奇数次执行的时候打印 1，偶数次执行的时候打印 2
 
 公司：老虎
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 119 题：实现 Promise.then
+### 实现 Promise.then
 
 公司：高德、百分点
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 120 题：平时在项目开发中都做过哪些前端性能优化
+### 平时在项目开发中都做过哪些前端性能优化
 
 公司：阿里、顺丰、易车、有赞、挖财、喜马拉雅、兑吧、寺库、海康威视、道一云、58
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 121 题：给定起止日期，返回中间的所有月份
+### 给定起止日期，返回中间的所有月份
 
 ```js
 // 输入两个字符串 2018-08  2018-12
@@ -1288,11 +1222,11 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 122 题：输入两个字符串，输出他们中间的月份
+### 输入两个字符串，输出他们中间的月份
 
 ```js
 // 给两个数组 [A1,A2,B1,B2,C1,C2,D1,D2] [A,B,C,D]
@@ -1303,61 +1237,61 @@ new new Foo().getName(); // ？
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 123 题：实现一个将 52 张牌随机均等的分给四个人，比如输入 [0,1,2,3....51] ，输出[[1,2,16...],[4,3,6..],[....],[....]]
+### 实现一个将 52 张牌随机均等的分给四个人，比如输入 [0,1,2,3....51] ，输出[[1,2,16...],[4,3,6..],[....],[....]]
 
 公司：顺丰
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/157)
 
 <br/>
 
-### 第 124 题：用尽量短的代码实现一个 arrary 的链式操作，将数组中的大于 10 的值进行一个累加
+### 用尽量短的代码实现一个 arrary 的链式操作，将数组中的大于 10 的值进行一个累加
 
 公司：顺丰
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 125 题：简单封装一个异步 fecth，使用 async await 的方式来使用
+### 简单封装一个异步 fecth，使用 async await 的方式来使用
 
 公司：顺丰
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 126 题：怎么理解 to B 和 to C 的业务
+### 怎么理解 to B 和 to C 的业务
 
 公司：顺丰
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 127 题：如果有一个项目，随着业务的增长越来越大，怎么办，如何来进行一个拆分或者处理
+### 如果有一个项目，随着业务的增长越来越大，怎么办，如何来进行一个拆分或者处理
 
 公司：顺丰
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 128 题：请写一个函数，输出出多级嵌套结构的 Object 的所有 key 值
+### 请写一个函数，输出出多级嵌套结构的 Object 的所有 key 值
 
 ```js
 var obj = {
@@ -1376,11 +1310,11 @@ var obj = {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 129 题：使用 Css 实现一个水波纹效果
+### 使用 Css 实现一个水波纹效果
 
 参考：[第二屏中的水波纹效果](https://mp.toutiao.com/auth/page/login/?redirect_url=JTJG#/?_k=1hjyly)
 
@@ -1388,21 +1322,21 @@ var obj = {
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/151)
 
 <br/>
 
-### 第 130 题：position 定位都有什么属性（不仅仅是绝对定位和相对定位/fix 定位）
+### position 定位都有什么属性（不仅仅是绝对定位和相对定位/fix 定位）
 
 公司：头条
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/150)
 
 <br/>
 
-### 第 131 题：写出打印结果，并解释为什么
+### 写出打印结果，并解释为什么
 
 ```js
 var a = { k1: 1 };
@@ -1414,13 +1348,13 @@ console.log(b); // ?
 
 公司：头条
 
-分类：Css
+分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 131 题：动手实现一个 repeat 方法
+### 动手实现一个 repeat 方法
 
 ```js
 function repeat(func, times, wait) {
@@ -1434,21 +1368,21 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 132 题：setTimeout 有什么缺点，和 requestAnimationFrame 有什么区别
+### setTimeout 有什么缺点，和 requestAnimationFrame 有什么区别
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 133 题：versions 是一个项目的版本号列表，因多人维护，不规则，动手实现一个版本号处理函数
+### versions 是一个项目的版本号列表，因多人维护，不规则，动手实现一个版本号处理函数
 
 ```js
 var versions = ["1.45.0", "1.5", "6", "3.3.3.3.3.3.3"];
@@ -1463,21 +1397,21 @@ function sortVersion(versions) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 134 题：怎样用 css 实现一个弹幕的效果，动手实现一下
+### 怎样用 css 实现一个弹幕的效果，动手实现一下
 
 公司：头条
 
-分类：JavaScript
+分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 135 题：实现一个多并发的请求
+### 实现一个多并发的请求
 
 ```js
 let urls = ['http://dcdapp.com', …];
@@ -1491,23 +1425,23 @@ let urls = ['http://dcdapp.com', …];
 
 公司：头条
 
-分类：Css
+分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 136 题：说一下 Css 预处理器，Less 带来的好处？
+### 说一下 Css 预处理器，Less 带来的好处？
 
 公司：头条
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/143)
 
 <br/>
 
-### 第 137 题：写出代码执行结果
+### 写出代码执行结果
 
 ```js
 async function async1() {
@@ -1537,11 +1471,11 @@ console.log("scripts end");
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 138 题：按要求实现一个 sum 函数
+### 按要求实现一个 sum 函数
 
 ```js
 const a = sum(); // => a === 0
@@ -1554,11 +1488,11 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 139 题：按要求实现 rightView 函数
+### 按要求实现 rightView 函数
 
 ```js
 function TreeNode(val){
@@ -1579,211 +1513,201 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/140)
 
 <br/>
 
-### 第 140 题：meta 元素都有什么
+### meta 元素都有什么
 
 公司：完美世界
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 141 题：Css 选择器都有什么，权重是怎么计算的
+### Css 选择器都有什么，权重是怎么计算的
 
 公司：完美世界
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/363)
 
 <br/>
 
-### 第 142 题：布局都有什么方式，float 和 position 有什么区别
+### 布局都有什么方式，float 和 position 有什么区别
 
 公司：完美世界
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/362)
 
 <br/>
 
-### 第 143 题：Http1 和 Http2 有什么区别，和 http1.1 相比，http2 都有什么特性
+### Http1 和 Http2 有什么区别，和 http1.1 相比，http2 都有什么特性
 
 公司：完美世界、网易、脉脉、高思教育
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 144 题：Import 和 CommonJS 在 webpack 打包过程中有什么不同
+### Import 和 CommonJS 在 webpack 打包过程中有什么不同
 
 公司：完美世界
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 145 题：说一下 base64 的编码方式
+### 说一下 base64 的编码方式
 
 公司：完美世界
 
 分类：JavaScirpt
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 146 题：说一下单向数据流有什么好处
+### 说一下单向数据流有什么好处
 
 公司：完美世界、酷家乐
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 147 题：伪类和伪元素有什么区别
+### `nth-child`和`nth-type-of` 有什么区别
 
 公司：网易
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/357)
 
 <br/>
 
-### 第 148 题：`nth-child`和`nth-type-of` 有什么区别
+### `<img>`是什么元素
 
 公司：网易
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/356)
 
 <br/>
 
-### 第 149 题：`<img>`是什么元素
+### flex 布局，如何实现把八个元素分两行摆放
 
 公司：网易
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/355)
 
 <br/>
 
-### 第 150 题：flex 布局，如何实现把八个元素分两行摆放
-
-公司：网易
-
-分类：Css
-
-[答案&解析]()
-
-<br/>
-
-### 第 151 题：改变 this 指向的方式都有哪些？
+### 改变 this 指向的方式都有哪些？
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 152 题：说一下 etag 和 lastmodify 的区别
+### 说一下 etag 和 lastmodify 的区别
 
 公司：网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 153 题：强缓存都有哪些方法来控制
+### 强缓存都有哪些方法来控制
 
 公司：网易、易车
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 154 题：协商缓存都有哪些参数
+### 协商缓存都有哪些参数
 
 公司：网易、易车
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 155 题：说一下`module.exports`和`exports`的区别，`export`和`export default`的区别
+### 说一下`module.exports`和`exports`的区别，`export`和`export default`的区别
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 156 题：说一下 webpack 中 css-loader 和 style-loader 的区别，file-loader 和 url-loader 的区别
+### 说一下 webpack 中 css-loader 和 style-loader 的区别，file-loader 和 url-loader 的区别
 
 公司：网易
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 157 题：number 为什么会出现精度损失，怎样避免
+### number 为什么会出现精度损失，怎样避免
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 158 题：说一下对 React 和 Vue 的理解，它们的异同
+### 说一下对 React 和 Vue 的理解，它们的异同
 
 公司：网易、脉脉、快手
 
 分类：React、Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 159 题：二叉树序列化反序列化
+### 二叉树序列化反序列化
 
 公司：微软
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/346)
 
 <br/>
 
-### 第 160 题：输入一个数字，找到对应的字母
+### 输入一个数字，找到对应的字母
 
 ```js
 /*
@@ -1799,11 +1723,11 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/345)
 
 <br/>
 
-### 第 161 题：Given an int n, output Mausoleum Array solutions.
+### Given an int n, output Mausoleum Array solutions.
 
 ```js
 // Given an int n, output Mausoleum Array solutions.
@@ -1825,121 +1749,111 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/344)
 
 <br/>
 
-### 第 162 题：用递归方式与非递归方式分别写一个斐波那契
-
-公司：微软
-
-分类：算法
-
-[答案&解析]()
-
-<br/>
-
-### 第 163 题：实现一个函数将中文数字转成数字
+### 实现一个函数将中文数字转成数字
 
 公司：微软
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 164 题：节流
+### 节流
 
 公司：微软
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 165 题：请求是异步的为什么会造成阻塞
+### 请求是异步的为什么会造成阻塞
 
 公司：易车
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 166 题：脚手架具体都做了哪些事，webpack 具体做了什么配置，怎样优化的打包大小
+### 脚手架具体都做了哪些事，webpack 具体做了什么配置，怎样优化的打包大小
 
 公司：易车
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 167 题：介绍下 Webpack 的整个生命周期
+### 介绍下 Webpack 的整个生命周期
 
 公司：滴滴、挖财
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 168 题：如何实现 5 秒自动刷新一次页面(具体都有什么方法 reload 之类的)
+### 如何实现 5 秒自动刷新一次页面(具体都有什么方法 reload 之类的)
 
 公司：易车
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 169 题：都了解哪些 ES6、ES7 的新特性，箭头函数可以被 new 吗
+### 都了解哪些 ES6、ES7 的新特性，箭头函数可以被 new 吗
 
 公司：易车、脉脉、虎扑、喜马拉雅、百分点、海风教育、58
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 170 题：说一下 JavaScript 继承都有哪些方法
+### 说一下 JavaScript 继承都有哪些方法
 
 公司：易车、脉脉、微医、海康威视
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 171 题：Css 方式实现一个不知道宽高的 div 居中都有哪几种方法
+### Css 方式实现一个不知道宽高的 div 居中都有哪几种方法
 
 公司：阿里、滴滴、易车、新东方、虎扑、饿了么、爱范儿、心娱、58
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/335)
 
 <br/>
 
-### 第 172 题：给一个字符串比如'abca'，返回第一个不重复的字母
+### 给一个字符串比如'abca'，返回第一个不重复的字母
 
 公司：易车
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/334)
 
 <br/>
 
-### 第 173 题：已知函数 A，要求构造⼀个函数 B 继承 A
+### 已知函数 A，要求构造⼀个函数 B 继承 A
 
 ```js
 function A(name) {
@@ -1954,11 +1868,11 @@ A.prototype.getName = function () {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 174 题：数组和对象转换为字符串结果
+### 数组和对象转换为字符串结果
 
 ```js
 var arry = [];
@@ -1970,11 +1884,11 @@ var obj = {};
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 175 题：请写出以下代码的打印结果
+### 请写出以下代码的打印结果
 
 ```js
 var a = {
@@ -1994,11 +1908,11 @@ fn1();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 176 题：请写出以下代码的打印结果
+### 请写出以下代码的打印结果
 
 ```js
 let int = 1;
@@ -2035,11 +1949,11 @@ console.log(int);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 177 题：要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
+### 要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
 
 ```js
 /*
@@ -2052,11 +1966,11 @@ console.log(int);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 178 题：修改以下代码，使得最后⼀⾏代码能够输出数字 0-9（最好能给多种答案）
+### 修改以下代码，使得最后⼀⾏代码能够输出数字 0-9（最好能给多种答案）
 
 ```js
 var arrys = [];
@@ -2074,11 +1988,11 @@ arrys.forEach(function (fn) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 179 题：给定⼀个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效.
+### 给定⼀个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效.
 
 ```js
 /*
@@ -2106,43 +2020,43 @@ arrys.forEach(function (fn) {
 
 公司：新东方
 
-分类：JavaScript、编程题
+分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/327)
 
 <br/>
 
-### 第 180 题：CDN 有哪些优化静态资源加载速度的机制
+### CDN 有哪些优化静态资源加载速度的机制
 
 公司：头条
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 181 题：请给出识别 Email 的正则表达式
+### 请给出识别 Email 的正则表达式
 
 公司：头条
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 182 题：设计 AutoComplete 组件(又叫搜索组件、自动补全组件等)时，需要考虑什么问题？
+### 设计 AutoComplete 组件(又叫搜索组件、自动补全组件等)时，需要考虑什么问题？
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 183 题：实现函数接受任意二叉树，求二叉树所有根到叶子路径组成的数字之和
+### 实现函数接受任意二叉树，求二叉树所有根到叶子路径组成的数字之和
 
 ```js
 class TreeNode{
@@ -2167,31 +2081,31 @@ getPathSum(node); // return 7 = (1+2) + (1+3)
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 184 题：webpack 离线缓存静态资源如何做用 localStore
+### webpack 离线缓存静态资源如何做用 localStore
 
 公司：滴滴
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 185 题：手动实现一个函数，给定一个数组[1,0,2,3,4,-1,-3]，输出任意两个值和为 0 的下标
+### 手动实现一个函数，给定一个数组[1,0,2,3,4,-1,-3]，输出任意两个值和为 0 的下标
 
 公司：滴滴
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/321)
 
 <br/>
 
-### 第 186 题：请写出一下代码的打印结果
+### 请写出一下代码的打印结果
 
 ```js
 function a(obj) {
@@ -2208,171 +2122,171 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 187 题：Promise 链式调用如何实现
+### Promise 链式调用如何实现
 
 公司：滴滴
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 188 题：说一下对`BigInt`的理解，在什么场景下会使用
+### 说一下对`BigInt`的理解，在什么场景下会使用
 
 公司：滴滴、高德
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 189 题：null 是不是一个对象，如果是，如何判断一个对象是 null，不使用 JavaScript 提供的 api 如何进行判断
+### null 是不是一个对象，如果是，如何判断一个对象是 null，不使用 JavaScript 提供的 api 如何进行判断
 
 公司：滴滴
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 190 题：gitlab 分支管理，线上如果发生 bug 怎么解决？
+### gitlab 分支管理，线上如果发生 bug 怎么解决？
 
 公司：滴滴
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 191 题：说一下对于堆栈的理解
+### 说一下对于堆栈的理解
 
 公司：滴滴、高德
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 192 题：介绍排序算法和快排原理
+### 介绍排序算法和快排原理
 
 公司：寺库、百分点
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/314)
 
 <br/>
 
-### 第 193 题：`[] == ![]`为什么
+### `[] == ![]`为什么
 
 公司：高德
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 194 题：说一下 React.Component 和 Ract.PureComponent 的区别
+### 说一下 React.Component 和 Ract.PureComponent 的区别
 
 公司：高德、有赞、酷家乐
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 195 题：说一下对 React Hook 的理解，它的实现原理，和生命周期有哪些区别？
+### 说一下对 React Hook 的理解，它的实现原理，和生命周期有哪些区别？
 
 公司：高德
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 196 题：如何把真实 dom 转变为虚拟 dom，代码实现一下
+### 如何把真实 dom 转变为虚拟 dom，代码实现一下
 
 公司：高德
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 197 题：说一下错误监控的实现，错误监控的正确使用方式，日志如何分等级
+### 说一下错误监控的实现，错误监控的正确使用方式，日志如何分等级
 
 公司：高德
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 198 题：说一下 Vue3 与 Vue2 的对比
+### 说一下 Vue3 与 Vue2 的对比
 
 公司：高德
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 199 题：vue 对数组的方法做了重写的操作，如何实现对 vue2 中对数组操作的 push()方法
+### vue 对数组的方法做了重写的操作，如何实现对 vue2 中对数组操作的 push()方法
 
 公司：高德
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 200 题：手动实现一个 Promisify 函数
+### 手动实现一个 Promisify 函数
 
 公司：高德
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 201 题：说一下 React 有状态组件与无状态组件区别，以及为什么要用，它的优缺点
+### 说一下 React 有状态组件与无状态组件区别，以及为什么要用，它的优缺点
 
 公司：高德
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 202 题：说一下 Nginx 的缓存策略，强缓存与弱缓存的区别，二者的使用场景
+### 说一下 Nginx 的缓存策略，强缓存与弱缓存的区别，二者的使用场景
 
 公司：高德
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 203 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 var a = { x: 1 };
@@ -2386,11 +2300,11 @@ console.log(b); // ?
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 204 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 Function.prototype.a = () = >{alert(1)}
@@ -2406,11 +2320,11 @@ a.b();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 205 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 let a = 0;
@@ -2426,11 +2340,11 @@ function c() {}
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 206 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 var x = 10;
@@ -2449,11 +2363,11 @@ a(20);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 206 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 console.log(1);
@@ -2486,11 +2400,11 @@ Promise.resolve().then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 207 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 [1, 2, 3, 4, 5].map(parselnt);
@@ -2501,11 +2415,11 @@ Promise.resolve().then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 208 题：请写出以下代码执行结果
+### 请写出以下代码执行结果
 
 ```js
 typeof typeof typeof [];
@@ -2516,11 +2430,11 @@ typeof typeof typeof [];
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 208 题：以下 css 最后是什么颜色
+### 以下 css 最后是什么颜色
 
 ```html
 <style>
@@ -2541,21 +2455,21 @@ typeof typeof typeof [];
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/296)
 
 <br/>
 
-### 第 209 题：说一下什么是死锁
+### 说一下什么是死锁
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 210 题：实现以下代码
+### 实现以下代码
 
 ```js
 function add() {
@@ -2575,651 +2489,631 @@ console.log(add(two(one()))); //3
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 211 题：请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
+### 请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
 
 公司：快手
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 212 题：实现一个函数柯里化
+### 实现一个函数柯里化
 
 公司：快手
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 213 题：一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
+### 一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
 
 公司：快手
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/291)
 
 <br/>
 
-### 第 214 题：简述 Vue 的基本原理
+### 简述 Vue 的基本原理
 
 公司：脉脉
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 215 题：简述 Vue 的生命周期以及每个阶段做的事
+### 简述 Vue 的生命周期以及每个阶段做的事
 
 公司：脉脉、58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 216 题：说一下 Vue 组件的通信方式都有哪些？(父子组件，兄弟组件，多级嵌套组件等等)
+### 说一下 Vue 组件的通信方式都有哪些？(父子组件，兄弟组件，多级嵌套组件等等)
 
 公司：脉脉、58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 217 题：说一下 Vuex 的原理以及自己的理解
+### 说一下 Vuex 的原理以及自己的理解
 
 公司：脉脉
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 218 题：Vue v-model 是如何实现的，语法糖实际是什么
+### Vue v-model 是如何实现的，语法糖实际是什么
 
 公司：脉脉
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 219 题：Vue v-model 是如何实现的，语法糖实际是什么
-
-公司：脉脉
-
-分类：Vue
-
-[答案&解析]()
-
-<br/>
-
-### 第 220 题：说一下对 React context 的理解
+### 说一下对 React context 的理解
 
 公司：脉脉、酷家乐
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 221 题：说一下对 React-redux 的理解以及它的原理，主要解决什么问题
+### 说一下对 React-redux 的理解以及它的原理，主要解决什么问题
 
 公司：阿里、脉脉
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 222 题：说一下 Redux 的原理，介绍下整体的一个工作流程
+### 说一下 Redux 的原理，介绍下整体的一个工作流程
 
 公司：脉脉、兑吧、寺库、蘑菇街、百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 223 题：React 如何避免 renderd 的触发
+### React 如何避免 renderd 的触发
 
 公司：脉脉
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 224 题：说一下 Vue dom diff 算法
+### 说一下 Vue dom diff 算法
 
 公司：网易
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 225 题：说一下对 vnode 的理解，vnode 的引入与直接操作原生 dom 相比，哪一个相率更高，为什么
+### 说一下对 vnode 的理解，vnode 的引入与直接操作原生 dom 相比，哪一个相率更高，为什么
 
 公司：脉脉、菜鸟网络、蘑菇街
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 226 题：说一下对原型链的理解，画一个经典的原型链图示
+### 说一下对原型链的理解，画一个经典的原型链图示
 
 公司：脉脉、兑吧、快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 227 题：简述 Grid 布局
+### 简述 Grid 布局
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/278)
 
 <br/>
 
-### 第 228 题：说一下 ajax/axios/fetch 的区别
+### 说一下 ajax/axios/fetch 的区别
 
 公司：脉脉
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 229 题：用 Promise 封装一个 ajax
+### 用 Promise 封装一个 ajax
 
 公司：脉脉
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 230 题：动手实现一个左右固定，中间自适应的三列布局？(至少三种)
+### 动手实现一个左右固定100px，中间自适应的三列布局？(至少三种)
 
-公司：自如
+公司：自如、头条
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/275)
 
 <br/>
 
-### 第 231 题：请描述 CSRF、XSS 的基本概念、攻击原理和防御措施？
+### 请描述 CSRF、XSS 的基本概念、攻击原理和防御措施？
 
 公司：自如、挖财、腾讯应用宝、沪江、喜马拉雅
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 232 题：请描述提升页面性能的方式有哪些，如何进行首页加载优化
+### 请描述提升页面性能的方式有哪些，如何进行首页加载优化
 
 公司：自如
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 233 题：描述 DOM 事件捕获的具体流程
+### 描述 DOM 事件捕获的具体流程
 
 公司：自如
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 234 题：请写出 HTTP 报文的组成部分
+### Http 报文的请求会有几个部分？请写出 HTTP 报文的组成部分
+
+公司：自如、滴滴
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+
+<br/>
+
+### 301，302，304 的区别
 
 公司：自如
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 235 题：301，302，304 的区别
-
-公司：自如
-
-分类：网络&安全
-
-[答案&解析]()
-
-<br/>
-
-### 第 236 题：请实现`$on,$emit`
+### 请实现`$on,$emit`
 
 公司：自如
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 237 题：实现 bind 方法，不能使用 call、apply、bind
+### 实现 bind 方法，不能使用 call、apply、bind
 
 公司：自如、腾讯应用宝、快手
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 238 题：手写实现 sleep 函数
+### 手写实现 sleep 函数
 
 公司：自如
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 239 题：介绍一下 node 核心模块（主要是 stream）
+### 介绍一下 node 核心模块（主要是 stream）
 
 公司：自如、菜鸟网络
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 240 题：说一下 webpack 与 gulp 的区别（源码角度）
+### 说一下 webpack 与 gulp 的区别（源码角度）
 
 公司：自如
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 241 题：请写出原生 js 如何设置元素高度
+### 请写出原生 js 如何设置元素高度
 
 公司：自如
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 242 题：说一下 Vue 的\$nextTick 原理
+### 说一下 Vue 的\$nextTick 原理
 
 公司：自如
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 243 题：说一下 vue-router 的原理
+### 说一下 vue-router 的原理
 
 公司：自如
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 244 题：node 如何做错误监控（运行时与其他）如何生成日志，日志等级
+### node 如何做错误监控（运行时与其他）如何生成日志，日志等级
 
 公司：自如
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 245 题：Node 的适用场景以及优缺点是什么？
+### Node 的适用场景以及优缺点是什么？
 
 公司：道一云
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 246 题：Vue 是如何收集依赖的
+### Vue 是如何收集依赖的
 
 公司：自如
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 247 题：用原生 js 实现自定义事件
+### 用原生 js 实现自定义事件
 
 公司：自如
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 248 题：换行字符串格式化
+### 换行字符串格式化
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 249 题：屏幕占满和未占满的情况下，使 footer 固定在底部，尽量多种方法
+### 屏幕占满和未占满的情况下，使 footer 固定在底部，尽量多种方法
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/256)
 
 <br/>
 
-### 第 250 题：输入一个日期 返回几秒前、几小时前、几天前、几月前
+### 输入一个日期 返回几秒前、几小时前、几天前、几月前
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 251 题：将 153812.7 转化为 153,812.7
+### 将 153812.7 转化为 153,812.7
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 252 题：给定一个数组，形如 [1, 1, 2 , 3, 3, 3, 3, 4, 6, 6]，给定一个数 n，例如 3，找出给定的数 n 在数组内出现的次数，要求时间复杂度小于 O(n)
+### 给定一个数组，形如 [1, 1, 2 , 3, 3, 3, 3, 4, 6, 6]，给定一个数 n，例如 3，找出给定的数 n 在数组内出现的次数，要求时间复杂度小于 O(n)
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/243)
 
 <br/>
 
-### 第 253 题：说一下 https 获取加密秘钥的过程
+### 说一下 https 获取加密秘钥的过程
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 254 题：Css 画一个三角形
+### Css 画一个三角形
 
 公司：会小二、高思教育、58
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/413)
 
 <br/>
 
-### 第 255 题：说一下 Vue 单页与多页的区别
+### 说一下 Vue 单页与多页的区别
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 256 题：说一下 Vue 路由实现原理
+### 说一下 Vue 路由实现原理
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 257 题：数组有哪些方法 讲讲区别跟使用场景
+### 数组有哪些方法 讲讲区别跟使用场景
 
 公司：掌门一对一
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 257 题：localstorage、sessionStorage、indexDB 和 cookie 的区别
+### localstorage、sessionStorage、indexDB 和 cookie 的区别
 
 公司：掌门一对一、滴滴、兑吧、寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 258 题：讲一下函数式编程
+### 讲一下函数式编程
 
 公司：掌门一对一
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 259 题：promise 跟 async await 的区别，使用场景 
+### promise 跟 async await 的区别，使用场景 
 
 公司：网易、虎扑、沪江
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 260 题：async、await 如何进行错误捕获
+### async、await 如何进行错误捕获
 
 公司：虎扑
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 261 题：Css 超出省略怎么写，三行超出省略怎么写
+### Css 超出省略怎么写，三行超出省略怎么写
 
 公司：虎扑
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/405)
 
 <br/>
 
-### 第 262 题：Css inherit、initial、unset 三者的区别
+### Css inherit、initial、unset 三者的区别
 
 公司：虎扑
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/404)
 
 <br/>
 
-### 第 262 题：介绍下 Flex 布局，属性都有哪些，都是干啥的
+### 介绍下 Flex 布局，属性都有哪些，都是干啥的
 
 公司：阿里、虎扑、快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/403)
 
 <br/>
 
-### 第 263 题：点击一个按钮，浏览器会做些什么
+### 点击一个按钮，浏览器会做些什么
 
 公司：虎扑
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 264 题：script 的 async 跟 defer 的区别？
+### script 的 async 跟 defer 的区别？
 
 公司：虎扑
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 265 题：React15/16.x 的区别
+### React15/16.x 的区别
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 266 题：weak-Set、weak-Map 和 Set、Map 区别
+### weak-Set、weak-Map 和 Set、Map 区别
 
 公司：虎扑
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 267 题：mvvm 模型和 mvc 模型区别
+### mvvm 模型和 mvc 模型区别
 
 公司：虎扑
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 268 题：如何实现一个 mvvm 模型
+### 如何实现一个 mvvm 模型
 
 公司：虎扑
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 269 题：如何实现一个 mvvm 模型
-
-公司：虎扑
-
-分类：其它
-
-[答案&解析]()
-
-<br/>
-
-### 第 270 题：Vue3.0 为什么要用 proxy？是怎么用 proxy 实现数据监听的?
+### Vue3.0 为什么要用 proxy？是怎么用 proxy 实现数据监听的?
 
 公司：虎扑、CVTE
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 271 题：valueOf 与 toString 的区别
+### valueOf 与 toString 的区别
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 272 题：TCP 三次握手
+### TCP 三次握手
 
 公司：菜鸟网络、头条
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 273 题：koa2 和 express 区别
+### koa2 和 express 区别
 
 公司：菜鸟网络、海风教育
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 274 题：怎么判断是一个空对象
+### 怎么判断是一个空对象
 
 公司：菜鸟网络
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 275 题：请写出下面代码的执行结果
+### 请写出下面代码的执行结果
 
 ```js
 setTimeout(() => {
@@ -3244,11 +3138,11 @@ new Promise((res) => res()).then(() => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 276 题：请写出下面代码的执行结果
+### 请写出下面代码的执行结果
 
 ```js
 function Foo() {
@@ -3276,27 +3170,27 @@ new Foo().getName();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 277 题：现在有随机整数数组，例如[2,11,20,160,3,1...]，请挑出数组内，三个随机整数和为 100 的所有数据。
+### 现在有随机整数数组，例如[2,11,20,160,3,1...]，请挑出数组内，三个随机整数和为 100 的所有数据。
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/388)
 
 <br/>
 
-### 第 278 题：请只用数组方法和 Math.random()在一条语句的情况下，实现生成给定位数的随机数组，例如生成 10 位随机数组[1.1,102.1,2,3,8,4,90,123,11,123],数组内数字随机生成。
+### 请只用数组方法和 Math.random()在一条语句的情况下，实现生成给定位数的随机数组，例如生成 10 位随机数组[1.1,102.1,2,3,8,4,90,123,11,123],数组内数字随机生成。
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 279 题：实现一个 setter 方法
+### 实现一个 setter 方法
 
 ```js
 let setter = function (conten, key, value) {
@@ -3320,109 +3214,99 @@ console.log(n.b.bx); //1
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 280 题：介绍下按需加载的原理
+### LocalStorage 加密原理
 
 公司：腾讯应用宝
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 281 题：LocalStorage 加密原理
-
-公司：腾讯应用宝
-
-分类：网络&安全
-
-[答案&解析]()
-
-<br/>
-
-### 第 282 题：setTimeout 与 setInterval 区别
+### setTimeout 与 setInterval 区别
 
 公司：腾讯应用宝
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 283 题：说一下常见的状态码
+### 说一下常见的状态码
 
 公司：腾讯应用宝、喜马拉雅
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 283 题：项目中如何应用数据结构
+### 项目中如何应用数据结构
 
 公司：挖财
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 284 题：304 页面的原理
+### 304 页面的原理
 
 公司：腾讯应用宝
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 285 题：RN、Weex、Dart 的优缺点
+### RN、Weex、Dart 的优缺点
 
 公司：腾讯应用宝、寺库
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 286 题：知道语义化吗？说说你理解的语义化，如果是你，平时会怎么做来保证语义化？说说你了解的 HTML5 语义化标签？
+### 知道语义化吗？说说你理解的语义化，如果是你，平时会怎么做来保证语义化？说说你了解的 HTML5 语义化标签？
 
 公司：蘑菇街
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 287 题：闭包的核心是什么
+### 闭包的核心是什么
 
 公司：寺库
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 288 题：响应式布局用到的技术，移动端需要注意什么
+### 响应式布局用到的技术，移动端需要注意什么
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/377)
 
 <br/>
 
-### 第 289 题：写出代码输出结果
+### 写出代码输出结果
 
 ```js
 var fullname = "Test1";
@@ -3442,207 +3326,207 @@ console.log(test());
 
 公司：心娱、安居客
 
-分类：Css
+分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 290 题：实现一个功能，发送请求 5s 时间后，如果没有数据返回，中断请求,提示错误
+### 实现一个功能，发送请求 5s 时间后，如果没有数据返回，中断请求,提示错误
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 290 题：什么是作用域链
+### 什么是作用域链
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 291 题：介绍事件冒泡、事件代理、事件捕获，以及它们的关系
+### 介绍事件冒泡、事件代理、事件捕获，以及它们的关系
 
 公司：腾讯应用宝、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 292 题：for..of 和 for...in 是否可以直接遍历对象，为什么
+### for..of 和 for...in 是否可以直接遍历对象，为什么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 293 题：在 map 中和 for 中调用异步函数的区别
+### 在 map 中和 for 中调用异步函数的区别
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 294 题：gennerator yield 的作用
+### gennerator yield 的作用
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 295 题：promise 的状态有哪些
+### promise 的状态有哪些
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 296 题：在 ES6 中有哪些解决异步的方法
+### 在 ES6 中有哪些解决异步的方法
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 297 题：es6 类继承中 super 的作用
+### es6 类继承中 super 的作用
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 298 题：cros 的简单请求和复杂请求的区别
+### cros 的简单请求和复杂请求的区别
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 299 题：统计一组整形数组的最大差值？
+### 统计一组整形数组的最大差值？
 
 公司：心娱
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/365)
 
 <br/>
 
-### 第 300 题：addEventListener 的第三个参数的作用
+### addEventListener 的第三个参数的作用
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 301 题：上传文件的 Content_Type 什么，node 如何拿到上传的文件内容(不适用第三方插件)？文件内容是一次行传输过去的么
+### 上传文件的 Content_Type 什么，node 如何拿到上传的文件内容(不适用第三方插件)？文件内容是一次行传输过去的么
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 302 题：获取 id 为 netease 节点下所有的 checkbox 子元素(不用框架，注意兼容)
+### 获取 id 为 netease 节点下所有的 checkbox 子元素(不用框架，注意兼容)
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 303 题：使用原型链如何实现继承
+### 使用原型链如何实现继承
 
 公司：腾讯应用宝、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 304 题：如何获取一个对象的深度
+### 如何获取一个对象的深度
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 305 题：reduce 函数的功能，如何实现的，动手实现一下
+### reduce 函数的功能，如何实现的，动手实现一下
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 306 题：说一下 splice 和 slice 的功能用法
+### 说一下 splice 和 slice 的功能用法
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 307 题：面向对象的三要素是啥？都是啥意思？
+### 面向对象的三要素是啥？都是啥意思？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 308 题：函数中的 thisy 有几种
+### 函数中的 thisy 有几种
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 309 题：如何同时获取 html 中的 h1,h2,h3,h4,h5,h6 中的内容
+### 如何同时获取 html 中的 h1,h2,h3,h4,h5,h6 中的内容
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 310 题：JavaScript 的执行流程
+### JavaScript 的执行流程
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 311 题：Promise.resolve(obj)，obj 有几种可能
+### Promise.resolve(obj)，obj 有几种可能
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 312 题：写出代码执行结果
+### 写出代码执行结果
 
 ```js
 new Promise((resolve, reject) => {
@@ -3658,157 +3542,157 @@ new Promise((resolve, reject) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 313 题：nextTick 是在本次循环执行，还是在下次，setTimeout(() => {}, 0)呢？
+### nextTick 是在本次循环执行，还是在下次，setTimeout(() => {}, 0)呢？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 314 题：A、B 两个条件组件，如何做到 webpack 只打包条件为 true 的组件，false 的组件不打包
+### A、B 两个条件组件，如何做到 webpack 只打包条件为 true 的组件，false 的组件不打包
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 315 题：说一下对 vue3.0 的了解，vue3.0 为什么要用代理
+### 说一下对 vue3.0 的了解，vue3.0 为什么要用代理
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 316 题：子组件可以直接改变父组件的数据么，说明原因
+### 子组件可以直接改变父组件的数据么，说明原因
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 317 题：webpack 怎么处理内联 css 的
+### webpack 怎么处理内联 css 的
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 318 题：webpack 如何做异步加载
+### webpack 如何做异步加载
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 319 题：客户端缓存有几种方式？浏览器出现 from disk、from memory 的策略是啥
+### 客户端缓存有几种方式？浏览器出现 from disk、from memory 的策略是啥
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 320 题：什么是 http？什么是 http2？说下 http 与 http2 的工作流程
+### 什么是 http？什么是 http2？说下 http 与 http2 的工作流程
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 321 题：客户端如何发送 http 请求
+### 客户端如何发送 http 请求
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 322 题：使用正则去掉 Dom 中的内联样式
+### 使用正则去掉 Dom 中的内联样式
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 323 题：写一个匹配 ip 地址的正则
+### 写一个匹配 ip 地址的正则
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 324 题：写一个匹配 Html 标签的正则
+### 写一个匹配 Html 标签的正则
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 325 题：使用 typescript 的装饰器能否实现函数调用前出现加载动画，调用后关闭，如果能，这个加载动画的控制代码是放在哪种装饰器上呢
+### 使用 typescript 的装饰器能否实现函数调用前出现加载动画，调用后关闭，如果能，这个加载动画的控制代码是放在哪种装饰器上呢
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 326 题：unicode 和 utf8 的关系
+### unicode 和 utf8 的关系
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 327 题：介绍下 pm2，pm2 依据什么重启服务
+### 介绍下 pm2，pm2 依据什么重启服务
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 328 题：什么是微服务，微服务跟单体应用的区别是啥，用微服务有啥好处？
+### 什么是微服务，微服务跟单体应用的区别是啥，用微服务有啥好处？
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 329 题：IOC 是啥，应用场景是啥？
+### IOC 是啥，应用场景是啥？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 329 题：是否了解 docker，介绍一下
+### 是否了解 docker，介绍一下
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 330 题：写出代码执行的打印结果
+### 写出代码执行的打印结果
 
 ```js
 function a(obj) {
@@ -3823,11 +3707,11 @@ console.log(obj);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 331 题：实现函数
+### 实现函数
 
 ```js
 d1,,,
@@ -3839,2168 +3723,2098 @@ d3,,,
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 332 题：使用过的 koa2 中间件，中间价的原理是什么
+### 使用过的 koa2 中间件，中间价的原理是什么
 
 公司：阿里、宝宝树
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 333 题：koa-body 原理
+### koa-body 原理
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 334 题：有没有写过中间件，介绍下自己写过的中间件
+### 有没有写过中间件，介绍下自己写过的中间件
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 334 题：有没有涉及到 Cluster，说一下你的理解
+### 有没有涉及到 Cluster，说一下你的理解
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 334 题：有没有涉及到 Cluster，说一下你的理解
+### master 挂了的话 pm2 怎么处理
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 334 题：master 挂了的话 pm2 怎么处理
+### Node 如何和 MySQL 进行通信
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 334 题：Node 如何和 MySQL 进行通信
-
-公司：阿里
-
-分类：Node
-
-[答案&解析]()
-
-<br/>
-
-### 第 335 题：如何配置 React-Router 实现路由切换
+### 如何配置 React-Router 实现路由切换
 
 公司：阿里、滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 336 题：服务端渲染 SSR
+### 服务端渲染 SSR
 
 公司：阿里
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 337 题：介绍 Redux 数据流的流程
+### 介绍 Redux 数据流的流程
 
 公司：阿里
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 338 题：Redux 如何实现多个组件之间的通信，多个组件使用相同状态如何进行管理
+### Redux 如何实现多个组件之间的通信，多个组件使用相同状态如何进行管理
 
 公司：阿里
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 339 题：React 路由的动态加载模块
+### React 路由的动态加载模块
 
 公司：阿里
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 340 题：多个组件之间如何拆分各自的 state，每块小的组件有自己的状态，它们之间还有一些公共的状态需要维护，这如何思考
+### 多个组件之间如何拆分各自的 state，每块小的组件有自己的状态，它们之间还有一些公共的状态需要维护，这如何思考
 
 公司：阿里
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 341 题：使用过的 Redux 中间件
+### 使用过的 Redux 中间件
 
 公司：阿里
 
 分类：React
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 342 题：redux 的设计思想
+### redux 的设计思想
 
 公司：头条
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 343 题：移动端适配 1px 的问题
+### 移动端适配 1px 的问题
 
 公司：阿里
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/545)
 
 <br/>
 
-### 第 344 题：居中为什么要使用 transform（为什么不使用 marginLeft/marginTop）
+### 居中为什么要使用 transform（为什么不使用 marginLeft/marginTop）
 
 公司：阿里
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/544)
 
 <br/>
 
-### 第 345 题：Webpack 里面的插件时怎么实现的
+### Webpack 里面的插件时怎么实现的
 
 公司：阿里
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 346 题：dev-server 是怎么跑起来的
+### dev-server 是怎么跑起来的
 
 公司：阿里
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 347 题：Webpack 抽取公共文件是怎么配置的
+### Webpack 抽取公共文件是怎么配置的
 
 公司：阿里
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 348 题：项目中如何处理安全问题
+### 项目中如何处理安全问题
 
 公司：阿里、喜马拉雅
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 349 题：怎么实现 this 对象的深拷贝
+### 怎么实现 this 对象的深拷贝
 
 公司：阿里
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 350 题：使用 canvas 绘图时如何组织成通用组件
+### 使用 canvas 绘图时如何组织成通用组件
 
 公司：宝宝树
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 351 题：表单可以跨域吗
+### 表单可以跨域吗
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 352 题：搜索请求如何处理？搜索请求中文如何请求？
+### 搜索请求如何处理？搜索请求中文如何请求？
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 353 题：介绍观察者模式
+### 介绍观察者模式
 
 公司：网易、海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 354 题：介绍中介者模式
+### 介绍中介者模式
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 355 题：观察者和订阅-发布的区别，各自用在哪里
+### 观察者和订阅-发布的区别，各自用在哪里
 
 公司：网易、有赞、微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 355 题：通过什么做到并发请求
+### 通过什么做到并发请求
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 356 题：http1.1 时如何复用 tcp 连接
+### http1.1 时如何复用 tcp 连接
 
 公司：网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 357 题：介绍 service worker
+### 介绍 service worker
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 358 题：介绍 css3 中 position:sticky
+### 介绍 css3 中 position:sticky
 
 公司：网易
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/529)
 
 <br/>
 
-### 第 359 题：redux 请求中间件如何处理并发
+### redux 请求中间件如何处理并发
 
 公司：网易
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 360 题：介绍浏览器事件流向
+### 介绍浏览器事件流向
 
 公司：网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 361 题：介绍事件代理以及优缺点，主要解决什么问题
+### 介绍事件代理以及优缺点，主要解决什么问题
 
 公司：网易、沪江
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 362 题：React 组件中怎么做事件代理？它的原理是什么？
+### React 组件中怎么做事件代理？它的原理是什么？
 
 公司：网易
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 363 题：介绍下 this 的各种情况
+### 介绍下 this 的各种情况
 
 公司：网易、蘑菇街
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 364 题：前端如何控制管理路由
+### 前端如何控制管理路由
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 365 题：使用路由时出现问题如何解决
+### 使用路由时出现问题如何解决
 
 公司：网易
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 366 题：React 怎么做数据的检查和变化
+### React 怎么做数据的检查和变化
 
 公司：网易
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 367 题：react-router 里的 Link 标签和 a 标签有什么区别
+### react-router 里的 Link 标签和 a 标签有什么区别
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 368 题：a 标签默认事件禁掉之后做了什么才实现了跳转
+### a 标签默认事件禁掉之后做了什么才实现了跳转
 
 公司：滴滴
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 369 题：a 标签默认事件禁掉之后做了什么才实现了跳转
-
-公司：滴滴
-
-分类：Html
-
-[答案&解析]()
-
-<br/>
-
-### 第 370 题：整个前端性能提升大致分几类
+### 整个前端性能提升大致分几类
 
 公司：滴滴
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 371 题：import { Button } from 'antd'，打包的时候只打包 button，分模块加载，是怎么做到的
+### import { Button } from 'antd'，打包的时候只打包 button，分模块加载，是怎么做到的
 
 公司：滴滴
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 372 题：使用 import 时，webpack 对 node_modules 里的依赖会做什么
+### 使用 import 时，webpack 对 node_modules 里的依赖会做什么
 
 公司：滴滴
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 373 题：JavaScript 异步解决方案的发展历程以及优缺点
+### JavaScript 异步解决方案的发展历程以及优缺点
 
 公司：滴滴、挖财、宝宝树、海康威视
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 374 题：Http 报文的请求会有几个部分
+### cookie 放哪里，cookie 能做的事情和存在的价值
 
 公司：滴滴
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 375 题：cookie 放哪里，cookie 能做的事情和存在的价值
+### cookie 和 token 都存放在 header 里面，为什么只劫持前者
 
 公司：滴滴
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 376 题：cookie 和 token 都存放在 header 里面，为什么只劫持前者
+### 以下 axios 的特点正确的有哪些？(多选题)
 
-公司：滴滴
-
-分类：网络&安全
-
-[答案&解析]()
-
-<br/>
-
-### 第 377 题：以下 axios 的特点正确的有哪些？(多选题)
-
-选项：
-
-- A.axios 可以跨平台，支持 promise 的所有 API
-- B.可以拦截请求和响应
-- C.可以转换请求数据和响应数据，并对响应回来的内容自动转换为 json 类型的数据
-- D.安全性更高，客户端支持防御 XSRF
+```js
+A.axios 可以跨平台，支持 promise 的所有 API
+B.可以拦截请求和响应
+C.可以转换请求数据和响应数据，并对响应回来的内容自动转换为 json 类型的数据
+D.安全性更高，客户端支持防御 XSRF
+```
 
 公司：道一云
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 378 题：React 中 Dom 结构发生变化后内部经历了哪些变化
+### React 中 Dom 结构发生变化后内部经历了哪些变化
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 379 题：React 挂载的时候有 3 个组件，textComponent、composeComponent、domComponent，区别和关系，Dom 结构发生变化时怎么区分 data 的变化，怎么更新，更新怎么调度，如果更新的时候还有其他任务存在怎么处理
+### React 挂载的时候有 3 个组件，textComponent、composeComponent、domComponent，区别和关系，Dom 结构发生变化时怎么区分 data 的变化，怎么更新，更新怎么调度，如果更新的时候还有其他任务存在怎么处理
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 380 题：React 子父组件之间如何传值
+### React 子父组件之间如何传值
 
 公司：饿了么
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 381 题：Redux 中间件是什么东西？接受几个参数？柯里化函数两端的参数具体是什么东西？
+### Redux 中间件是什么东西？接受几个参数？柯里化函数两端的参数具体是什么东西？
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 382 题：Redux 中间件· 中间件是怎么拿到 store 和 action？然后怎么处理？
+### Redux 中间件· 中间件是怎么拿到 store 和 action？然后怎么处理？
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 383 题：state 是怎么注入到组件的，从 reducer 到组件经历了什么样的过程
+### state 是怎么注入到组件的，从 reducer 到组件经历了什么样的过程
 
 公司：滴滴
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 384 题：koa 中 response.send、response.rounded、response.json 发生了什么事，浏览器为什么能识别到它是一个 json 结构或是 html
+### koa 中 response.send、response.rounded、response.json 发生了什么事，浏览器为什么能识别到它是一个 json 结构或是 html
 
 公司：滴滴
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 385 题：koa-bodyparser 如何解析 request
+### koa-bodyparser 如何解析 request
 
 公司：滴滴
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 386 题：介绍 AST（Abstract Syntax Tree）抽象语法树
+### 介绍 AST（Abstract Syntax Tree）抽象语法树
 
 公司：滴滴
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 387 题：安卓 Activity 之间数据是怎么传递的
+### 安卓 Activity 之间数据是怎么传递的
 
 公司：滴滴
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 388 题：安卓 4.0 到 6.0 过程中 WebView 对 js 兼容性的变化
+### 安卓 4.0 到 6.0 过程中 WebView 对 js 兼容性的变化
 
 公司：滴滴
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 389 题：WebView 和原生是如何通信
+### WebView 和原生是如何通信
 
 公司：滴滴
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 390 题：对 async、await 的理解，内部原理是怎样的？
+### 对 async、await 的理解，内部原理是怎样的？
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 391 题：清除浮动的方式
+### 清除浮动的方式
 
 公司：头条
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/498)
 
 <br/>
 
-### 第 392 题：接入 Redux 过程？绑定 connect 的过程？connect 的原理
+### 接入 Redux 过程？绑定 connect 的过程？connect 的原理
 
 公司：头条、宝宝树
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 393 题：== 和 ===的区别，什么情况下用相等==
+### == 和 ===的区别，什么情况下用相等==
 
 公司：头条、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 394 题：bind、call、apply 的区别
+### bind、call、apply 的区别
 
 公司：头条、挖财、饿了么、心娱
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 395 题：介绍下原型链
+### 介绍下原型链
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 396 题：Linux 754 介绍
+### Linux 754 介绍
 
 公司：有赞
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 397 题：介绍冒泡排序、选择排序，说说冒泡排序如何优化
+### 介绍冒泡排序、选择排序，说说冒泡排序如何优化
 
 公司：有赞
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/492)
 
 <br/>
 
-### 第 397 题：transform 动画和直接使用 left、top 改变位置有什么优缺点
+### transform 动画和直接使用 left、top 改变位置有什么优缺点
 
 公司：有赞、腾讯应用宝
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/491)
 
 <br/>
 
-### 第 398 题：如何判断链表是否有环
+### 如何判断链表是否有环
 
 公司：有赞
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/490)
 
 <br/>
 
-### 第 399 题：介绍二叉搜索树的特点
+### 介绍二叉搜索树的特点
 
 公司：有赞
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/489)
 
 <br/>
 
-### 第 400 题：介绍暂时性死区
+### 介绍暂时性死区
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 401 题：ES6 中的 map 和原生的对象有什么区别
+### ES6 中的 map 和原生的对象有什么区别
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 402 题：RN 如何调用原生的一些功能、如何和原生进行通信
+### RN 如何调用原生的一些功能、如何和原生进行通信
 
 公司：寺库、宝宝树
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 403 题：react 异步渲染的概念,介绍 Time Slicing 和 Suspense
+### react 异步渲染的概念,介绍 Time Slicing 和 Suspense
 
 公司：有赞
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 404 题：16.X 中 props 改变后在哪个生命周期中处理
+### 16.X 中 props 改变后在哪个生命周期中处理
 
 公司：有赞
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 405 题：对纯函数的理解
+### 对纯函数的理解
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 405 题：介绍 JSX
+### 介绍 JSX
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 406 题：如何做 RN 在安卓和 IOS 端的适配
+### 如何做 RN 在安卓和 IOS 端的适配
 
 公司：有赞
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 407 题：RN 为什么能在原生中绘制成原生组件
+### RN 为什么能在原生中绘制成原生组件
 
 公司：有赞
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 408 题：对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？
+### 对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？
 
 公司：有赞、微医、58
 
 分类：React、Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 409 题：cookie 的引用为了解决什么问题
+### cookie 的引用为了解决什么问题
 
 公司：寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 410 题：如何设计一个 localStorage，保证数据的实效性
+### 如何设计一个 localStorage，保证数据的实效性
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 411 题：介绍下 React 高阶组件，和普通组件有什么区别，适用什么场景
+### 介绍下 React 高阶组件，和普通组件有什么区别，适用什么场景
 
 公司：有赞、饿了么、喜马拉雅、乘法云
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 412 题：实现 sum 方法，使 sum(x)(y),sum(x,y)返回的结果相同
+### 实现 sum 方法，使 sum(x)(y),sum(x,y)返回的结果相同
 
 公司：有赞、网易、乘法云
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 413 题：两个对象如何比较
+### 两个对象如何比较
 
 公司：有赞
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 414 题：说一下变量的作用域链
+### 说一下变量的作用域链
 
 公司：挖财
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 415 题：介绍 dom 树对比
+### 介绍 dom 树对比
 
 公司：挖财
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 416 题：如何设计状态树
+### 如何设计状态树
 
 公司：挖财
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 417 题：native 提供了什么能力给 RN
+### native 提供了什么能力给 RN
 
 公司：挖财
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 418 题：如何做工程上的优化
+### 如何做工程上的优化
 
 公司：挖财
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 419 题：shouldComponentUpdate 是为了解决什么问题
+### shouldComponentUpdate 是为了解决什么问题
 
 公司：挖财
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 420 题：shouldComponentUpdate 是为了解决什么问题
+### 如何解决 props 层级过深的问题
 
 公司：挖财
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 421 题：如何解决 props 层级过深的问题
-
-公司：挖财
-
-分类：React
-
-[答案&解析]()
-
-<br/>
-
-### 第 422 题：前端怎么做单元测试
+### 前端怎么做单元测试
 
 公司：挖财
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 423 题：pm2 怎么做进程管理，进程挂掉怎么处理
+### pm2 怎么做进程管理，进程挂掉怎么处理
 
 公司：挖财
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 424 题：不用 pm2 怎么做进程管理
+### 不用 pm2 怎么做进程管理
 
 公司：挖财
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 425 题：jsonp 方案需要服务端怎么配合
+### jsonp 方案需要服务端怎么配合
 
 公司：沪江
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 426 题：Ajax 发生跨域要设置什么（前端）
+### Ajax 发生跨域要设置什么（前端）
 
 公司：沪江
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 427 题：加上 CORS 之后从发起到请求正式成功的过程
+### 加上 CORS 之后从发起到请求正式成功的过程
 
 公司：沪江
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 428 题：加上 CORS 之后从发起到请求正式成功的过程
+### Async 里面有多个 await 请求，可以怎么优化
 
 公司：沪江
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 429 题：Async 里面有多个 await 请求，可以怎么优化
-
-公司：沪江
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 430 题：React 遇到性能问题一般在哪个生命周期里解决
+### React 遇到性能问题一般在哪个生命周期里解决
 
 公司：沪江
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 431 题：Vue 中一次性 200 条弹幕怎么处理
+### Vue 中一次性 200 条弹幕怎么处理
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 432 题：React/Redux 中哪些功能用到了哪些设计模式
+### React/Redux 中哪些功能用到了哪些设计模式
 
 公司：沪江
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 433 题：JavaScript 变量类型分为几种，区别是什么
+### JavaScript 变量类型分为几种，区别是什么
 
 公司：沪江、酷狗
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 434 题：JavaScript 里垃圾回收机制是什么，常用的是哪种，怎么处理的
+### JavaScript 里垃圾回收机制是什么，常用的是哪种，怎么处理的
 
 公司：沪江、寺库
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 435 题：一般怎么组织 CSS（Webpack）
+### 一般怎么组织 CSS（Webpack）
 
 公司：沪江
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 436 题：小程序里面可以打开的页面是多少
+### 小程序里面可以打开的页面是多少
 
 公司：饿了么
 
 分类：小程序
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 437 题：一个对象数组，每个子对象包含一个 id 和 name，React 如何渲染出全部的 name？在哪个生命周期里写？其中有几个 name 不存在，通过异步接口获取，如何做？渲染的时候 key 给什么值？可以使用 index 吗？用 id 好还是 index 好？
+### 一个对象数组，每个子对象包含一个 id 和 name，React 如何渲染出全部的 name？在哪个生命周期里写？其中有几个 name 不存在，通过异步接口获取，如何做？渲染的时候 key 给什么值？可以使用 index 吗？用 id 好还是 index 好？
 
 公司：饿了么
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 438 题：webpack 如何配 sass，需要配哪些 loader，配 css 需要哪些 loader
+### webpack 如何配 sass，需要配哪些 loader，配 css 需要哪些 loader
 
 公司：饿了么
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 439 题：如何配置把 js、css、html 单独打包成一个文件
+### 如何配置把 js、css、html 单独打包成一个文件
 
 公司：饿了么
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 440 题：上下固定，中间滚动布局如何实现
+### 上下固定，中间滚动布局如何实现
 
 公司：饿了么
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/449)
 
 <br/>
 
-### 第 441 题：ES5 和 ES6 有什么区别
+### ES5 和 ES6 有什么区别
 
 公司：饿了么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 442 题：取数组的最大值（ES5、ES6）
+### 取数组的最大值（ES5、ES6）
 
 公司：饿了么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 443 题：some、every、find、filter、map、forEach 有什么区别
+### some、every、find、filter、map、forEach 有什么区别
 
 公司：饿了么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 444 题：页面上有 1 万个 button 如何绑定事件
+### 页面上生成一万个 button，并且绑定事件，如何做（JS 原生操作 DOM）？循环绑定时的 index 是多少，为什么，怎么解决？
 
 公司：饿了么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 445 题：页面上有 1 万个 button 如何绑定事件？
+### 页面上有一个 input，还有一个 p 标签，改变 input 后 p 标签就跟着变化，如何处理？监听 input 的哪个事件，在什么时候触发？
 
 公司：饿了么
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 446 题：页面上生成一万个 button，并且绑定事件，如何做（JS 原生操作 DOM）？循环绑定时的 index 是多少，为什么，怎么解决？
-
-公司：饿了么
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 447 题：页面上有一个 input，还有一个 p 标签，改变 input 后 p 标签就跟着变化，如何处理？监听 input 的哪个事件，在什么时候触发？
-
-公司：饿了么
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 448 题：手写数组去重函数(至少三种以上，说明时间复杂度)
+### 手写数组去重函数(至少三种以上，说明时间复杂度)
 
 公司：携程、心娱
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/443)
 
 <br/>
 
-### 第 449 题：Promise 和 async/await，和 Callback 有什么区别
+### Promise 和 async/await，和 Callback 有什么区别
 
 公司：携程、海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 450 题：componentWillReceiveProps 的触发条件是什么
+### componentWillReceiveProps 的触发条件是什么
 
 公司：喜马拉雅
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 451 题：Redux 怎么实现属性传递，介绍下原理
+### Redux 怎么实现属性传递，介绍下原理
 
 公司：喜马拉雅
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 452 题：网站 SEO 怎么处理
+### 网站 SEO 怎么处理
 
 公司：喜马拉雅
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 453 题：403、301、302 是什么
+### 403、301、302 是什么
 
 公司：喜马拉雅
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 454 题：HTTPS 怎么建立安全通道，Https 的加密过程
+### HTTPS 怎么建立安全通道，Https 的加密过程
 
 公司：喜马拉雅、寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解-]()
 
 <br/>
 
-### 第 455 题：项目中对于用户体验做过什么优化
+### 项目中对于用户体验做过什么优化
 
 公司：喜马拉雅
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 456 题：介绍下数字签名的原理
+### 介绍下数字签名的原理
 
 公司：喜马拉雅
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 457 题：前后端通信使用什么方案
+### 前后端通信使用什么方案
 
 公司：喜马拉雅
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 458 题：RESTful 常用的 Method
+### RESTful 常用的 Method
 
 公司：喜马拉雅
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 459 题：Access-Control-Allow-Origin 在服务端哪里配置
+### Access-Control-Allow-Origin 在服务端哪里配置
 
 公司：喜马拉雅
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 460 题：前端和后端怎么联调
+### 前端和后端怎么联调
 
 公司：喜马拉雅
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 461 题：如何实现高度自适应
+### 如何实现高度自适应
 
 公司：兑吧
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/430)
 
 <br/>
 
-### 第 462 题：prototype 和**proto**区别
+### prototype 和**proto**区别
 
 公司：兑吧
 
-分类：Css
+分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 463 题：new 的实现原理，动手实现一个 new
+### new 的实现原理，动手实现一个 new
 
 公司：兑吧
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 464 题：如何实现 H5 手机端的适配
+### 如何实现 H5 手机端的适配
 
 公司：兑吧、网易、心娱
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 465 题：em 和 px 的区别
+### em 和 px 的区别
 
 公司：兑吧
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/426)
 
 <br/>
 
-### 第 466 题：Redux 状态管理器和变量挂载到 window 中有什么区别
+### Redux 状态管理器和变量挂载到 window 中有什么区别
 
 公司：兑吧、蘑菇街
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 467 题：webpack 和 gulp 的优缺点
+### webpack 和 gulp 的优缺点
 
 公司：兑吧
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 468 题：如何去除 url 中的#号
+### 如何去除 url 中的#号
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 469 题：如何实现分模块打包（多入口）
+### 如何实现分模块打包（多入口）
 
 公司：兑吧
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 470 题：base64 为什么能提升性能，缺点
+### base64 为什么能提升性能，缺点
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 471 题：介绍 webp 这个图片文件格式
+### 介绍 webp 这个图片文件格式
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 472 题：介绍 koa2，原理是什么？
+### 介绍 koa2，原理是什么？
 
 公司：兑吧、海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 473 题：异步请求，低版本 fetch 如何低版本适配
+### 异步请求，低版本 fetch 如何低版本适配
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 474 题：ajax 如何处理跨域？CORSr 如何设置？
+### ajax 如何处理跨域？CORSr 如何设置？
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 475 题：jsonp 为什么不支持 post 方法
+### jsonp 为什么不支持 post 方法
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 476 题：介绍 Immuable
+### 介绍 Immuable
 
 公司：兑吧
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 477 题：介绍 JS 全部数据类型，基本数据类型和引用数据类型的区别
+### 介绍 JS 全部数据类型，基本数据类型和引用数据类型的区别
 
 公司：微医、玄武科技、快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 478 题：Array 是 Object 类型吗
+### Array 是 Object 类型吗
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 479 题：说一下栈和堆的区别，垃圾回收时栈和堆的区别
+### 说一下栈和堆的区别，垃圾回收时栈和堆的区别
 
 公司：微医、寺库
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 480 题：数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少
+### 数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 481 题：Async/Await 怎么实现
+### Async/Await 怎么实现
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 482 题：JavaScript 为什么要区分微任务和宏任务
+### JavaScript 为什么要区分微任务和宏任务
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 483 题：Promise 构造函数是同步还是异步执行，then 呢
+### Promise 构造函数是同步还是异步执行，then 呢
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 484 题：JavaScript 执行过程分为哪些阶段
+### JavaScript 执行过程分为哪些阶段
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 485 题：词法作用域和 this 的区别
+### 词法作用域和 this 的区别
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 486 题：loadsh 深拷贝实现原理
+### loadsh 深拷贝实现原理
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 487 题：ES6 中 let 块作用域是怎么实现的
+### ES6 中 let 块作用域是怎么实现的
 
 公司：微医
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 488 题：React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
+### React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
 
 公司：微医
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 489 题：为什么 3 大框架出现以后就出现很多 native（RN）框架（虚拟 DOM）
+### 为什么 3 大框架出现以后就出现很多 native（RN）框架（虚拟 DOM）
 
 公司：微医
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 490 题：Webpack 打包时 Hash 码是怎么生成的？随机值存在一样的情况，如何避免？
+### Webpack 打包时 Hash 码是怎么生成的？随机值存在一样的情况，如何避免？
 
 公司：微医
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 491 题：Webpack 做了什么？使用 webpack 构建时有无做一些自定义操作？
+### Webpack 做了什么？使用 webpack 构建时有无做一些自定义操作？
 
 公司：微医
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 492 题：node 接口转发有无做什么优化？node 起服务如何保证稳定性，平缓降级，重启等
+### node 接口转发有无做什么优化？node 起服务如何保证稳定性，平缓降级，重启等
 
 公司：微医
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 493 题：RN 有没有做热加载？RN 遇到的兼容性问题？
+### RN 有没有做热加载？RN 遇到的兼容性问题？
 
 公司：寺库
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 494 题：RN 如何实现一个原生的组件？
+### RN 如何实现一个原生的组件？
 
 公司：寺库
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 495 题：RN 混原生和原生混 RN 有什么不同？
+### RN 混原生和原生混 RN 有什么不同？
 
 公司：寺库
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 496 题：介绍单页应用和多页应用？
+### 介绍单页应用和多页应用？
 
 公司：寺库、海康威视
 
 分类：React、Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 497 题：RN 的原理，为什么可以同时在安卓和 IOS 端运行
+### RN 的原理，为什么可以同时在安卓和 IOS 端运行
 
 公司：寺库
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 498 题：介绍一下网络的五层模型
+### 介绍一下网络的五层模型
 
 公司：寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 499 题：介绍 SSL 与 TLS
+### 介绍 SSL 与 TLS
 
 公司：寺库
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 500 题：formData 和原生的 ajax 有什么区别
+### formData 和原生的 ajax 有什么区别
 
 公司：宝宝树
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 501 题：介绍下表单提交，和 formData 有什么关系
+### 介绍下表单提交，和 formData 有什么关系
 
 公司：宝宝树
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 502 题：rudux 和全局管理有什么区别
+### rudux 和全局管理有什么区别
 
 公司：宝宝树
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 503 题：介绍 MVP 怎么组织
+### 介绍 MVP 怎么组织
 
 公司：宝宝树
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 504 题：promise 如何实现 then 处理，动手实现 then
+### promise 如何实现 then 处理，动手实现 then
 
 公司：宝宝树
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 505 题：服务端怎么做统一的状态处理
+### 服务端怎么做统一的状态处理
 
 公司：宝宝树
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 506 题：如何对相对路径引用进行优化
+### 如何对相对路径引用进行优化
 
 公司：宝宝树
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 507 题：介绍 node 文件查找优先级
-
-公司：宝宝树
-
-分类：Node
-
-[答案&解析]()
-
-<br/>
-
-### 第 508 题：npm2 和 npm3+有什么区别
+### 介绍 node 文件查找优先级
 
 公司：宝宝树
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 509 题：如何处理异常捕获
+### npm2 和 npm3+有什么区别
+
+公司：宝宝树
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+
+<br/>
+
+### 如何处理异常捕获
 
 公司：海康威视
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 510 题：项目如何管理模块
+### 项目如何管理模块
 
 公司：海康威视
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 511 题：尽可能多的写出判断数组的方法
+### 尽可能多的写出判断数组的方法
 
 公司：海康威视、新东方
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 512 题：介绍 localstorage 的 api
+### 介绍 localstorage 的 api
 
 公司：海康威视
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 513 题：html 标签 b 和 strong 的区别
+### html 标签 b 和 strong 的区别
 
 公司：蘑菇街
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 514 题：使用原型最大的好处
+### 使用原型最大的好处
 
 公司：蘑菇街
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 515 题：介绍 React 设计思路，它的理念是什么？
+### 介绍 React 设计思路，它的理念是什么？
 
 公司：蘑菇街、海风教育
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 516 题：单例、工厂、观察者项目中实际场景
+### 单例、工厂、观察者项目中实际场景
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 517 题：添加原生事件不移除为什么会内存泄露，还有哪些地方会存在内存泄漏
+### 添加原生事件不移除为什么会内存泄露，还有哪些地方会存在内存泄漏
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 518 题：setInterval 需要注意的点
+### setInterval 需要注意的点
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 519 题：定时器为什么是不精确的
+### 定时器为什么是不精确的
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 520 题：setTimeout(1)和 setTimeout(2)之间的区别
+### setTimeout(1)和 setTimeout(2)之间的区别
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 521 题：介绍宏任务和微任务
+### 介绍宏任务和微任务
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 522 题：promise 里面和 then 里面执行有什么区别
+### promise 里面和 then 里面执行有什么区别
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 523 题：props 和 state 的区别
+### props 和 state 的区别
 
 公司：酷家乐
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 524 题：介绍 class 和 ES5 的类以及区别
+### 介绍 class 和 ES5 的类以及区别
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 525 题：介绍 defineProperty 方法，什么时候需要用到
+### 介绍 defineProperty 方法，什么时候需要用到
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 526 题：for..in 和 object.keys 的区别
+### for..in 和 object.keys 的区别
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 527 题：使用闭包特权函数的使用场景
+### 使用闭包特权函数的使用场景
 
 公司：酷家乐
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 528 题：哪些方法会触发 react 重新渲染？重新渲染 render 会做些什么？
+### 哪些方法会触发 react 重新渲染？重新渲染 render 会做些什么？
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 529 题：state 和 props 触发更新的生命周期分别有什么区别？
+### state 和 props 触发更新的生命周期分别有什么区别？
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 530 题：React setState 是同步还是异步？
+### React setState 是同步还是异步？
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 531 题：对无状态组件的理解
+### 对无状态组件的理解
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 532 题：介绍箭头函数的 this
+### 介绍箭头函数的 this
 
 公司：百分点
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 533 题：找到前 K 个最大的元素
+### 找到前 K 个最大的元素
 
 公司：百分点
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/746)
 
 <br/>
 
-### 第 534 题：对 React 的看法，它的优缺点，使用过程中遇到的问题，如何解决的
+### 对 React 的看法，它的优缺点，使用过程中遇到的问题，如何解决的
 
 公司：海风教育
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 535 题：JavaScript 是什么范式语言
+### JavaScript 是什么范式语言
 
 公司：海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 536 题：Promise 有没有解决异步的问题
+### Promise 有没有解决异步的问题
 
 公司：海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 537 题：Promise 和 setTimeout 的区别
+### Promise 和 setTimeout 的区别
 
 公司：海风教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 538 题：进程和线程的区别
+### 进程和线程的区别
 
 公司：海风教育
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 539 题：介绍下 DFS 深度优先
+### 介绍下 DFS 深度优先
 
 公司：海风教育
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/739)
 
 <br/>
 
-### 第 540 题：按照调用实例，实现下面的 Person 方法
+### 按照调用实例，实现下面的 Person 方法
 
 ```js
 Person("Li");
@@ -6029,11 +5843,11 @@ Person("Smith").sleepFirst(5).eat("supper");
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 541 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 var yideng = {
@@ -6049,11 +5863,11 @@ var yideng = {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 542 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 function test() {
@@ -6071,11 +5885,11 @@ function test() {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 543 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 var x = [typeof x, typeof y][1];
@@ -6084,11 +5898,11 @@ typeof x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 544 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 (function (x) {
@@ -6099,11 +5913,11 @@ typeof x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 545 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 var x = 1;
@@ -6115,11 +5929,11 @@ x;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 546 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 function f() {
@@ -6130,11 +5944,11 @@ new f() instanceof f;
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 547 题：请选择正确的答案(单选题)
+### 请写出代码正确执行结果，并解释原因
 
 ```js
 Object.prototype.a = "a";
@@ -6144,20 +5958,13 @@ var yideng = new Person();
 console.log(yideng.a);
 ```
 
-选项：
-
-- A.a
-- B.a1
-- C.undefined
-- D.报错
-
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 548 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 var yideng = [0];
@@ -6170,11 +5977,11 @@ if (yideng) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 549 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 function yideng() {
@@ -6189,11 +5996,11 @@ console.log(result.a);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 550 题：按要求完成代码
+### 按要求完成代码
 
 ```js
 const timeout = (ms) =>
@@ -6231,11 +6038,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 551 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```html
 <script>
@@ -6250,11 +6057,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 552 题：请写出正确的执行结果
+### 请写出正确的执行结果
 
 ```js
 var yideng = Array(3);
@@ -6267,11 +6074,11 @@ console.log(result);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 553 题：请修改代码能跳出死循环
+### 请修改代码能跳出死循环
 
 ```js
 while (1) {
@@ -6284,11 +6091,11 @@ while (1) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 554 题：修改代码不造成死循环
+### 修改代码不造成死循环
 
 ```js
 while (1) {
@@ -6298,11 +6105,11 @@ while (1) {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 555 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 [1 < 2 < 3, 3 < 2 < 1];
@@ -6310,11 +6117,11 @@ while (1) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 556 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 2 == [[[2]]];
@@ -6322,11 +6129,11 @@ while (1) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 557 题：计算以上字节每位 ✈️ 的起码点，并描述这些字节的起码点代表什么
+### 计算以上字节每位 ✈️ 的起码点，并描述这些字节的起码点代表什么
 
 ```js
 console.log("✈️".length);
@@ -6336,11 +6143,11 @@ console.log("✈️".length);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 558 题：请写出代码正确执行结果，并解释原因
+### 请写出代码正确执行结果，并解释原因
 
 ```js
 var yidenga = Function.length,
@@ -6350,11 +6157,11 @@ console.log(yidenga === yidengb);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 559 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 var length = 10;
@@ -6373,11 +6180,11 @@ yideng.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 560 题：请写出代码正确执行结果，并解释原因
+### 请写出代码正确执行结果，并解释原因
 
 ```js
 var yi = new Date("2018-08-20"),
@@ -6387,11 +6194,11 @@ var yi = new Date("2018-08-20"),
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 561 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 for (
@@ -6405,11 +6212,11 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 562 题：请写出代码正确执行结果，并解释原因
+### 请写出代码正确执行结果，并解释原因
 
 ```js
 [typeof null, null instanceof Object];
@@ -6417,11 +6224,11 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 563 题：请问当前 textarea 文本框展示的内容是什么？
+### 请问当前 textarea 文本框展示的内容是什么？
 
 ```html
 <textarea maxlength="10" id="yideng"></textarea>
@@ -6432,11 +6239,11 @@ for (
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 564 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 function sidEffecting(ary) {
@@ -6452,11 +6259,11 @@ yideng(1, 1, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 565 题：请写出代码正确执行结果
+### 请写出代码正确执行结果
 
 ```js
 yideng();
@@ -6474,11 +6281,11 @@ if (flag) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 566 题：请写出代码正确执行结果，并解释为什么
+### 请写出代码正确执行结果，并解释为什么
 
 ```js
 var min = Math.min(),
@@ -6488,122 +6295,115 @@ console.log(min < max);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 567 题：请手写实现一个拖拽
+### 请手写实现一个拖拽
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 568 题：请手动实现一个浅拷贝
+### 请手动实现一个浅拷贝
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 569 题：介绍 instanceof 原理，并手动实现
+### 介绍 instanceof 原理，并手动实现
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 570 题：请实现一个 JSON.stringfy
+### 请实现一个 JSON.stringfy
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 571 题：请实现一个 JSON.parse
+### 请实现一个 JSON.parse
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 572 题：说一下减少 dom 数量的办法？一次性给你大量的 dom 怎么优化？
+### 说一下减少 dom 数量的办法？一次性给你大量的 dom 怎么优化？
 
 公司：58
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 573 题：vue hooks 有哪些
+### vue hooks 有哪些
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 574 题：介绍 Vue template 到 render 的过程
+### 介绍 Vue template 到 render 的过程
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 575 题：为什么用 gulp 打包 node
+### 为什么用 gulp 打包 node
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 576 题：Node 不支持哪些 ES6 语法
+### Node 不支持哪些 ES6 语法
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 577 题：Webpack 为什么慢，如何进行优化
+### Webpack 为什么慢，如何进行优化
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 578 题：以下代码的运行结果是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 console.log("hello" + (1 < 2) ? "word" : "me");
 ```
 
-选项：
-
-- A.world
-- B.hello world
-- C.hello me
-- D.me
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 579 题：以下代码的运行结果是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 var a = (b = 1);
@@ -6613,22 +6413,15 @@ var a = (b = 1);
 console.log(a, b);
 ```
 
-选项：
-
-- A.world
-- B.hello world
-- C.hello me
-- D.me
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 580 题：以下代码的运行结果是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 if ([] instanceof Object) {
@@ -6638,22 +6431,15 @@ if ([] instanceof Object) {
 }
 ```
 
-选项：
-
-- A.object
-- B.hello world
-- C.null
-- D.false
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 581 题：以下代码的运行结果是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 var obj = {};
@@ -6663,22 +6449,15 @@ peo.name = "second";
 console.log(obj.name);
 ```
 
-选项：
-
-- A.first
-- B.undefined
-- C.null
-- D.false
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 582 题：以下代码的运行结果是？(单选题)
+### 请写出代码正确执行结果，并解释原因？
 
 ```js
 function say(word) {
@@ -6688,99 +6467,15 @@ function say(word) {
 say("hello Lili");
 ```
 
-选项：
-
-- A.hello Lili
-- B.undefined
-- C.报错
-- D.以上都不正确
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 583 题：下面描述正确的是？(多选题)
-
-选项：
-
-- A.== 在比较的过程中，不但会比较两边的值，还会比较两边的数据类型
-- B.NaN == NaN 的结果是 true
-- C.isNaN,判断传入的参数是否为数字，为数字返回 true,否则返回 false
-- D.字符串的 length 只可以读取，不可以设置
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 584 题：下面描述正确的是？(多选题)
-
-选项：
-
-- A.== 在比较的过程中，不但会比较两边的值，还会比较两边的数据类型
-- B.NaN == NaN 的结果是 true
-- C.isNaN,判断传入的参数是否为数字，为数字返回 true,否则返回 false
-- D.字符串的 length 只可以读取，不可以设置
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 585 题：一下关于 Array 数组对象的说法不正确的是？(多选题)
-
-选项：
-
-- A.对数组里数据的排序可以用 sort 函数，如果排序效果非预期，可以给 sort 函数加一个排序函数的参数
-- B.reverse 用于对数组数据的倒叙排列
-- C.向数组的最后位置加一个新元素，可以用 pop 方法
-- D.unshift 方法用于向数组删除第一个元素
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 586 题：关于代码执行结果正确的选项是？(单选题)
-
-```js
-for (var i = 0; i < 5; i++) {
-  setTimeout(function () {
-    console.log(i);
-  }, 1000);
-}
-console.log(i);
-```
-
-选项：
-
-- A.0 1 2 3 4 5
-- B.5 0 1 2 3 4
-- C.5 5 5 5 5 5
-- D.1 2 3 4 5
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 587 题：关于代码执行结果正确的选项是？(单选题)
+### 请写出代码的正确执行结果，并解释原因？
 
 ```js
 function fun(n, o) {
@@ -6794,158 +6489,134 @@ function fun(n, o) {
 var b = fun(0).fun(1).fun(2).fun(3);
 ```
 
-选项：
-
-- A.undefined 0 0 0
-- B.undefined 1 2 3
-- C.0 1 2 3
-- D.undefined 0 1 2
-
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 588 题：关于身份证号正确的正则表达式是？(单选题)
+### 以下选项为 css 盒模型属性有哪些？(多选题)
 
-选项：
-
-- A.isIDCard = /^[1-9]\d{7}((0\d)|(1[0-2]))(([0|1|2]\d)|3[0-1])\d{3}\$/;
-- B.isIDCard = /^[1-9]\d{7}((9\d)|(1[0-2]))(([0|1|2]\d)|3[9-1])\d{3}\$/;
-- C.isIDCard = /^[1-9]\d{9}(0[1-9]|(1[0,2])(0[1-9]|[1,2]\d|3[0,1])\d{3}(\d|[x,X])\$/;
-- D.isIDCard = /^[1-9]\d{5}[1-9]\d{3}((9\d)|(1[9-2]))(([0|1|2]\d)|3[9-1])\d{4}\$/;
-
-公司：会小二
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 589 题：以下选项为 css 盒模型属性有哪些？(多选题)
-
-选项：
-
-- A.font
-- B.margin
-- C.padding
-- D.visible
-- E.border
+```js
+A.font
+B.margin
+C.padding
+D.visible
+E.border
+```
 
 公司：会小二
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/694)
 
 <br/>
 
-### 第 590 题：递归公式的时间复杂度为？(单选题)
+### 递归公式的时间复杂度为？(单选题)
 
-选项：
-
-- A.O(n)
-- B.O(logn)
-- C.O(nlogn)
-- D.O(n2)
+```js
+A.O(n)
+B.O(logn)
+C.O(nlogn)
+D.O(n2)
+```
 
 公司：会小二
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/693)
 
 <br/>
 
-### 第 591 题：一下说法中对协议描述不正确的是？(单选题)
+### 一下说法中对协议描述不正确的是？(单选题)
 
-选项：
-
-- A.HTTP 协议是在 TCP/IP 协议之上的应用层协议
-- B.HTTP 1.1 缺省支持 keep-alive
-- C.WebSocket 是由 Socket 发展而来的新规范
-- D.WebSocket 可以建立持久连接
+```js
+A.HTTP 协议是在 TCP/IP 协议之上的应用层协议
+B.HTTP 1.1 缺省支持 keep-alive
+C.WebSocket 是由 Socket 发展而来的新规范
+D.WebSocket 可以建立持久连接
+```
 
 公司：会小二
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 592 题：以下哪些是 HTTP 请求中浏览器缓存机制会用到的协议头？(单选题)
+### 以下哪些是 HTTP 请求中浏览器缓存机制会用到的协议头？(单选题)
 
-选项：
-
-- A.Last-Modified
-- B.Etag
-- C.Referer
-- D.Authorization
+```js
+A.Last-Modified
+B.Etag
+C.Referer
+D.Authorization
+```
 
 公司：会小二
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 593 题：怎么定义 vue-router 的动态路由？怎么获取传过来的动态参数？
+### 怎么定义 vue-router 的动态路由？怎么获取传过来的动态参数？
 
 公司：会小二
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 594 题：JavaScript 中如何模拟实现方法的重载
+### JavaScript 中如何模拟实现方法的重载
 
 公司：会小二
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 595 题：请解释 JSONP 的工作原理
+### 请解释 JSONP 的工作原理
 
 公司：会小二、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 596 题：用 html、css、js 模拟实现一个下拉框，使得下拉框在各个浏览器下的样式和行为完全一致，说出你的设计方案，并且重点说明功能设计时要考虑的因素。
+### 用 html、css、js 模拟实现一个下拉框，使得下拉框在各个浏览器下的样式和行为完全一致，说出你的设计方案，并且重点说明功能设计时要考虑的因素。
 
 公司：会小二
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 597 题：用 JavaScript 实现一个标准的排序算法(快排、冒泡、选择排序)，对某个数字数组进行由低到高的排序。
+### 用 JavaScript 实现一个标准的排序算法(快排、冒泡、选择排序)，对某个数字数组进行由低到高的排序。
 
 公司：会小二
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/686)
 
 <br/>
 
-### 第 598 题：实现一个打点计时器
+### 实现一个打点计时器
 
 ```js
 /* 
@@ -6959,445 +6630,412 @@ var b = fun(0).fun(1).fun(2).fun(3);
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 599 题：下面关于 Vue 说法正确的是？(单选题)
+### 下面关于 Vue 说法正确的是？(单选题)
 
-选项：
-
-- A.data 中某一属性的值发生改变后，视图会立即同步进行重新渲染
-- B.Vue 实例创建后再添加的属性，该属性改动将不会触发视图更新
-- C.计算属性只有在它的相关依赖发生改变时才会重新求值
-- D.Vue 组件的 data 选项必须是函数
+```js
+A.data 中某一属性的值发生改变后，视图会立即同步进行重新渲染
+B.Vue 实例创建后再添加的属性，该属性改动将不会触发视图更新
+C.计算属性只有在它的相关依赖发生改变时才会重新求值
+D.Vue 组件的 data 选项必须是函数
+```
 
 公司：会小二
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 600 题：JavaScript 写一个单例模式，可以具体到某一个场景
+### JavaScript 写一个单例模式，可以具体到某一个场景
 
 公司：会小二
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 601 题：JavaScript 基本数据类型都有哪些？用 typeOf 判断分别显示什么？
+### JavaScript 基本数据类型都有哪些？用 typeOf 判断分别显示什么？
 
 公司：会小二、安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 602 题：怎么判断引用类型数据，兼容判断原始类型数据呢？
+### 怎么判断引用类型数据，兼容判断原始类型数据呢？
 
 公司：会小二
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 603 题：请写下你对协商缓存和强缓存的理解？
+### 请写下你对协商缓存和强缓存的理解？
 
 公司：会小二、58
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 604 题：git pull -rebase 和 git pull 的区别是什么？
+### git pull -rebase 和 git pull 的区别是什么？
 
 公司：会小二
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 605 题：说下盒模型的区别？介绍一下标准的 CSS 盒模型？border-box 和 content-box 有什么区别？
+### 说下盒模型的区别？介绍一下标准的 CSS 盒模型？border-box 和 content-box 有什么区别？
 
 公司：快手、会小二
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/678)
 
 <br/>
 
-### 第 606 题：给出页面的加载顺序
+### 给出页面的加载顺序
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 607 题：Html5 有哪些新特性？如何处理 Html5 新标签的浏览器兼容问题？如何区分 Html 和 Html5?
+### Html5 有哪些新特性？如何处理 Html5 新标签的浏览器兼容问题？如何区分 Html 和 Html5?
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 608 题：找出“aaaabbcccdddd”字符串中出现最多的字母？
+### 找出“aaaabbcccdddd”字符串中出现最多的字母？
 
 公司：心娱
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/675)
 
 <br/>
 
-### 第 609 题：概述异步编程模型
+### 概述异步编程模型
 
 公司：酷狗
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 610 题：在一个 ul 里有 10 个 li,实现点击对应的 li,输出对应的下标
+### 在一个 ul 里有 10 个 li,实现点击对应的 li,输出对应的下标
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 611 题：分别对以下数组进行去重，1:[1,'1',2,'2',3]，2:[1,[1,2,3['1','2','3'],4],5,6]
+### 分别对以下数组进行去重，1:[1,'1',2,'2',3]，2:[1,[1,2,3['1','2','3'],4],5,6]
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 612 题：简述 JavaScript 中的函数的几种调用方式
+### 简述 JavaScript 中的函数的几种调用方式
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 613 题：编写一个 Person 类，并创建两个不同的 Person 对象
+### 编写一个 Person 类，并创建两个不同的 Person 对象
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 613 题：`<div class="parent"></div>`下列选项中哪些宽度是 0？(单选题)
-
-选项：
-
-- A.parent{display:flex}
-- B.parent{display:inline}
-- C.parent{display:block}
-- D.parent{display:table}
-
-分类：JavaScript
-
-[答案&解析]()
-
-<br/>
-
-### 第 614 题：详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)
+### 详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 615 题：简述静态链接和动态链接的区别，并举例说明
+### 简述静态链接和动态链接的区别，并举例说明
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 616 题：求 n 以内的所有素数，并说明时间复杂度
+### 求 n 以内的所有素数，并说明时间复杂度
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/667)
 
 <br/>
 
-### 第 617 题：手写实现 call
+### 手写实现 call
 
 公司：腾讯应用宝
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 618 题：手写实现 apply
+### 手写实现 apply
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 619 题：一个 dom 必须要操作几百次，该如何解决，如何优化？
+### 一个 dom 必须要操作几百次，该如何解决，如何优化？
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 620 题：为什么要用 Vuex 或者 Redux，不要说为了保存状态
+### 为什么要用 Vuex 或者 Redux，不要说为了保存状态
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 621 题：为什么 Vue data 必须是函数
+### 为什么 Vue data 必须是函数
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 622 题：页面埋点怎么实现
+### 页面埋点怎么实现
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 623 题：除了 jsonp、postmessage 后端控制，怎么实现跨页面通讯
+### 除了 jsonp、postmessage 后端控制，怎么实现跨页面通讯
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 624 题：Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？
+### Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 625 题：Webpack 打包出来的体积太大，如何优化体积？
+### Webpack 打包出来的体积太大，如何优化体积？
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 626 题：缓存有哪些？前端缓存有哪些？怎么用？如何和后台配合
+### 缓存有哪些？前端缓存有哪些？怎么用？如何和后台配合
 
 公司：高思教育
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 627 题：说一下 let、const 的实现，动手实现一下
+### 说一下 let、const 的实现，动手实现一下
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 628 题：简述 mixin、extends 的覆盖逻辑
+### 简述 mixin、extends 的覆盖逻辑
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 629 题：Vue 子组件和父组件执行顺序
+### Vue 子组件和父组件执行顺序
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 630 题：为什么用 transform 代替 top、left
-
-分类：Css
-
-[答案&解析]()
-
-<br/>
-
-### 第 631 题：Dom tree 和 cssdom 是如何合并成 render tree 的
+### Dom tree 和 cssdom 是如何合并成 render tree 的
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 632 题：addEventListener 再 removeListener 会不会造成内存泄漏
+### addEventListener 再 removeListener 会不会造成内存泄漏
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 633 题：scrollview 如何进行又能优化(例如 page=100 时，往上滚动)
+### scrollview 如何进行又能优化(例如 page=100 时，往上滚动)
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 634 题：原生 JavaScript 获取 ul 中的第二个 li 里边的 p 标签的内容
+### 原生 JavaScript 获取 ul 中的第二个 li 里边的 p 标签的内容
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 635 题：说下 offsetWith 和 clientWidth、offsetHeight 和 clientHeight 的区别，说说 offsetTop，offsetLeft，scrollWidth、scrollHeight 属性都是干啥的
+### 说下 offsetWith 和 clientWidth、offsetHeight 和 clientHeight 的区别，说说 offsetTop，offsetLeft，scrollWidth、scrollHeight 属性都是干啥的
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 636 题：Css 单位都有哪些？
+### Css 单位都有哪些？
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/646)
 
 <br/>
 
-### 第 637 题：Css 实现多列等高布局，要求元素实际占用的高度以多列中较高的为准
+### Css 实现多列等高布局，要求元素实际占用的高度以多列中较高的为准
 
 公司：快手
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/645)
 
 <br/>
 
-### 第 638 题：一个标签的 class 样式的渲染顺序，id、class、标签、伪类的优先级
+### 一个标签的 class 样式的渲染顺序，id、class、标签、伪类的优先级
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/644)
 
 <br/>
 
-### 第 639 题：一个标签的 class 样式的渲染顺序，id、class、标签、伪类的优先级
-
-公司：快手
-
-分类：Css
-
-[答案&解析]()
-
-<br/>
-
-### 第 640 题：写一个函数打乱一个数组，传入一个数组，返回一个打乱的新数组
+### 写一个函数打乱一个数组，传入一个数组，返回一个打乱的新数组
 
 公司：快手
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 641 题：数组截取插入 splice，push 返回值，数组的栈方法、队列方法、排序方法、操作方法、迭代方法说一下
+### 数组截取插入 splice，push 返回值，数组的栈方法、队列方法、排序方法、操作方法、迭代方法说一下
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 642 题：判断一个变量的类型，写个方法用 Object.prototype.toString 判断传入数据的类型
+### 判断一个变量的类型，写个方法用 Object.prototype.toString 判断传入数据的类型
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 643 题：判断一个变量的类型，写个方法用 Object.prototype.toString 判断传入数据的类型？Object.prototype.toString.call(Symbol) 返回什么？
+### 判断一个变量的类型，写个方法用 Object.prototype.toString 判断传入数据的类型？Object.prototype.toString.call(Symbol) 返回什么？
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 644 题：对作用域和闭包的理解，解释下 let 和 const 的块级作用域
+### 对作用域和闭包的理解，解释下 let 和 const 的块级作用域
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 645 题：以下代码输出什么？
+### 以下代码输出什么？
 
 ```js
 setTimeout(function () {
@@ -7419,181 +7057,161 @@ console.log(5);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 646 题：switch case，case 具体是怎么比较的，哪些情况下会走到 default
+### switch case，case 具体是怎么比较的，哪些情况下会走到 default
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 647 题：说下 typeof()各种类型的返回值？instanceof 呢？
+### 说下 typeof()各种类型的返回值？instanceof 呢？
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 648 题：if([] == 0), [1,2] == "1,2", if([]), [] == 0 具体是怎么对比的
+### if([] == 0), [1,2] == "1,2", if([]), [] == 0 具体是怎么对比的
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 649 题：如何加快页面渲染速度，都有哪些方式
+### 如何加快页面渲染速度，都有哪些方式
 
 公司：快手
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 650 题：genertor 的实现原理
+### genertor 的实现原理
 
 公司：滴滴、58
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 651 题：cdn 分布式部署，如果处理用户请求最近的资源
+### cdn 分布式部署，如果处理用户请求最近的资源
 
 公司：快手
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 652 题：说一下缓存有哪几种，具体都是怎么实现和比较的，缓存优先级，相互之间的对比
+### 说一下缓存有哪几种，具体都是怎么实现和比较的，缓存优先级，相互之间的对比
 
 公司：快手
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 653 题：使用 typescript 的优势有哪些
+### 使用 typescript 的优势有哪些
 
 公司：快手
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 654 题：说下你对浏览器缓存理解
+### 说下你对浏览器缓存理解
 
 公司：头条
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 655 题：css 实现左右定宽 100px，中间宽度自适应的结构，给出 html 和 css 代码
-
-公司：头条
-
-分类：Css、编程题
-
-[答案&解析]()
-
-<br/>
-
-### 第 656 题：css 如何实现动画
+### css 如何实现动画
 
 公司：头条
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/628)
 
 <br/>
 
-### 第 657 题：判断是否是数组的方法
+### 判断是否是数组的方法
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 658 题：定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
+### 给定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
 
 公司：头条
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/626)
 
 <br/>
 
-### 第 659 题：定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
+### 给定一个整数数组 nums，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和
 
 公司：头条
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/625)
 
 <br/>
 
-### 第 660 题：给定一个整数数组 nums，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和
-
-公司：头条
-
-分类：算法
-
-[答案&解析]()
-
-<br/>
-
-### 第 661 题：手写 EventEmitter 实现
+### 手写 EventEmitter 实现
 
 公司：头条、亚美科技
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 662 题：Http 连接是如何复用的
+### Http 连接是如何复用的
 
 公司：酷狗
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 663 题：给出的两行代码为什么这么输出
+### 给出的两行代码为什么这么输出
 
 ```js
 var s = "laohu";
@@ -7609,241 +7227,221 @@ console.log(s); // laohu2020
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 664 题：动画性能如何检测
+### 动画性能如何检测
 
 公司：酷狗
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 665 题：谈下淘宝和京东页面的实现
+### 谈下淘宝和京东页面的实现
 
 公司：酷狗
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 666 题：平时都用到了哪些设计模式
+### 平时都用到了哪些设计模式
 
 公司：酷狗、沪江、58
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 667 题：如何监控 MySql、Redis 性能
+### 如何监控 MySql、Redis 性能
 
 公司：酷狗
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 668 题：对 service worker 的理解
+### 对 service worker 的理解
 
 公司：酷狗
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 669 题：Webpack 热更新的原理
+### Webpack 热更新的原理
 
 公司：酷狗
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 670 题：Css 如何实现一个半圆
+### Css 如何实现一个半圆
 
 公司：酷狗
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/615)
 
 <br/>
 
-### 第 671 题：一个活动项目里包含多个活动，Webpack 如何实现单独打包某个活动？
+### 一个活动项目里包含多个活动，Webpack 如何实现单独打包某个活动？
 
 公司：酷狗
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 672 题：一个活动项目里包含多个活动，Webpack 如何实现单独打包某个活动？
-
-公司：酷狗
-
-分类：工程化
-
-[答案&解析]()
-
-<br/>
-
-### 第 673 题：单点登录实现原理
+### 单点登录实现原理
 
 公司：CVTE
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 674 题：斐波那契数列的实现
-
-公司：CVTE
-
-分类：算法
-
-[答案&解析]()
-
-<br/>
-
-### 第 675 题：尾递归实现
+### 尾递归实现
 
 公司：CVTE
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 676 题：有 1000 个 dom，需要更新其中的 100 个，如何操作才能减少 dom 的操作？
+### 有 1000 个 dom，需要更新其中的 100 个，如何操作才能减少 dom 的操作？
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 677 题：商城的列表页跳转到商品的详情页，详情页数据接口很慢，前端可以怎么优化用户体验？
+### 商城的列表页跳转到商品的详情页，详情页数据接口很慢，前端可以怎么优化用户体验？
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 678 题：多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？
+### 多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 679 题：301、302 的 https 被挟持怎么办？
+### 301、302 的 https 被挟持怎么办？
 
 公司：网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析-]()
 
 <br/>
 
-### 第 680 题：介绍 Http2 特性，Http2 怎么确保文件同时传输不会报错
+### 介绍 Http2 特性，Http2 怎么确保文件同时传输不会报错
 
 公司：网易
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 681 题：请实现鼠标点击页面中的任意标签，alert 该标签的名称(注意兼容性)
+### 请实现鼠标点击页面中的任意标签，alert 该标签的名称(注意兼容性)
 
 公司：爱范儿、道一云
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 682 题：完成一个表达式，验证用户输入是否是电子邮箱
+### 完成一个表达式，验证用户输入是否是电子邮箱
 
 公司：爱范儿
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 683 题：原生实现 ES5 的 Object.create()方法
+### 原生实现 ES5 的 Object.create()方法
 
 公司：爱范儿
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 684 题：列举并解释一下 http 的所有请求方法，
+### 列举并解释一下 http 的所有请求方法，
 
 公司：爱范儿、乘法云
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 685 题：如何记录前端再用户浏览器上发生的错误并汇报给服务器？
+### 如何记录前端再用户浏览器上发生的错误并汇报给服务器？
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 686 题：有哪几种方式可以解决跨域问题？(描述对应的原理)
+### 有哪几种方式可以解决跨域问题？(描述对应的原理)
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 687 题：按要求完成题目
+### 按要求完成题目
 
 ```js
 /* 
@@ -7857,31 +7455,31 @@ console.log(s); // laohu2020
 
 分类：JavaScript、Vue、React、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 688 题：你是如何组织 JavaScript 代码的？（可以从模块、组件、模式、编程思想等方面回答）
+### 你是如何组织 JavaScript 代码的？（可以从模块、组件、模式、编程思想等方面回答）
 
 公司：爱范儿
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 689 题：移动 web 开发时如何调试？了解哪些多屏适配方案？
+### 移动 web 开发时如何调试？了解哪些多屏适配方案？
 
 公司：爱范儿
 
 分类：其它
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 690 题：算法考察：Next Permutation
+### 算法考察：Next Permutation
 
 ```js
 /* 
@@ -7899,11 +7497,11 @@ console.log(s); // laohu2020
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/845)
 
 <br/>
 
-### 第 691 题：填充代码实现 template 方法
+### 填充代码实现 template 方法
 
 ```js
 var str = "您好，<%=name%>。欢迎来到<%=location%>";
@@ -7919,221 +7517,221 @@ compiled({ name: "张三", location: "网易游戏" });
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 693 题：请说明 Html 布局元素的分类有哪些？边描述每种布局元素的应用场景
+### 请说明 Html 布局元素的分类有哪些？边描述每种布局元素的应用场景
 
 公司：玄武科技
 
 分类：Html
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 694 题：列举出在浏览器中，页面加载过程中发出了哪些事件？并画出这些事件的执行顺序？
+### 列举出在浏览器中，页面加载过程中发出了哪些事件？并画出这些事件的执行顺序？
 
 公司：玄武科技
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 695 题：请描述下为什么页面需要做优化？并写出常用的页面优化实现方案？
+### 请描述下为什么页面需要做优化？并写出常用的页面优化实现方案？
 
 公司：玄武科技
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 696 题：请画出 css 盒模型，基于盒模型的原理，说明相对定位、绝对定位、浮动实现样式是如何实现的？
+### 请画出 css 盒模型，基于盒模型的原理，说明相对定位、绝对定位、浮动实现样式是如何实现的？
 
 公司：玄武科技
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/840)
 
 <br/>
 
-### 第 697 题：列举出 css 选择器有哪些分类，并至少写出三个 css 选择器之间的区别，适用场景
+### 列举出 css 选择器有哪些分类，并至少写出三个 css 选择器之间的区别，适用场景
 
 公司：玄武科技
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/839)
 
 <br/>
 
-### 第 698 题：请列出至少 5 个 JavaScript 常用的内置对象，说明用途
+### 请列出至少 5 个 JavaScript 常用的内置对象，说明用途
 
 公司：玄武科技
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 699 题：请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
+### 请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
 
 公司：玄武科技
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 700 题：请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？
+### 请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？
 
 公司：玄武科技
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 701 题：请列出 HTTP/1.1 协议 Response 状态码：20x、30x、40x、50x 等各区间的含义，并说明 Action 在 Restful API 中分别使用哪些 Http 副词(action)表现出 CRUD?
+### 请列出 HTTP/1.1 协议 Response 状态码：20x、30x、40x、50x 等各区间的含义，并说明 Action 在 Restful API 中分别使用哪些 Http 副词(action)表现出 CRUD?
 
 公司：玄武科技
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 702 题：请说明 JavaScript 进行压缩、合并、打包实现的原理是什么？为什么需要压缩、合并、打包？分别列出一种常用工具或插件
+### 请说明 JavaScript 进行压缩、合并、打包实现的原理是什么？为什么需要压缩、合并、打包？分别列出一种常用工具或插件
 
 公司：玄武科技
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 703 题：请说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理
+### 请说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理
 
 公司：玄武科技
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 704 题：请用 JavaScript 代码实现事件代理
+### 请用 JavaScript 代码实现事件代理
 
 公司：玄武科技
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 705 题：实现格式化输出，比如输入 999999999，输出 999,999,999
+### 实现格式化输出，比如输入 999999999，输出 999,999,999
 
 公司：亚美科技
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 706 题：使用 JavaScript 实现 cookie 的设置、读取、删除
+### 使用 JavaScript 实现 cookie 的设置、读取、删除
 
 公司：亚美科技
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 707 题：请编写一个 JavaScript 函数 parseQueryString,它的用途是把 URL 参数解析为一个对象，url="http://iauto360.cn/index.php?key0=0&key1=1&key2=2"
+### 请编写一个 JavaScript 函数 parseQueryString,它的用途是把 URL 参数解析为一个对象，url="http://iauto360.cn/index.php?key0=0&key1=1&key2=2"
 
 公司：亚美科技
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 708 题：node 如何进行跨域通信
+### node 如何进行跨域通信
 
 公司：高思教育
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 709 题：Vuex 和 localStorage 的区别
+### Vuex 和 localStorage 的区别
 
 公司：高思教育
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 710 题：如何实现 a,b 两个变量的交换
+### 如何实现 a,b 两个变量的交换
 
 公司：高思教育
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 711 题：Vue 双向绑定原理
+### Vue 双向绑定原理
 
 公司：高思教育、安居客
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 712 题：开发环境热更新的优化方式
+### 开发环境热更新的优化方式
 
 公司：高思教育
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 713 题：给 JavaScript 的 String 原生对象添加一个名为 trim 的原型方法，用于截取字符串前后的空白字符
+### 给 JavaScript 的 String 原生对象添加一个名为 trim 的原型方法，用于截取字符串前后的空白字符
 
 公司：高思教育
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 714 题：按要求实现代码
+### 按要求实现代码
 
 ```js
 /* 
@@ -8149,191 +7747,191 @@ function sort(n) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/821)
 
 <br/>
 
-### 第 714 题：说一下路由钩子在 Vue 生命周期的体现？
+### 说一下路由钩子在 Vue 生命周期的体现？
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 715 题：计算属性和普通属性的区别
+### 计算属性和普通属性的区别
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 716 题：描述下自定义指令(你是怎么用自定义指令的)
+### 描述下自定义指令(你是怎么用自定义指令的)
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 717 题：说一下 Vue 中所有带\$的方法
+### 说一下 Vue 中所有带\$的方法
 
 公司：58
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 718 题：catch-control 有哪些设定值
+### catch-control 有哪些设定值
 
 公司：58
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 719 题：AMD 和 CMD 有哪些区别？
+### AMD 和 CMD 有哪些区别？
 
 公司：58
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 720 题：微任务和宏任务的区别
+### 微任务和宏任务的区别
 
 公司：58
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 721 题：你是怎么配置开发环境的？
+### 你是怎么配置开发环境的？
 
 公司：58
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 722 题：列举 3 种强制类型转换和 2 种隐式类型转换
+### 列举 3 种强制类型转换和 2 种隐式类型转换
 
 公司：58
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 723 题：小程序里面打开页面最多多少，生命周期、常用的 api 列举几个？
+### 小程序里面打开页面最多多少，生命周期、常用的 api 列举几个？
 
 公司：安居客
 
 分类：小程序
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 724 题：Vue-router 除了 router-link 怎么实现跳转
+### Vue-router 除了 router-link 怎么实现跳转
 
 公司：安居客
 
 分类：Vue
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 725 题：原生 JavaScript 实现图片懒加载的思路
+### 原生 JavaScript 实现图片懒加载的思路
 
 公司：安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 726 题：回调函数和任务队列的区别
+### 回调函数和任务队列的区别
 
 公司：安居客
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 727 题：如何实现 webpack 持久化缓存
+### 如何实现 webpack 持久化缓存
 
 公司：乘法云
 
 分类：工程化
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 728 题：找出两个数组的交集元素
+### 找出两个数组的交集元素
 
 公司：乘法云
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/806)
 
 <br/>
 
-### 第 729 题：Css 实现 div 宽度自适应，宽高保持等比缩放
+### Css 实现 div 宽度自适应，宽高保持等比缩放
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/805)
 
 <br/
 
-### 第 730 题：ul 内部除最后一个 li 以外设置右边框效果
+### ul 内部除最后一个 li 以外设置右边框效果
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/804)
 
 <br/>
 
-### 第 731 题：flex:1 的完整写法是？分别是什么意思？
+### flex:1 的完整写法是？分别是什么意思？
 
 公司：快手
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/803)
 
 <br/>
 
-### 第 731 题：写出下面代码的输出结果
+### 写出下面代码的输出结果
 
 ```js
 //counter.js
@@ -8350,21 +7948,21 @@ console.log(myCounter);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 732 题：用 typescript 实现函数 caller，接收一个函数作为第一个参数，其返回参数类型由接收的函数参数决定
+### 用 typescript 实现函数 caller，接收一个函数作为第一个参数，其返回参数类型由接收的函数参数决定
 
 公司：快手
 
 分类：其它、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 733 题：有这样一个函数 A,要求在不改变原有函数 A 功能以及调用方式的情况下，使得每次调用该函数都能在控制台打印出“HelloWorld”
+### 有这样一个函数 A,要求在不改变原有函数 A 功能以及调用方式的情况下，使得每次调用该函数都能在控制台打印出“HelloWorld”
 
 ```js
 function A() {
@@ -8376,11 +7974,11 @@ function A() {
 
 分类：JavaScript、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 734 题：在浏览器执行以下代码，写出打印结果
+### 在浏览器执行以下代码，写出打印结果
 
 ```js
 console.log("start");
@@ -8408,55 +8006,45 @@ new Promise(function (resolve, reject) {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 735 题：输入一个整数，输出该数二进制表示中 1 的个数
+### 输入一个整数，输出该数二进制表示中 1 的个数
 
 公司：新东方
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/798)
 
 <br/>
 
-### 第 736 题：CDN 有哪些优化静态资源加载速度的机制？
-
-公司：头条
-
-分类：网络&安全
-
-[答案&解析]()
-
-<br/>
-
-### 第 737 题：行内元素和块级元素有什么区别
+### 行内元素和块级元素有什么区别
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 738 题：link 和@inmport 区别
+### link 和@inmport 区别
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 739 题：⽤ js 实现随机选取 10–100 之间的 10 个且不重复的数字，存⼊⼀个数组，还要排序
+### ⽤ js 实现随机选取 10–100 之间的 10 个且不重复的数字，存⼊⼀个数组，还要排序
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/795)
 
 <br/>
 
-### 第 740 题：请写出弹出值，并解释为什么？
+### 请写出弹出值，并解释为什么？
 
 ```js
 alert(a);
@@ -8472,11 +8060,11 @@ a();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 741 题：写出输出值，并解释为什么
+### 写出输出值，并解释为什么
 
 ```js
 function test(m) {
@@ -8489,11 +8077,11 @@ alert(m.v);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 742 题：请写出代码执⾏结果，并解释为什么
+### 请写出代码执⾏结果，并解释为什么
 
 ```js
 function yideng() {
@@ -8512,11 +8100,11 @@ function yideng() {
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 743 题：请写出代码执⾏结果，并解释为什么
+### 请写出代码执⾏结果，并解释为什么
 
 ```js
 function fn() {
@@ -8533,99 +8121,99 @@ person.method(fn, 1);
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 744 题：给定⼀个⼤⼩为 n 的数组，找到其中的众数。众数是指在数组中出现次数⼤于 ⌊⌊ n/2 ⌋⌋ 的元素
+### 给定⼀个⼤⼩为 n 的数组，找到其中的众数。众数是指在数组中出现次数⼤于 ⌊⌊ n/2 ⌋⌋ 的元素
 
 分类：数据结构与算反
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 745 题：HTTP2.0的多路复⽤和HTTP1.X中的⻓连接复⽤有什么区别？
+### HTTP2.0的多路复⽤和HTTP1.X中的⻓连接复⽤有什么区别？
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 746 题：HTTP2.0多路复⽤有多好？
+### HTTP2.0多路复⽤有多好？
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 747 题：React兄弟组件的通信方式？(需回答两种以上)
+### React兄弟组件的通信方式？(需回答两种以上)
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 748 题：Fiber算法原理，相比之前的stack算法哪些方面做了优化？
+### Fiber算法原理，相比之前的stack算法哪些方面做了优化？
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 749 题：如何实现双向绑定，并抽象成公共组件
+### 如何实现双向绑定，并抽象成公共组件
 
 分类：React
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 750 题：原生实现addClass,用多种方法
+### 原生实现addClass,用多种方法
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 751 题：实现一个倒计时,setInterval实现的话，如何消除时间误差
+### 实现一个倒计时,setInterval实现的话，如何消除时间误差
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/
 
-### 第 752 题：React SSR实现过程？原理是什么？有什么注意事项？
+### React SSR实现过程？原理是什么？有什么注意事项？
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 753 题：Node性能如何进监控以及优化？
+### Node性能如何进监控以及优化？
 
 分类：Node
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 753 题：http请求由什么组成？
+### http请求由什么组成？
 
 分类：网络&安全
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 754 题：屏幕正中间有个元素A，元素A中有文字A，随着屏幕宽度的增加，始终需要满足下列条件
+### 屏幕正中间有个元素A，元素A中有文字A，随着屏幕宽度的增加，始终需要满足下列条件
 
 ```js
 /* 
@@ -8642,21 +8230,21 @@ person.method(fn, 1);
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 755 题：函数中的arguments是数组吗？若不是，如何将它转化为真正的数组？
+### 函数中的arguments是数组吗？若不是，如何将它转化为真正的数组？
 
 公司：头条
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 756 题：请写出以下代码的打印结果
+### 请写出以下代码的打印结果
 
 ```js
 if([] == false){console.log(1)};
@@ -8669,11 +8257,11 @@ if([1] == [1]){console.log(4)};
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 757 题：以最小的改动解决以下代码的错误(可以使用ES6)
+### 以最小的改动解决以下代码的错误(可以使用ES6)
 
 ```js
 const obj = {
@@ -8712,11 +8300,11 @@ obj.say();
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
-### 第 758 题：实现Function 原型的bind方法，使得以下程序最后能输出“success”
+### 实现Function 原型的bind方法，使得以下程序最后能输出“success”
 
 ```js
 function Animal(name,color){
@@ -8737,6 +8325,6 @@ if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal)
 
 分类：JavaScript
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>

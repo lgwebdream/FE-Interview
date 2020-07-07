@@ -10,9 +10,9 @@
 
 <br/>
 
-### 斐波那契数列
+### 多种方式实现斐波那契数列
 
-公司：腾讯
+公司：腾讯、CVTE、微软
 
 分类：算法
 
@@ -56,7 +56,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/240)
 
 <br/>
 
@@ -66,7 +66,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/214)
 
 <br/>
 
@@ -82,17 +82,7 @@
 
 分类：算法
 
-[答案&解析]()
-
-<br/>
-
-### 单向链表实现队列
-
-公司：头条
-
-分类：算法
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/212)
 
 <br/>
 
@@ -102,7 +92,7 @@
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/157)
 
 <br/>
 
@@ -127,7 +117,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/140)
 
 <br/>
 
@@ -137,7 +127,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/346)
 
 <br/>
 
@@ -157,7 +147,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/345)
 
 <br/>
 
@@ -183,17 +173,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
-
-<br/>
-
-### 用递归方式与非递归方式分别写一个斐波那契
-
-公司：微软
-
-分类：算法
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/344)
 
 <br/>
 
@@ -203,7 +183,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/334)
 
 <br/>
 
@@ -237,7 +217,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/327)
 
 <br/>
 
@@ -247,7 +227,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/321)
 
 <br/>
 
@@ -257,7 +237,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/314)
 
 <br/>
 
@@ -267,7 +247,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/291)
 
 <br/>
 
@@ -275,7 +255,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/243)
 
 <br/>
 
@@ -283,7 +263,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/388)
 
 <br/>
 
@@ -293,7 +273,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/365)
 
 <br/>
 
@@ -303,7 +283,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/492)
 
 <br/>
 
@@ -313,7 +293,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/490)
 
 <br/>
 
@@ -323,7 +303,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/489)
 
 <br/>
 
@@ -333,7 +313,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/443)
 
 <br/>
 
@@ -343,7 +323,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/746)
 
 <br/>
 
@@ -353,24 +333,24 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/739)
 
 <br/>
 
 ### 递归公式的时间复杂度为？(单选题)
 
-选项：
-
-- A.O(n)
-- B.O(logn)
-- C.O(nlogn)
-- D.O(n2)
+```js
+A.O(n)
+B.O(logn)
+C.O(nlogn)
+D.O(n2)
+```
 
 公司：会小二
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/693)
 
 <br/>
 
@@ -380,7 +360,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/686)
 
 <br/>
 
@@ -390,7 +370,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/675)
 
 <br/>
 
@@ -398,27 +378,17 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/667)
 
 <br/>
 
-### 定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
+### 给定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
 
 公司：头条
 
 分类：算法
 
-[答案&解析]()
-
-<br/>
-
-### 定一个二叉树，找出其最大深度。二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。说明: 叶子节点是指没有子节点的节点
-
-公司：头条
-
-分类：算法
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/626)
 
 <br/>
 
@@ -428,17 +398,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
-
-<br/>
-
-### 斐波那契数列的实现
-
-公司：CVTE
-
-分类：算法
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/625)
 
 <br/>
 
@@ -460,7 +420,7 @@ function rightView(root){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/845)
 
 <br/>
 
@@ -480,7 +440,7 @@ function sort(n) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/821)
 
 <br/>
 
@@ -490,7 +450,7 @@ function sort(n) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/806)
 
 <br/>
 
@@ -500,7 +460,7 @@ function sort(n) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/798)
 
 <br/>
 
@@ -508,7 +468,7 @@ function sort(n) {
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/795)
 
 <br/>
 
@@ -524,7 +484,7 @@ function getResult(data,n,sum){
 
 分类：算法
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/902)
 
 <br/>
 

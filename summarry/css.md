@@ -2,7 +2,7 @@
 
 ### css 伪类与伪元素区别
 
-公司：滴滴
+公司：滴滴、网易
 
 分类：Css
 
@@ -16,7 +16,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/231)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/228)
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/201)
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/194)
 
 <br/>
 
@@ -56,7 +56,7 @@
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/192)
 
 <br/>
 
@@ -66,17 +66,7 @@
 
 分类：CSS
 
-[答案&解析]()
-
-<br/>
-
-### 通过 link 进来的 css 会阻塞页面渲染嘛，js 呢
-
-公司：伴鱼
-
-分类：CSS
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/191)
 
 <br/>
 
@@ -86,7 +76,7 @@
 
 分类：CSS
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/190)
 
 <br/>
 
@@ -98,7 +88,7 @@
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/151)
 
 <br/>
 
@@ -108,7 +98,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/150)
 
 <br/>
 
@@ -118,7 +108,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/143)
 
 <br/>
 
@@ -128,7 +118,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/363)
 
 <br/>
 
@@ -138,17 +128,7 @@
 
 分类：Css
 
-[答案&解析]()
-
-<br/>
-
-### 伪类和伪元素有什么区别
-
-公司：网易
-
-分类：Css
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/362)
 
 <br/>
 
@@ -158,7 +138,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/357)
 
 <br/>
 
@@ -168,7 +148,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/356)
 
 <br/>
 
@@ -178,7 +158,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/355)
 
 <br/>
 
@@ -188,7 +168,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/335)
 
 <br/>
 
@@ -213,7 +193,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/296)
 
 <br/>
 
@@ -221,17 +201,17 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/278)
 
 <br/>
 
-### 动手实现一个左右固定，中间自适应的三列布局？(至少三种)
+### 动手实现一个左右固定100px，中间自适应的三列布局？(至少三种)
 
-公司：自如
+公司：自如、头条
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/275)
 
 <br/>
 
@@ -239,7 +219,7 @@
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/256)
 
 <br/>
 
@@ -249,7 +229,7 @@
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/413)
 
 <br/>
 
@@ -259,7 +239,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/405)
 
 <br/>
 
@@ -269,7 +249,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/404)
 
 <br/>
 
@@ -279,7 +259,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/403)
 
 <br/>
 
@@ -287,7 +267,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/377)
 
 <br/>
 
@@ -297,7 +277,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/545)
 
 <br/>
 
@@ -307,7 +287,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/544)
 
 <br/>
 
@@ -317,7 +297,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/529)
 
 <br/>
 
@@ -327,7 +307,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/498)
 
 <br/>
 
@@ -337,7 +317,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/491)
 
 <br/>
 
@@ -347,7 +327,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/449)
 
 <br/>
 
@@ -357,7 +337,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/430)
 
 <br/>
 
@@ -367,25 +347,25 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/426)
 
 <br/>
 
 ### 以下选项为 css 盒模型属性有哪些？(多选题)
 
-选项：
-
-- A.font
-- B.margin
-- C.padding
-- D.visible
-- E.border
+```js
+A.font
+B.margin
+C.padding
+D.visible
+E.border
+```
 
 公司：会小二
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/694)
 
 <br/>
 
@@ -395,15 +375,7 @@
 
 分类：Css
 
-[答案&解析]()
-
-<br/>
-
-### 为什么用 transform 代替 top、left
-
-分类：Css
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/678)
 
 <br/>
 
@@ -413,7 +385,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/646)
 
 <br/>
 
@@ -423,7 +395,7 @@
 
 分类：Css、编程题
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/645)
 
 <br/>
 
@@ -433,27 +405,7 @@
 
 分类：Css
 
-[答案&解析]()
-
-<br/>
-
-### 一个标签的 class 样式的渲染顺序，id、class、标签、伪类的优先级
-
-公司：快手
-
-分类：Css
-
-[答案&解析]()
-
-<br/>
-
-### css 实现左右定宽 100px，中间宽度自适应的结构，给出 html 和 css 代码
-
-公司：头条
-
-分类：Css、编程题
-
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/644)
 
 <br/>
 
@@ -463,7 +415,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/628)
 
 <br/>
 
@@ -473,7 +425,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/615)
 
 <br/>
 
@@ -483,7 +435,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/840)
 
 <br/>
 
@@ -493,7 +445,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/839)
 
 <br/>
 
@@ -503,7 +455,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/805)
 
 <br/>
 
@@ -513,7 +465,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/804)
 
 <br/>
 
@@ -523,7 +475,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/803)
 
 <br/>
 
@@ -531,7 +483,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
@@ -539,7 +491,7 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
@@ -560,7 +512,16 @@
 
 分类：Css
 
-[答案&解析]()
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
 
 <br/>
 
+### 怎样用 css 实现一个弹幕的效果，动手实现一下
+
+公司：头条
+
+分类：Css
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/)
+
+<br/>
