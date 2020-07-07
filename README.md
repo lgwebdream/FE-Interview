@@ -41,16 +41,16 @@
 
 ## ☕ 每日一题(2020.05.21)
 
-> 每日一题会在前一天下午五点在 github 发布。第二天下午四点在交流群集中讨论，五点 github、交流群同步更新答案
+> 每日一题会在下午四点在交流群集中讨论，五点 Github、交流群同步更新答案
 
-- **今日题目：Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/139)**
+- **今日题目：既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/904)**
+
+- **昨日题目：Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/139)**
 
   ```js
   Vue.set (object, propertyName, value) 
   vm.$set (object, propertyName, value)
   ```
-
-- **昨日题目：Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/138)**
 
 
 
