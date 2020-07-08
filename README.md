@@ -11,7 +11,7 @@
     <img src="http://img-static.yidengxuetang.com/wxapp/github-img/t3.png" width="300px">
 </div>
 <div align="center" >
-<table display="table" min-width='1600px'>
+<table display="table">
   <tr>
     <th align="center"><b> <a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/html1.png" width="35px" > </b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/css.png" width="40px" > </b></th>
@@ -32,11 +32,11 @@
      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md">Vue</a></b></td>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md">React</a></b></td>
      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md">Node</a></b></td>
-    <td align="center" width="110px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md">工程化</a></b></td>
-      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md">网络</a></b></td>
-      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md">算法</a></b></td>
-       <td align="center" width="110px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md">编程题</a></b></td>
-      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md">其它</a></b></td>
+    <td align="center" white-space="nowrap" ><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md">工程化</a></b></td>
+      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md">网络</a></b></td>
+      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md">算法</a></b></td>
+       <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md">编程题</a></b></td>
+      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md">其它</a></b></td>
   </tr>
 </table>
 </div>
