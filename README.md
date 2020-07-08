@@ -11,7 +11,7 @@
     <img src="http://img-static.yidengxuetang.com/wxapp/github-img/t3.png" width="300px">
 </div>
 <div align="center" >
-<table display="table" width='1000px'>
+<table display="table" min-width='1600px'>
   <tr>
     <th align="center"><b> <a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/html1.png" width="35px" > </b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/css.png" width="40px" > </b></th>
