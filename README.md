@@ -41,23 +41,20 @@
 </table>
 </div>
 
-## ☕ 每日一题(2020.05.21)
+<br />
 
-> 每日一题会在下午4:00在交流群集中讨论，5:00 Github、交流群同步更新答案
+## ☕ 每日一题
 
-- **今日题目：既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?**-**[参与讨论](https://github.com/lgwebdream/FE-Interview-Planet/issues/904)**
+Day92：既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?
 
-- **昨日题目：Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？**-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/139)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/904)**
 
-  ```js
-  Vue.set (object, propertyName, value) 
-  vm.$set (object, propertyName, value)
-  ```
-
-
+<br />
 
 ## ⏱️ 最近更新
 
+- **[Day91:Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？](https://github.com/lgwebdream/FE-Interview/issues/139)**
+- **[Day90:Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法](https://github.com/lgwebdream/FE-Interview/issues/138)**
 - **[写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/lgwebdream/FE-Interview/issues/7)**
 - **[React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化](https://github.com/lgwebdream/FE-Interview/issues/12)**
 - **[react 最新版本解决了什么问题 加了哪些东西](https://github.com/lgwebdream/FE-Interview/issues/13)**
@@ -75,14 +72,18 @@
 - **[手写数组转树](https://github.com/lgwebdream/FE-Interview/issues/35)**
 - **[手写用 ES6proxy 如何实现 arr[-1] 的访问](https://github.com/lgwebdream/FE-Interview/issues/36)**
 
+<br />
+
 ## 📚 面试题大汇总
 
 - **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
 - **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
 
+<br />
+
 ## 🏠 前端面试星球 Family    
 
-> 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
+如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
 <div align="center">
     <img src="http://img-static.yidengxuetang.com/wxapp/github-img/bot.gif" width="500px" >
