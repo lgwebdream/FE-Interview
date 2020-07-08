@@ -32,11 +32,11 @@
      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md">Vue</a></b></td>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md">React</a></b></td>
      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md">Node</a></b></td>
-    <td align="center" width="50px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md">工程化</a></b></td>
-      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md">网络</a></b></td>
-      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md">算法</a></b></td>
-       <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md">编程题</a></b></td>
-      <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md">其它</a></b></td>
+    <td align="center" width="110px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md">工程化</a></b></td>
+      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md">网络</a></b></td>
+      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md">算法</a></b></td>
+       <td align="center" width="110px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md">编程题</a></b></td>
+      <td align="center" width="100px"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md">其它</a></b></td>
   </tr>
 </table>
 </div>
