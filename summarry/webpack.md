@@ -120,7 +120,7 @@
 
 <br/>
 
-### webpack 离线缓存静态资源如何做用 localStore
+### 如何用localStoragewebpack 离线缓存静态资源？
 
 公司：滴滴
 

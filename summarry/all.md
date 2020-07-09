@@ -2840,7 +2840,7 @@ getPathSum(node); // return 7 = (1+2) + (1+3)
 
 <br/>
 
-### webpack 离线缓存静态资源如何做用 localStore
+### Webpack如何用 localStorage 离线缓存静态资源
 
 公司：滴滴
 

@@ -3696,7 +3696,7 @@ peo.name = "second";
 console.log(obj.name);
 ```
 
-选项：公司：会小二
+公司：会小二
 
 分类：JavaScript
 
