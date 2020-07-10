@@ -4,7 +4,6 @@
    <a href="https://github.com/lgwebdream/FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/lgwebdream/FE-Interview?color=success"></a>
    <a href="https://github.com/lgwebdream/FE-Interview/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/lgwebdream/FE-Interview?color=success"></a>
-   <a href="https://github.com/lgwebdream/FE-Interview"><img alt="GitHub license" src="https://img.shields.io/github/license/lgwebdream/FE-Interview?color=success"></a>
 </div>
 
 <div align="center">
