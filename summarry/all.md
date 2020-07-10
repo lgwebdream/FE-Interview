@@ -1538,29 +1538,9 @@ new new Foo().getName(); // ？
 
 公司：快手
 
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/200)
-
-<br/>
-
-### iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
-
-公司：快手
-
-分类：Css
+分类：JavaScript、Css
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/201)
-
-<br/>
-
-### iPhone 里面 Safari 上如果一个输入框 fixed 绝对定位在底部，当软键盘弹出的时候会有什么问题，如何解决
-
-公司：快手
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/200)
 
 <br/>
 

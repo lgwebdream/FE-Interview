@@ -1733,7 +1733,17 @@ vm.$set (object, propertyName, value)
 
 ### Day94:说一下React Hooks在平时开发中需要注意的问题和原因？
 
+分类：React
+
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/906)
+
+<br />
+
+### Day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/907)
 
 <br />
 

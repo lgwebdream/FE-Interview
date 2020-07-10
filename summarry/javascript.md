@@ -654,9 +654,9 @@ new new Foo().getName(); // ？
 
 公司：快手
 
-分类：JavaScript
+分类：JavaScript、Css
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/200)
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/201)
 
 <br/>
 
