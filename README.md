@@ -88,3 +88,11 @@ Day94:说一下React Hooks在平时开发中需要注意的问题和原因？
 <div align="center">
     <img src="http://img-static.yidengxuetang.com/wxapp/github-img/bot.gif" width="500px" >
 </div>
+
+<br />
+
+## 版权许可
+
+![](.gitbook/assets/copyright.png)
+
+本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可，只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书。
