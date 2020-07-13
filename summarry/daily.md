@@ -1747,4 +1747,11 @@ vm.$set (object, propertyName, value)
 
 <br />
 
+Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/908)
+
+<br />
 
