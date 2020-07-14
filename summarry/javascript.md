@@ -3392,20 +3392,6 @@ while (1) {
 
 <br/>
 
-### 修改代码不造成死循环
-
-```js
-while (1) {
-  console.log(Math.random());
-}
-```
-
-分类：JavaScript、编程题
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/724)
-
-<br/>
-
 ### 请写出代码正确执行结果
 
 ```js
