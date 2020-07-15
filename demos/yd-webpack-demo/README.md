@@ -201,20 +201,10 @@ module.exports = {
 };
 ```
 
-
-
 ### 4. 我的mjs能管不？能
 
-```flow
-st=>start: mjs
-op=>operation: node --experimental-modules
-cond=>condition: webpack
-e=>end
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-5.png)
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 ```javascript
 //demo05/index.mjs
 const data = '京程一灯';
@@ -241,7 +231,7 @@ module.exports = {
 
 这个属性有什么用呢，我们编写类库的时候会经常使用到它，他可以帮助我们完成生成的代码的模块标准，那么设置outputModule为true以后和不设置的区别在哪呢？看图说话吧（如名字所示丢掉了闭包把自己变成了module）。
 
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-3.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpck-3.png)
 
 ### 6. 最后来张全家福吧
 ![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-4.png)
