@@ -12,7 +12,7 @@
 > *  编译器的优化
 > * Node.js polyfills 自动被移除
 
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-logo.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-logo.jpg)
 
 老袁写这篇文章的时候现在的版本是 v5.0.0-beta.22，开发进度71%。如果有更多变化和新特性，我也会给大家持续输出第三季。
 
@@ -80,8 +80,8 @@ export const output = (await dynamic).default + Math.random() + '🍊';
 
 好的，接下来就是见证奇迹的时刻了。
 
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-1.png)
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-2.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-1.jpg)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-2.jpg)
 
 我的内心突然有了丝丝的幸福感，你呢🙃可是你以为结束了，我们可以玩点更劲爆的。
 
@@ -203,7 +203,7 @@ module.exports = {
 
 ### 4. 我的mjs能管不？能
 
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-5.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-5.jpg)
 
 ```javascript
 //demo05/index.mjs
@@ -231,10 +231,10 @@ module.exports = {
 
 这个属性有什么用呢，我们编写类库的时候会经常使用到它，他可以帮助我们完成生成的代码的模块标准，那么设置outputModule为true以后和不设置的区别在哪呢？看图说话吧（如名字所示丢掉了闭包把自己变成了module）。
 
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpck-3.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpck-3.jpg)
 
 ### 6. 最后来张全家福吧
-![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-4.png)
+![cmd-markdown-logo](http://img-static.yidengxuetang.com/wxapp/github-img/demo-webpack-4.jpg)
 
 
 ---
