@@ -818,16 +818,6 @@
 
 <br/>
 
-### 介绍箭头函数的 this
-
-公司：百分点
-
-分类：React
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/747)
-
-<br/>
-
 ### 对 React 的看法，它的优缺点，使用过程中遇到的问题，如何解决的
 
 公司：海风教育

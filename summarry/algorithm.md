@@ -527,3 +527,12 @@ function getResult(data,n,sum){
 
 <br/>
 
+
+### 给定⼀个⼤⼩为 n 的数组，找到其中的众数。众数是指在数组中出现次数⼤于 ⌊⌊ n/2 ⌋⌋ 的元素
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/789)
+
+<br/>
+

@@ -457,7 +457,7 @@
 - [Access-Control-Allow-Origin 在服务端哪里配置](#access-control-allow-origin-在服务端哪里配置)
 - [前端和后端怎么联调](#前端和后端怎么联调)
 - [如何实现高度自适应](#如何实现高度自适应)
-- [prototype 和<strong>proto</strong>区别](#prototype-和proto区别)
+- [prototype 和proto区别](#prototype-和proto区别)
 - [new 的实现原理，动手实现一个 new](#new-的实现原理动手实现一个-new)
 - [如何实现 H5 手机端的适配](#如何实现-h5-手机端的适配)
 - [em 和 px 的区别](#em-和-px-的区别)
@@ -6463,7 +6463,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 公司：百分点
 
-分类：React
+分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/747)
 
@@ -8838,7 +8838,7 @@ person.method(fn, 1);
 
 ### 给定⼀个⼤⼩为 n 的数组，找到其中的众数。众数是指在数组中出现次数⼤于 ⌊⌊ n/2 ⌋⌋ 的元素
 
-分类：数据结构与算反
+分类：算法
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/789)
 

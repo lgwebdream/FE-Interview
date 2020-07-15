@@ -192,7 +192,7 @@
 - [项目中对于用户体验做过什么优化](#项目中对于用户体验做过什么优化)
 - [前后端通信使用什么方案](#前后端通信使用什么方案)
 - [RESTful 常用的 Method](#restful-常用的-method)
-- [prototype 和<strong>proto</strong>区别](#prototype-和proto区别)
+- [prototype 和proto区别](#prototype-和proto区别)
 - [new 的实现原理，动手实现一个 new](#new-的实现原理动手实现一个-new)
 - [如何实现 H5 手机端的适配](#如何实现-h5-手机端的适配)
 - [如何去除 url 中的#号](#如何去除-url-中的号)
@@ -2681,7 +2681,7 @@ d3,,,
 
 <br/>
 
-### prototype 和**proto**区别
+### prototype 和proto区别
 
 公司：兑吧
 
@@ -3464,6 +3464,16 @@ yideng.method(fn, 1);
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/719)
+
+<br/>
+
+### 介绍箭头函数的 this
+
+公司：百分点
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/747)
 
 <br/>
 
