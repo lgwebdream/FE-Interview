@@ -91,6 +91,13 @@
 - [Day90:Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。](#day90vue父组件可以监听到子组件的生命周期吗如果能请写出你的实现方法)
 - [Day91:Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？](#day91vue-为什么要用-vmset-解决对象新增属性不能响应的问题-你能说说如下代码的实现原理么)
 - [Day92:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?](#day92既然-vue-通过数据劫持可以精准探测数据在具体dom上的变化为什么还需要虚拟-dom-diff-呢)
+- [Day93:93:Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）](#day93:Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）)
+- [Day94:说一下React Hooks在平时开发中需要注意的问题和原因？](#day94:说一下React-Hooks在平时开发中需要注意的问题和原因？)
+- [Day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？](#day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？)
+- [Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？](#day96:请能尽可能多的说出-vue-组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？)
+- [Day97:请讲一下react-redux的实现原理?](#day97:请讲一下react-redux的实现原理?)
+- [Day98:写出下面代码的执行结果，并解释原因](#day98:写出下面代码的执行结果，并解释原因)
+- [Day99:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?](#day99既然-vue-通过数据劫持可以精准探测数据在具体dom上的变化为什么还需要虚拟-dom-diff-呢)
 
 ### Day1:请写出下面代码执行的的结果
 
@@ -1760,6 +1767,30 @@ vm.$set (object, propertyName, value)
 分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/909)
+
+<br />
+
+### Day98:写出下面代码的执行结果，并解释原因
+
+```js
+Object.prototype.yideng = "京程一灯";
+var a = 123;
+a.b = 456;
+console.log(a.yideng);
+console.log(a.b)
+```
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/910)
+
+<br />
+
+### Day99:React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/912)
 
 <br />
 

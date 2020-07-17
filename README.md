@@ -44,15 +44,7 @@
 
 ## ☕ 每日一题
 
-Day98:写出下面代码的执行结果，并解释原因
-
-```js
-Object.prototype.yideng = "京程一灯";
-var a = 123;
-a.b = 456;
-console.log(a.yideng);
-console.log(a.b)
-```
+Day99:React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
 
 **[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/910)**
 
@@ -60,6 +52,7 @@ console.log(a.b)
 
 ## ⏱️ 最近更新
 
+- **[Day98:写出下面代码的执行结果，并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/910)**
 - **[Day97:请讲一下react-redux的实现原理?](https://github.com/lgwebdream/FE-Interview/issues/909)**
 - **[Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？](https://github.com/lgwebdream/FE-Interview/issues/908)**
 - **[Day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？](https://github.com/lgwebdream/FE-Interview/issues/907)**

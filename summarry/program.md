@@ -752,6 +752,20 @@ while (1) {
 
 <br/>
 
+### 修改代码不造成死循环
+
+```js
+while(1){
+  console.log(Math.random());
+}
+```
+
+分类：JavaScript、编程题
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/911)
+
+<br/>
+
 
 ### 请手写实现一个拖拽
 
