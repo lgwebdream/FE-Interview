@@ -44,6 +44,8 @@
 
 ## ☕ 每日一题
 
+> 每天get一个知识点
+
 Day99:React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
 
 **[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/912)**
@@ -55,7 +57,7 @@ Day99:React 中 setState 后发生了什么？setState 为什么默认是异步�
 - **[有答案解析题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aissue+is%3Aclosed)**
 - **[新增题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aopen+is%3Aissue)**
 
-## 📚 面试题汇总快速入口
+## 📚 面试题汇总入口
 
 - **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
 - **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
