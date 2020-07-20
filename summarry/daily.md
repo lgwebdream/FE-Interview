@@ -97,7 +97,8 @@
 - [Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？](#day96:请能尽可能多的说出-vue-组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？)
 - [Day97:请讲一下react-redux的实现原理?](#day97:请讲一下react-redux的实现原理?)
 - [Day98:写出下面代码的执行结果，并解释原因](#day98:写出下面代码的执行结果，并解释原因)
-- [Day99:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?](#day99既然-vue-通过数据劫持可以精准探测数据在具体dom上的变化为什么还需要虚拟-dom-diff-呢)
+- [Day99:React中setState后发生了什么？setState为什么默认是异步？setState什么时候是同步？](#day99React中setState后发生了什么？setState为什么默认是异步？setState什么时候是同步？)
+- [Day100:哪些方法会触发 react 重新渲染？重新渲染 render 会做些什么？](#day100哪些方法会触发react重新渲染？重新渲染render会做些什么？)
 
 ### Day1:请写出下面代码执行的的结果
 
@@ -1786,11 +1787,19 @@ console.log(a.b)
 
 <br />
 
-### Day99:React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
+### Day99:React中setState后发生了什么？setState为什么默认是异步？setState什么时候是同步？
 
 分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/912)
+
+<br />
+
+### Day100:哪些方法会触发react重新渲染？重新渲染render会做些什么？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/913)
 
 <br />
 
