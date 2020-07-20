@@ -50,34 +50,12 @@ Day99:React 中 setState 后发生了什么？setState 为什么默认是异步�
 
 <br />
 
-## ⏱️ 最近更新
+## ⏱️ 面试题更新
 
-- **[Day98:写出下面代码的执行结果，并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/910)**
-- **[Day97:请讲一下react-redux的实现原理?](https://github.com/lgwebdream/FE-Interview/issues/909)**
-- **[Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？](https://github.com/lgwebdream/FE-Interview/issues/908)**
-- **[Day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？](https://github.com/lgwebdream/FE-Interview/issues/907)**
-- **[Day94:说一下React Hooks在平时开发中需要注意的问题和原因？](https://github.com/lgwebdream/FE-Interview/issues/906)**
-- **[Day93:Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）](https://github.com/lgwebdream/FE-Interview/issues/905)**
-- **[Day92:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?](https://github.com/lgwebdream/FE-Interview/issues/904)**
-- **[Day91:Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？](https://github.com/lgwebdream/FE-Interview/issues/139)**
-- **[Day90:Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法](https://github.com/lgwebdream/FE-Interview/issues/138)**
-- **[写一个 mySetInterVal(fn, a, b),每次间隔 a,a+b,a+2b 的时间，然后写一个 myClear，停止上面的 mySetInterVal](https://github.com/lgwebdream/FE-Interview/issues/7)**
-- **[React 项目中有哪些细节可以优化？实际开发中都做过哪些性能优化](https://github.com/lgwebdream/FE-Interview/issues/12)**
-- **[react 最新版本解决了什么问题 加了哪些东西](https://github.com/lgwebdream/FE-Interview/issues/13)**
-- **[说一下 Http 缓存策略，有什么区别，分别解决了什么问题](https://github.com/lgwebdream/FE-Interview/issues/14)**
-- **[前端安全、中间人攻击](https://github.com/lgwebdream/FE-Interview/issues/16)**
-- **[有一堆整数，请把他们分成三份，确保每一份和尽量相等（11，42，23，4，5，6 4 5 6 11 23 42 56 78 90）](https://github.com/lgwebdream/FE-Interview/issues/19)**
-- **[实现 lodash 的_.get](https://github.com/lgwebdream/FE-Interview/issues/20)**
-- **[webpack 做过哪些优化，开发效率方面、打包策略方面等等](https://github.com/lgwebdream/FE-Interview/issues/25)**
-- **[说一下事件循环机制(node、浏览器)](https://github.com/lgwebdream/FE-Interview/issues/26)**
-- **[介绍下 promise 的特性、优缺点，内部是如何实现的，动手实现 Promise](https://github.com/lgwebdream/FE-Interview/issues/29)**
-- **[讲一下 webpack 原理， loader 和 plugin，你知道哪些模块化标准，说下 cjs 和 esmodule 的区别](https://github.com/lgwebdream/FE-Interview/issues/216)**
-- **[随便打开一个网页，用 JavaScript 打印所有以 s 和 h 开头的标签，并计算出标签的种类](https://github.com/lgwebdream/FE-Interview/issues/204)**
-- **[谈一下微信小程序的架构以及为什么要用到双线程](https://github.com/lgwebdream/FE-Interview/issues/205)**
+- **[有答案解析题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aissue+is%3Aclosed)**
+- **[新增题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aopen+is%3Aissue)**
 
-<br />
-
-## 📚 面试题大汇总
+## 📚 面试题汇总快速入口
 
 - **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
 - **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
