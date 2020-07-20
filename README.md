@@ -52,10 +52,11 @@ Day100:哪些方法会触发 react 重新渲染？重新渲染 render 会做些�
 
 <br /> 
 
-## ⏱️ 面试题更新
+## ⏱️ 资源更新
 
 - **[有答案解析题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aissue+is%3Aclosed)**
 - **[新增题目列表](https://github.com/lgwebdream/FE-Interview/issues?q=is%3Aopen+is%3Aissue)**
+- **[Webpack5 新特性尝鲜实战](https://github.com/lgwebdream/FE-Interview/tree/master/demos/yd-webpack-demo)**
 
 ## 📚 面试题汇总入口
 
