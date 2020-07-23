@@ -1811,3 +1811,19 @@ console.log(a.b)
 
 <br />
 
+### Day102:说一下减少 dom 数量的办法？一次性给你大量的 dom 怎么优化？
+
+分类：Html
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/915)
+
+<br />
+
+### Day103:多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/916)
+
+<br />
+
