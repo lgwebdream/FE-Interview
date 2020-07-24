@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day103:多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？
+Day104:项目中如何进行异常捕获
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/916)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/917)**
 
 <br /> 
 

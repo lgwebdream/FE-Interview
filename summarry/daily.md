@@ -1827,3 +1827,11 @@ console.log(a.b)
 
 <br />
 
+### Day104:项目中如何进行异常捕获
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/917)
+
+<br />
+
