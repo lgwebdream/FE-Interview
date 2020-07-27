@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day104:项目中如何进行异常捕获
+Day105:JavaScript 中如何模拟实现方法的重载,动手实现下
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/917)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/918)**
 
 <br /> 
 

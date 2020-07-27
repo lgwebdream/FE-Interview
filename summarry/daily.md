@@ -1835,3 +1835,11 @@ console.log(a.b)
 
 <br />
 
+### Day105:JavaScript 中如何模拟实现方法的重载,动手实现下
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/918)
+
+<br />
+

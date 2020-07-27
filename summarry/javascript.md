@@ -141,7 +141,7 @@
 - [如何同时获取 html 中的 h1,h2,h3,h4,h5,h6 中的内容](#如何同时获取-html-中的-h1h2h3h4h5h6-中的内容)
 - [JavaScript 的执行流程](#javascript-的执行流程)
 - [Promise.resolve(obj)，obj 有几种可能](#promiseresolveobjobj-有几种可能)
-- [写出代码执行结果](#写出代码执行结果-1)
+- [写出代码执行结果](#写出代码执行结果)
 - [nextTick 是在本次循环执行，还是在下次，setTimeout(() =&gt; {}, 0)呢？](#nexttick-是在本次循环执行还是在下次settimeout---0呢)
 - [使用正则去掉 Dom 中的内联样式](#使用正则去掉-dom-中的内联样式)
 - [写一个匹配 ip 地址的正则](#写一个匹配-ip-地址的正则)
@@ -2751,7 +2751,7 @@ d3,,,
 
 <br/>
 
-### ajax 如何处理跨域？CORSr 如何设置？
+### ajax 如何处理跨域？CORS 如何设置？
 
 公司：兑吧
 
