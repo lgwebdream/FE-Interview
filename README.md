@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day105:JavaScript 中如何模拟实现方法的重载,动手实现下
+Day106:Webpack 里面的插件是怎么实现的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/918)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/919)**
 
 <br /> 
 

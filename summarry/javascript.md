@@ -38,7 +38,6 @@
 - [说一下对面向对象的理解，面向对象有什么好处](#说一下对面向对象的理解面向对象有什么好处)
 - [类设计：使用面相对象设计一个停车场管理系](#类设计使用面相对象设计一个停车场管理系)
 - [实现输出一个十六进制的随机颜色(#af0128a)](#实现输出一个十六进制的随机颜色af0128a)
-- [justify-content:space-between around 有什么区别](#justify-contentspace-between-around-有什么区别)
 - [手写代码实现kuai-shou-front-end=&gt;KuaiShouFrontEnd](#手写代码实现kuai-shou-front-endkuaishoufrontend)
 - [设计一个 Student 组件，实现输入姓名性别成绩（这三个必填），还有几个不是必填的属性，要设置默认值，点击弹出成绩](#设计一个-student-组件实现输入姓名性别成绩这三个必填还有几个不是必填的属性要设置默认值点击弹出成绩)
 - [设计一个函数，奇数次执行的时候打印 1，偶数次执行的时候打印 2](#设计一个函数奇数次执行的时候打印-1偶数次执行的时候打印-2)
@@ -802,15 +801,7 @@ new new Foo().getName(); // ？
 
 <br/>
 
-### justify-content:space-between around 有什么区别
 
-公司：快手
-
-分类：JavaScript
-
-[答案&解析](https://github.com/lgwebdream/FE-Interview/issues/169)
-
-<br/>
 
 ### 手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
 
@@ -1877,7 +1868,7 @@ getName = function () {
 };
 
 // 请写出下面的输出结果
-getName90;
+getName();
 Foo.getName();
 new Foo().getName();
 ```
