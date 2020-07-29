@@ -1851,3 +1851,11 @@ console.log(a.b)
 
 <br />
 
+### Day107:对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？
+
+分类：React、Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/920)
+
+<br />
+

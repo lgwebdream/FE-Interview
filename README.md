@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day106:Webpack 里面的插件是怎么实现的？
+Day107:对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/919)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/920)**
 
 <br /> 
 
