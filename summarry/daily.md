@@ -1867,3 +1867,11 @@ console.log(a.b)
 
 <br />
 
+### Day109:动画性能如何检测
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/922)
+
+<br />
+
