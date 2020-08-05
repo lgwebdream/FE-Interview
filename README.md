@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day110:客户端缓存有几种方式？浏览器出现 from disk、from memory 的策略是啥
+Day111:原生 JavaScript 实现图片懒加载的思路
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/923)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/924)**
 
 <br /> 
 
