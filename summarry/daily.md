@@ -1891,3 +1891,11 @@ console.log(a.b)
 
 <br />
 
+### Day112:数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/925)
+
+<br />
+
