@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-Day112:数组里面有 10 万个数据，取第一个元素和第 10 万个元素的时间相差多少
+### Day114:说一下Webpack 热更新的原理
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/925)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/927)**
 
 <br /> 
 
