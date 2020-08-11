@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day114:说一下Webpack 热更新的原理
+### Day115:说一下 vue-router 的原理
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/927)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/928)**
 
 <br /> 
 

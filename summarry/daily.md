@@ -1915,3 +1915,11 @@ console.log(a.b)
 
 <br />
 
+### Day115:说一下 vue-router 的原理
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/928)
+
+<br />
+
