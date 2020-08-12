@@ -1923,9 +1923,9 @@ console.log(a.b)
 
 <br />
 
-### Day116:网站 SEO 怎么处理
+### Day116:商城的列表页跳转到商品的详情页，详情页数据接口很慢，前端可以怎么优化用户体验？
 
-分类：其它
+分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/929)
 
