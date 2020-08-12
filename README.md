@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day115:说一下 vue-router 的原理
+### Day116:网站 SEO 怎么处理
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/928)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/929)**
 
 <br /> 
 
