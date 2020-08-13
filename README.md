@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day116:商城的列表页跳转到商品的详情页，详情页数据接口很慢，前端可以怎么优化用户体验？
+### Day117:React SSR实现过程？原理是什么？有什么注意事项？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/929)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/930)**
 
 <br /> 
 
