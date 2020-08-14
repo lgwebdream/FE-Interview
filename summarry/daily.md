@@ -1939,3 +1939,10 @@ console.log(a.b)
 
 <br />
 
+### Day118:说一下单点登录实现原理
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/931)
+
+<br />

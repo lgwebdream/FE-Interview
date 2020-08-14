@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day117:React SSR实现过程？原理是什么？有什么注意事项？
+### Day118:说一下单点登录实现原理
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/930)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/931)**
 
 <br /> 
 
