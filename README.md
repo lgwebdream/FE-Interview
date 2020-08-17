@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day118:说一下单点登录实现原理
+### Day119:怎样判断一个对象是否是数组，如何处理类数组对象
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/931)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/932)**
 
 <br /> 
 
