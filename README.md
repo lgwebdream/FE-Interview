@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day119:怎样判断一个对象是否是数组，如何处理类数组对象
+### Day120:说一下 CORS 的简单请求和复杂请求的区别
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/932)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/933)**
 
 <br /> 
 

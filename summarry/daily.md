@@ -1854,3 +1854,11 @@ console.log(a.b)
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/932)
 
 <br />
+
+### Day120:说一下 CORS 的简单请求和复杂请求的区别
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/933)
+
+<br />
