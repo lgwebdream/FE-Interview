@@ -1862,3 +1862,11 @@ console.log(a.b)
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/933)
 
 <br />
+
+### Day121:说一下 在 map 中和 for 中调用异步函数的区别
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/934)
+
+<br />

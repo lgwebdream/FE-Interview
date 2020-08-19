@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day120:说一下 CORS 的简单请求和复杂请求的区别
+### Day121:说一下 在 map 中和 for 中调用异步函数的区别
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/933)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/934)**
 
 <br /> 
 
