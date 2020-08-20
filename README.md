@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day121:说一下 在 map 中和 for 中调用异步函数的区别
+### Day122:说一下 import 的原理，与 require 有什么不同?
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/934)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/935)**
 
 <br /> 
 

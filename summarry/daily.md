@@ -1870,3 +1870,11 @@ console.log(a.b)
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/934)
 
 <br />
+
+### Day122:说一下 import 的原理，与 require 有什么不同?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/935)
+
+<br />
