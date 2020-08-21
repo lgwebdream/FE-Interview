@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day122:说一下 import 的原理，与 require 有什么不同?
+### Day122:说下 webpack 的 loader 和 plugin 的区别，都使用过哪些 loader 和 plugin
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/935)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/936)**
 
 <br /> 
 
