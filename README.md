@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day122:说下 webpack 的 loader 和 plugin 的区别，都使用过哪些 loader 和 plugin
+### Day124:说一下 Https 加密握手的过程
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/936)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/937)**
 
 <br /> 
 
