@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day124:说一下 Https 加密握手的过程
+### Day125:按要求实现代码
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/937)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/938)**
 
 <br /> 
 
