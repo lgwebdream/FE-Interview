@@ -1903,9 +1903,9 @@ console.log(a.b)
 
 <br />
 
-### Day126:说一下 Vue 组件的通信方式都有哪些？(父子组件，兄弟组件，多级嵌套组件等等)
+### Day126:请描述 CSRF、XSS 的基本概念、攻击原理和防御措施？
 
-分类：Vue
+分类：网络&安全
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/939)
 
