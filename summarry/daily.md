@@ -1894,3 +1894,19 @@ console.log(a.b)
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/937)
 
 <br />
+
+### Day125:按要求实现代码
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/938)
+
+<br />
+
+### Day126:说一下 Vue 组件的通信方式都有哪些？(父子组件，兄弟组件，多级嵌套组件等等)
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/939)
+
+<br />
