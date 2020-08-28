@@ -2931,7 +2931,7 @@ console.log(obj);
 
 <br/>
 
-### 说一下 React.Component 和 Ract.PureComponent 的区别
+### 说一下 React.Component 和 React.PureComponent 的区别
 
 公司：高德、有赞、酷家乐
 
