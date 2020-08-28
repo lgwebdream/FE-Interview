@@ -1952,3 +1952,14 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/940)
 
 <br />
+
+
+### Day128:说一下 React.Component 和 React.PureComponent 的区别
+
+公司：高德、有赞、酷家乐
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/941)
+
+<br />
