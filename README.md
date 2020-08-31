@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day128:说一下 React.Component 和 React.PureComponent 的区别
+### Day129:React 高阶组件 、Render props 和 hooks 有什么区别，为什么要不断迭代
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/941)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/942)**
 
 <br /> 
 

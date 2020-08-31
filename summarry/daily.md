@@ -1963,3 +1963,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/941)
 
 <br />
+
+### Day129:React 高阶组件 、Render props 和 hooks 有什么区别，为什么要不断迭代
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/942)
+
+<br />
