@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day129:React 高阶组件 、Render props 和 hooks 有什么区别，为什么要不断迭代
+### Day130:什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/942)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/943)**
 
 <br /> 
 

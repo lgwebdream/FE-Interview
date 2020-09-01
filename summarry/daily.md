@@ -1971,3 +1971,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/942)
 
 <br />
+
+### Day130:什么是深拷贝，和浅拷贝有什么区别，动手实现一个深拷贝
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/943)
+
+<br />
