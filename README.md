@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day131:介绍下 webpack，并说下 Webpack 的构建流程
+### Day133:说一下 mobx 和 redux 有什么区别？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/944)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/947)**
 
 <br /> 
 

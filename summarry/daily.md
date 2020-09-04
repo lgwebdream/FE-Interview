@@ -1989,3 +1989,23 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/944)
 
 <br />
+
+### Day132:说下 tree-shaking 的原理
+
+公司：头条
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/945)
+
+<br />
+
+### Day133:说一下 mobx 和 redux 有什么区别？
+
+公司：洋葱学院
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/947)
+
+<br />
