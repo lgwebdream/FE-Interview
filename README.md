@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day133:说一下 mobx 和 redux 有什么区别？
+### Day134:Typescript 里有哪些 JavaScript 没有的类型？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/947)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/948)**
 
 <br /> 
 

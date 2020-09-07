@@ -2009,3 +2009,14 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/947)
 
 <br />
+
+
+### Day134:Typescript 里有哪些 JavaScript 没有的类型？
+
+公司：滴滴
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/948)
+
+<br />
