@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day134:Typescript 里有哪些 JavaScript 没有的类型？
+### Day135:说一下单元测试、E2E测试？它们有什么区别？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/948)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/949)**
 
 <br /> 
 

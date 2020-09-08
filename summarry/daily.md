@@ -2020,3 +2020,13 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/948)
 
 <br />
+
+### Day135:说一下单元测试、E2E测试？它们有什么区别？
+
+公司：头条
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/949)
+
+<br />
