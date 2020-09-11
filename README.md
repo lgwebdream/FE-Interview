@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day135:说一下单元测试、E2E测试？它们有什么区别？
+### Day138:有 1000 个 dom，需要更新其中的 100 个，如何操作才能减少 dom 的操作？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/949)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/952)**
 
 <br /> 
 

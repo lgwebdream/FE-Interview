@@ -2030,3 +2030,33 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/949)
 
 <br />
+
+### Day136:BFC 是什么？触发 BFC 的条件是什么？有哪些应用场景？
+
+公司：快手、网易、伴鱼
+
+分类：Css
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/950)
+
+<br />
+
+### Day137:说说浏览器渲染流程，分层之后在什么时候合成，什么是重排、重绘，怎样避免
+
+公司：老虎
+
+分类：Css
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/951)
+
+<br />
+
+### Day138:有 1000 个 dom，需要更新其中的 100 个，如何操作才能减少 dom 的操作？
+
+公司：爱范儿
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/952)
+
+<br />

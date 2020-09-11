@@ -1880,7 +1880,7 @@ new new Foo().getName(); // ？
 
 公司：老虎
 
-分类：网络&安全
+分类：Css
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/166)
 
@@ -2233,15 +2233,15 @@ const k = sum(n1)...(nk) // k === n1 + n2 + ... + nk
 function TreeNode(val){
   this.val = val;
   this.left = null;
-  this.right = null;
+  this.right = null; 
 }
 function rightView(root){
   // 请你实现
 }
 // => [1,4,3]
-     1      <= 1
-   2   4    <= 4
- 7   3      <= 3
+     1       => 1
+   2   4     => 4
+ 7   3       => 3
 ```
 
 公司：头条
