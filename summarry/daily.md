@@ -1,6 +1,6 @@
 # 每日一题汇总
 
-### Day1:请写出下面代码执行的的结果
+### Day1:请写出下面代码执行的的结果 
 
 ```js
 console.log(1);
@@ -2058,5 +2058,13 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/952)
+
+<br />
+
+### Day139:Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？为什么？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/953)
 
 <br />

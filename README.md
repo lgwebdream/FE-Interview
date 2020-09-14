@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day138:有 1000 个 dom，需要更新其中的 100 个，如何操作才能减少 dom 的操作？
+### Day139:Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？为什么？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/952)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/953)**
 
 <br /> 
 
