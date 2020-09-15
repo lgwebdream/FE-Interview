@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day139:Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？为什么？
+### Day140:Fiber算法原理，相比之前的stack算法哪些方面做了优化？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/953)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/954)**
 
 <br /> 
 

@@ -2068,3 +2068,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/953)
 
 <br />
+
+### Day140:Fiber算法原理，相比之前的stack算法哪些方面做了优化？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/954)
+
+<br />
