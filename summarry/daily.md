@@ -2076,3 +2076,14 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/954)
 
 <br />
+
+Day141:请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
+
+公司：玄武科技
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/955)
+
+<br />
+

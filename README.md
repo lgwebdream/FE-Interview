@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day140:Fiber算法原理，相比之前的stack算法哪些方面做了优化？
+### Day141:请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/954)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/955)**
 
 <br /> 
 
