@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day141:请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
+### Day142:请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/955)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/956)**
 
 <br /> 
 
