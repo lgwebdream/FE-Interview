@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day142:请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？
+### Day143:说一下 Vue3 与 Vue2 的对比
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/956)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/957)**
 
 <br /> 
 

@@ -2098,3 +2098,13 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
+### Day143:说一下 Vue3 与 Vue2 的对比
+
+公司：高德
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/957)
+
+<br />
+
