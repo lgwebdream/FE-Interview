@@ -2108,3 +2108,11 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
+### Day144:说一下 Vue 单页与多页的区别
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/958)
+
+<br />
+
