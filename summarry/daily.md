@@ -2116,3 +2116,13 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
+### Day145:介绍下 pm2，pm2 依据什么重启服务
+
+公司：阿里
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/959)
+
+<br />
+
