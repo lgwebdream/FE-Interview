@@ -2116,6 +2116,7 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
+
 ### Day145:介绍下 pm2，pm2 依据什么重启服务
 
 公司：阿里
@@ -2123,6 +2124,16 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 分类：Node
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/959)
+
+<br />
+
+### Day146:原生 JavaScript 实现图片懒加载的思路
+
+公司：安居客
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/960)
 
 <br />
 

@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day145:介绍下 pm2，pm2 依据什么重启服务
+### Day146:原生 JavaScript 实现图片懒加载的思路
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/959)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/960)**
 
 <br /> 
 
