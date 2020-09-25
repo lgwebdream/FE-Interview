@@ -2137,3 +2137,33 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
+Day147:在浏览器执行以下代码，写出打印结果
+
+```js
+console.log("start");
+setTimeout(() => {
+  console.log("children2");
+  Promise.resolve().then(() => {
+    console.log("children3");
+  });
+}, 0);
+new Promise(function (resolve, reject) {
+  console.log("children4");
+  setTimeout(function () {
+    console.log("children5");
+    resolve("children6");
+  }, 0);
+}).then((res) => {
+  console.log("children7");
+  setTimeout(() => {
+    console.log(res);
+  }, 0);
+});
+```
+
+公司：新东方
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/961)
+

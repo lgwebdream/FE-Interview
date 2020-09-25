@@ -9039,7 +9039,7 @@ function Animal(name,color){
 Animal.prototype.say = function(){
   return `I'm a ${this.color}${this.name}`;
 }
-const cat = Animal.bind(null,'cat');
+const Cat = Animal.bind(null,'cat');
 const cat = new Cat('white');
 if(cat.say() === "I'm white cat" && cat instanceof Cat && cat instanceof Animal){
   console.log('sunccess');
