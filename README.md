@@ -46,31 +46,9 @@
 
 > 每天get一个知识点
 
-### Day147:在浏览器执行以下代码，写出打印结果
+### Day148:请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
 
-```js
-console.log("start");
-setTimeout(() => {
-  console.log("children2");
-  Promise.resolve().then(() => {
-    console.log("children3");
-  });
-}, 0);
-new Promise(function (resolve, reject) {
-  console.log("children4");
-  setTimeout(function () {
-    console.log("children5");
-    resolve("children6");
-  }, 0);
-}).then((res) => {
-  console.log("children7");
-  setTimeout(() => {
-    console.log(res);
-  }, 0);
-});
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/961)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/962)**
 
 <br /> 
 

@@ -2167,3 +2167,15 @@ new Promise(function (resolve, reject) {
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/961)
 
+
+
+
+### Day148:请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
+
+公司：快手
+
+分类：JavaScript、编程题
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/959)
+
+<br />
