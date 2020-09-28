@@ -2176,6 +2176,17 @@ new Promise(function (resolve, reject) {
 
 分类：JavaScript、编程题
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/959)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/962)
+
+<br />
+
+
+### Day149:一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
+
+公司：快手
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/963)
 
 <br />

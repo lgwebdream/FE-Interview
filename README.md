@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day148:请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
+### Day149:一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/962)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/963)**
 
 <br /> 
 
