@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day149:一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
+### Day150:说一下对 React context 的理解
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/963)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/964)**
 
 <br /> 
 
