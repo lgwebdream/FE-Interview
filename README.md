@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day150:说一下对 React context 的理解
+### Day151:for..of 和 for...in 是否可以直接遍历对象？为什么？如果不可以有什么解决方案？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/964)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/965)**
 
 <br /> 
 
