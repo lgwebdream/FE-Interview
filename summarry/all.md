@@ -6381,7 +6381,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 ### 介绍 class 和 ES5 的类以及区别
 
-公司：酷家乐
+公司：酷家乐 
 
 分类：JavaScript
 
@@ -6399,7 +6399,7 @@ D.安全性更高，客户端支持防御 XSRF
 
 <br/>
 
-### for..in 和 object.keys 的区别
+### for..in 和 Object.keys 的区别
 
 公司：酷家乐
 

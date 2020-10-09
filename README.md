@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day151:for..of 和 for...in 是否可以直接遍历对象？为什么？如果不可以有什么解决方案？
+### Day152:for..in 和 Object.keys 的区别
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/965)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/966)**
 
 <br /> 
 
