@@ -16,13 +16,13 @@
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/css.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/css.png" width="40px" > </b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/javascript.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/javascript1.png" width="35px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/vue.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/vue.svg" width="40px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/react1.png" width="40px" ></b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/react.md"><img src="http://img-static.yidengxuetang.com/wxapp/wx/react_icon_v1.png" width="40px" ></b></th>
   <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/node.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/node1.png" width="40px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/webpack.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/webpack.svg" width="40px" ></b></th>
    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/http.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/http1.png" width="35px" ></b></th>
     <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/algorithm.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/algorithm3.svg" width="52px" ></b></th>
    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/program.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/pro.svg" width="50px" ></b></th>
-    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://img-static.yidengxuetang.com/wxapp/github-img/other.png" width="38px" > </b></th>
+    <th align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/other.md"><img src="http://img-static.yidengxuetang.com/wxapp/wx/other_iocn_v2.png" width="38px" > </b></th>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/html.md">Html</a></b></td>
