@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day152:for..in 和 Object.keys 的区别
+### Day153:Promise.resolve(obj)，obj 有几种可能
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/966)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/967)**
 
 <br /> 
 
