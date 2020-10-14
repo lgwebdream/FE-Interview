@@ -2239,5 +2239,37 @@ new Promise(function (resolve, reject) {
 
 <br />
 
+### Day155:动手实现一个 repeat 方法
+
+```js
+function repeat(func, times, wait) {
+  // TODO
+}
+const repeatFunc = repeat(alert, 4, 3000);
+// 调用这个 repeatFunc ("hellworld")，会alert4次 helloworld, 每次间隔3秒
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/969)
+
+<br />
 
 
+### Day156:输入一个数字，找到对应的字母
+
+```js
+/*
+	如输入1 返回a
+	输入26返回z
+	输入27返回aa
+	输入28返回ab
+	输入53返回aaa
+*/
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/970)
+
+<br />

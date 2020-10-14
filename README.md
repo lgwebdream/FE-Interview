@@ -46,14 +46,19 @@
 
 > 每天get一个知识点
 
-### Day154:给定起止日期，返回中间的所有月份
+### Day156:输入一个数字，找到对应的字母
 
 ```js
-// 输入两个字符串 2018-08  2018-12
-// 输出他们中间的月份 [2018-10, 2018-11]
+/*
+	如输入1 返回a
+	输入26返回z
+	输入27返回aa
+	输入28返回ab
+	输入53返回aaa
+*/
 ```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/968)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/970)**
 
 <br /> 
 
