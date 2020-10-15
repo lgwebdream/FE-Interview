@@ -2255,21 +2255,30 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 <br />
 
-
 ### Day156:输入一个数字，找到对应的字母
 
 ```js
 /*
-	如输入1 返回a
-	输入26返回z
-	输入27返回aa
-	输入28返回ab
-	输入53返回aaa
+ 如输入1 返回a
+ 输入26返回z
+ 输入27返回aa
+ 输入28返回ab
+ 输入53返回aaa
 */
 ```
 
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/970)
+
+<br />
+
+### Day157:输入一个数字，找到对应的字母
+
+公司：微软
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/971)
 
 <br />
