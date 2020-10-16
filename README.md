@@ -46,9 +46,16 @@
 
 > 每天get一个知识点
 
-### Day157:输入一个数字，找到对应的字母
+### Day158:要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/971)**
+```js
+/*
+已知对象A = {name: 'sfd', getName: function(){console.log(this.name)}},
+现要求⽤不同⽅式对A进⾏改造实现A.name发⽣变化时⽴即执⾏A.getName
+*/
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/972)**
 
 <br /> 
 

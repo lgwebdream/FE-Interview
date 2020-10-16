@@ -2282,3 +2282,23 @@ const repeatFunc = repeat(alert, 4, 3000);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/971)
 
 <br />
+
+
+
+### Day158:要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
+
+```js
+/*
+已知对象A = {name: 'sfd', getName: function(){console.log(this.name)}},
+现要求⽤不同⽅式对A进⾏改造实现A.name发⽣变化时⽴即执⾏A.getName
+*/
+```
+
+公司：新东方
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/972)
+
+<br />
+
