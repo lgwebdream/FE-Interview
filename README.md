@@ -46,16 +46,9 @@
 
 > 每天get一个知识点
 
-### Day158:要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
+### Day159:如何把真实 dom 转变为虚拟 dom，代码实现一下
 
-```js
-/*
-已知对象A = {name: 'sfd', getName: function(){console.log(this.name)}},
-现要求⽤不同⽅式对A进⾏改造实现A.name发⽣变化时⽴即执⾏A.getName
-*/
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/972)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/973)**
 
 <br /> 
 

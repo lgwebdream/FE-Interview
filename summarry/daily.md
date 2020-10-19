@@ -2302,3 +2302,14 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 <br />
 
+
+### Day159:如何把真实 dom 转变为虚拟 dom，代码实现一下
+
+公司：高德
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/973)
+
+<br />
+
