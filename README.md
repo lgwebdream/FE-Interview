@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day164:说一下 koa-body 的原理
+### Day167:修改代码不造成死循环
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/978)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/981)**
 
 <br /> 
 

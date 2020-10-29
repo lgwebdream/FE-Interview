@@ -2363,3 +2363,32 @@ const repeatFunc = repeat(alert, 4, 3000);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/978)
 
 <br />
+
+### Day165:Node 如何和 MySQL 进行通信
+
+公司：阿里
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/979)
+
+<br />
+
+### Day166:项目中如何处理安全问题
+
+公司：阿里、喜马拉雅
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/980)
+
+<br />
+
+### Day167:修改代码不造成死循环
+
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/981)
+
+<br />
