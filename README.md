@@ -46,9 +46,31 @@
 
 > 每天get一个知识点
 
-### Day167:修改代码不造成死循环
+### Day168:写出页面渲染值，并解释为什么？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/981)**
+```js
+<template>
+  <div>{{a.b}}</div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      a: {}
+    }
+  },
+  created () {
+    this.a.b = 1
+  },
+  mounted () {
+    this.a.b = 2
+  }
+}
+</script>
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/982)**
 
 <br /> 
 

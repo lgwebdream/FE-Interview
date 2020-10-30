@@ -2386,9 +2386,46 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 ### Day167:修改代码不造成死循环
 
+```js
+while(1){
+  console.log(Math.random());
+}
+```
 
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/981)
+
+<br />
+
+### Day168:写出页面渲染值，并解释为什么？
+
+```js
+<template>
+  <div>{{a.b}}</div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      a: {}
+    }
+  },
+  created () {
+    this.a.b = 1
+  },
+  mounted () {
+    this.a.b = 2
+  }
+}
+</script>
+```
+
+公司：头条
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/982)
 
 <br />
