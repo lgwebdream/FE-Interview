@@ -46,31 +46,9 @@
 
 > 每天get一个知识点
 
-### Day168:写出页面渲染值，并解释为什么？
+### Day169:怎么给 Vue 定义全局方法
 
-```js
-<template>
-  <div>{{a.b}}</div>
-</template>
-
-<script>
-export default {
-  data () {
-    return {
-      a: {}
-    }
-  },
-  created () {
-    this.a.b = 1
-  },
-  mounted () {
-    this.a.b = 2
-  }
-}
-</script>
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/982)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/983)**
 
 <br /> 
 

@@ -2429,3 +2429,12 @@ export default {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/982)
 
 <br />
+
+
+### Day169:怎么给 Vue 定义全局方法
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/983)
+
+<br />
