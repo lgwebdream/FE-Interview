@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day169:怎么给 Vue 定义全局方法
+### Day170:请实现一个 JSON.parse
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/983)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/984)**
 
 <br /> 
 

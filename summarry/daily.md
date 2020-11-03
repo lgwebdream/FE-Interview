@@ -2420,7 +2420,7 @@ export default {
   }
 }
 </script>
-```
+``` 
 
 公司：头条
 
@@ -2436,5 +2436,13 @@ export default {
 分类：Vue
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/983)
+
+<br />
+
+### Day170:请实现一个 JSON.parse
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/984)
 
 <br />
