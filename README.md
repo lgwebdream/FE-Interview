@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day170:请实现一个 JSON.parse
+### Day171:请实现一个 JSON.stringfy
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/984)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/987)**
 
 <br /> 
 

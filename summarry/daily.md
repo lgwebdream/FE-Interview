@@ -2446,3 +2446,11 @@ export default {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/984)
 
 <br />
+
+### Day171:请实现一个 JSON.stringfy
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/987)
+
+<br />
