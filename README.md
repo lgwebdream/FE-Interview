@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day171:请实现一个 JSON.stringfy
+### Day172:用 JavaScript 实现一个标准的排序算法(快排、冒泡、选择排序)，对某个数字数组进行由低到高的排序。
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/987)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/988)**
 
 <br /> 
 
