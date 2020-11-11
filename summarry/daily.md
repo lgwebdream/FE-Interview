@@ -2470,3 +2470,32 @@ export default {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/989)
 
 <br />
+
+### Day174:versions 是一个项目的版本号列表，因多人维护，不规则，动手实现一个版本号处理函数
+
+```js
+var versions = ["1.45.0", "1.5", "6", "3.3.3.3.3.3.3"];
+// 要求从小到大排序，注意'1.45'比'1.5'大
+function sortVersion(versions) {
+  // TODO
+}
+// => ['1.5','1.45.0','3.3.3.3.3.3','6']
+```
+
+公司：头条
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/990)
+
+<br />
+
+### Day175:从输入 URL 到页面加载全过程
+
+公司：头条、边锋、菜鸟网络、爱范儿、心娱
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/991)
+
+<br />
