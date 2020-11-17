@@ -2519,3 +2519,23 @@ function sortVersion(versions) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/994)
 
 <br />
+
+### Day178:React 挂载的时候有 3 个组件，textComponent、composeComponent、domComponent，说一下它们的区别和关系，Dom 结构发生变化时怎么区分 data 的变化，怎么更新，更新怎么调度，如果更新的时候还有其他任务存在怎么处理
+
+公司：滴滴
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/995)
+
+<br />
+
+### Day179:Promise.allSettled 了解吗？动手实现一下 Promise.allSettled
+
+公司：快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/996)
+
+<br />
