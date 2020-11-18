@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day179:Promise.allSettled 了解吗？动手实现一下 Promise.allSettled
+### Day180:说一下平时项目是怎么优化的？优化之后是怎么度量的？首屏时间是怎么计算的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/996)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/997)**
 
 <br /> 
 

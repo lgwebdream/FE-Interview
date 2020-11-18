@@ -2539,3 +2539,14 @@ function sortVersion(versions) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/996)
 
 <br />
+
+### Day180:说一下平时项目是怎么优化的？优化之后是怎么度量的？首屏时间是怎么计算的？
+
+公司：快手
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/997)
+
+<br />
+
