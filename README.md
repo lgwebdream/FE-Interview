@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day180:说一下平时项目是怎么优化的？优化之后是怎么度量的？首屏时间是怎么计算的？
+### Day181:说一下组件库设计遵循的一些原则？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/997)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/998)**
 
 <br /> 
 
