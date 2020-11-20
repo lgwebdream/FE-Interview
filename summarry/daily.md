@@ -2560,4 +2560,14 @@ function sortVersion(versions) {
 
 <br />
 
+### Day182:怎么计算组件在视口内出现了几次？IntersectionObserver 怎么使用的？怎么知道一个 DOM 节点出现在视口内？
+
+公司：快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/999)
+
+<br />
+
 

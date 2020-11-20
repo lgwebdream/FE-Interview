@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day181:说一下组件库设计遵循的一些原则？
+### Day182:怎么计算组件在视口内出现了几次？IntersectionObserver 怎么使用的？怎么知道一个 DOM 节点出现在视口内？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/998)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/999)**
 
 <br /> 
 
