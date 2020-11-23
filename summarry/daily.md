@@ -2570,4 +2570,14 @@ function sortVersion(versions) {
 
 <br />
 
+### Day183：有 100 瓶水，其中有一瓶有毒，小白鼠只要尝一点带毒的水 3 天后就会死亡，至少要多少只小白鼠才能在 3 天内鉴别出哪瓶水有毒？
+
+公司：富途
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1000)
+
+<br />
+
 
