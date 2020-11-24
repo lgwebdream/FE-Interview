@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day183：有 100 瓶水，其中有一瓶有毒，小白鼠只要尝一点带毒的水 3 天后就会死亡，至少要多少只小白鼠才能在 3 天内鉴别出哪瓶水有毒？
+### Day184:写一个方法，把 16 进制颜色转成 10 进制。(#fff => rgb(255,255,255))
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1000)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1001)**
 
 <br /> 
 

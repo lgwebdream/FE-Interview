@@ -1,6 +1,6 @@
 # 每日一题汇总
 
-### Day1:请写出下面代码执行的的结果 
+### Day1:请写出下面代码执行的的结果
 
 ```js
 console.log(1);
@@ -38,6 +38,7 @@ setTimeout(() => {
   });
 });
 ```
+
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/37)
@@ -82,11 +83,10 @@ console.log(min < max);
 
 ```js
 var a = 1;
-(function a () {
-    a = 2;
-    console.log(a);
+(function a() {
+  a = 2;
+  console.log(a);
 })();
-
 ```
 
 分类：JavaScript
@@ -132,20 +132,20 @@ console.log(a);
 ### Day7:写出执行结果,并解释原因
 
 ```js
-var fullname = 'a';
+var fullname = "a";
 var obj = {
-   fullname: 'b',
-   prop: {
-      fullname: 'c',
-      getFullname: function() {
-         return this.fullname;
-      }
-   }
+  fullname: "b",
+  prop: {
+    fullname: "c",
+    getFullname: function () {
+      return this.fullname;
+    },
+  },
 };
- 
+
 console.log(obj.prop.getFullname()); // c
 var test = obj.prop.getFullname;
-console.log(test());  // a
+console.log(test()); // a
 ```
 
 分类：JavaScript
@@ -158,10 +158,10 @@ console.log(test());  // a
 
 ```js
 var company = {
-    address: 'beijing'
-}
+  address: "beijing",
+};
 var yideng = Object.create(company);
-delete yideng.address
+delete yideng.address;
 console.log(yideng.address);
 ```
 
@@ -174,8 +174,10 @@ console.log(yideng.address);
 ### Day9:写出执行结果,并解释原因
 
 ```js
-var foo = function bar(){ return 12; };
-console.log(typeof bar());  
+var foo = function bar() {
+  return 12;
+};
+console.log(typeof bar());
 ```
 
 分类：JavaScript
@@ -187,11 +189,11 @@ console.log(typeof bar());
 ### Day10:写出执行结果,并解释原因
 
 ```js
-var x=1;
-if(function f(){}){
-    x += typeof f;
+var x = 1;
+if (function f() {}) {
+  x += typeof f;
 }
-console.log(x)
+console.log(x);
 ```
 
 分类：JavaScript
@@ -203,9 +205,9 @@ console.log(x)
 ### Day11:写出执行结果,并解释原因
 
 ```js
-function f(){
-      return f;
- }
+function f() {
+  return f;
+}
 console.log(new f() instanceof f);
 ```
 
@@ -219,12 +221,12 @@ console.log(new f() instanceof f);
 
 ```js
 var foo = {
-        bar: function(){
-            return this.baz;
-        },
-         baz:1
-    }
-console.log(typeof (f=foo.bar)());
+  bar: function () {
+    return this.baz;
+  },
+  baz: 1,
+};
+console.log(typeof (f = foo.bar)());
 ```
 
 分类：JavaScript
@@ -233,7 +235,7 @@ console.log(typeof (f=foo.bar)());
 
 <br/>
 
-### Day13:关于AMD、CMD规范区别说法正确的是？（多选）
+### Day13:关于 AMD、CMD 规范区别说法正确的是？（多选）
 
 ```js
 关于AMD、CMD规范区别说法正确的是？（多选）
@@ -251,7 +253,7 @@ E.AMD性能好,因为只有用户需要的时候才执行;CMD用户体验好,因
 
 <br/>
 
-### Day14:关于SPA单页页面的理解正确的是?
+### Day14:关于 SPA 单页页面的理解正确的是?
 
 ```js
 关于SPA单页页面的理解正确的是?
@@ -269,7 +271,7 @@ E.SEO 难度较大：由于所有的内容都在一个页面中动态替换显�
 
 <br/>
 
-### Day15:下面对Vue.js中keep-alive的理解正确的是？（多选）
+### Day15:下面对 Vue.js 中 keep-alive 的理解正确的是？（多选）
 
 ```js
 下面对Vue.js中keep-alive的理解正确的是？（多选）
@@ -281,13 +283,13 @@ D.keep-alive 是 Vue 内置的一个组件，可以使被包含的组件保留�
 
 ```
 
-分类：Vue 
+分类：Vue
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/51)
 
 <br/>
 
-### Day16:关于Vue.js虚拟DOM的优缺点说法正确的是？（多选）
+### Day16:关于 Vue.js 虚拟 DOM 的优缺点说法正确的是？（多选）
 
 ```js
 关于Vue.js虚拟DOM的优缺点说法正确的是？（多选）
@@ -371,7 +373,7 @@ console.log(sayHi.bind(person, 5));
 ### Day21:写出执行结果,并解释原因
 
 ```js
-[typeof null, null instanceof Object]
+[typeof null, null instanceof Object];
 ```
 
 分类：JavaScript
@@ -384,7 +386,8 @@ console.log(sayHi.bind(person, 5));
 
 ```js
 function f() {}
-const a = f.prototype,b = Object.getPrototypeOf(f)
+const a = f.prototype,
+  b = Object.getPrototypeOf(f);
 console.log(a === b);
 ```
 
@@ -398,21 +401,21 @@ console.log(a === b);
 
 ```js
 function showCase(value) {
-    switch(value) {
-    case 'A':
-        console.log('Case A');
-        break;
-    case 'B':
-        console.log('Case B');
-        break;
+  switch (value) {
+    case "A":
+      console.log("Case A");
+      break;
+    case "B":
+      console.log("Case B");
+      break;
     case undefined:
-        console.log('undefined');
-        break;
+      console.log("undefined");
+      break;
     default:
-        console.log('Do not know!');
-    }
+      console.log("Do not know!");
+  }
 }
-showCase(new String('A'));
+showCase(new String("A"));
 ```
 
 分类：JavaScript
@@ -441,16 +444,16 @@ D. 1 NaN
 
 <br/>
 
-### Day25:请问变量a会被GC吗
+### Day25:请问变量 a 会被 GC 吗
 
 ```js
-function test(){
-    var a = 1;
-    return function(){
-        eval("");
-    }
+function test() {
+  var a = 1;
+  return function () {
+    eval("");
+  };
 }
-test();  
+test();
 ```
 
 分类：JavaScript
@@ -462,7 +465,7 @@ test();
 ### Day26:写出执行结果,并解释原因
 
 ```js
-const value  = 'Value is' + !!Number(['0']) ? 'yideng' : 'undefined';
+const value = "Value is" + !!Number(["0"]) ? "yideng" : "undefined";
 console.log(value);
 ```
 
@@ -475,9 +478,11 @@ console.log(value);
 ### Day27:写出执行结果,并解释原因
 
 ```js
-var arr = [0,1];
+var arr = [0, 1];
 arr[5] = 5;
-newArr = arr.filter(function(x) { return x === undefined;});
+newArr = arr.filter(function (x) {
+  return x === undefined;
+});
 console.log(newArr.length);
 ```
 
@@ -491,25 +496,25 @@ console.log(newArr.length);
 
 ```js
 async function async1() {
-    console.log('async1 start');
-    await async2();
-    console.log('async1 end');
+  console.log("async1 start");
+  await async2();
+  console.log("async1 end");
 }
 async function async2() {
-	console.log('async2');
+  console.log("async2");
 }
-console.log('script start');
-setTimeout(function() {
-    console.log('setTimeout');
-}, 0)
+console.log("script start");
+setTimeout(function () {
+  console.log("setTimeout");
+}, 0);
 async1();
-new Promise(function(resolve) {
-    console.log('promise1');
-    resolve();
-}).then(function() {
-    console.log('promise2');
+new Promise(function (resolve) {
+  console.log("promise1");
+  resolve();
+}).then(function () {
+  console.log("promise2");
 });
-console.log('script end');
+console.log("script end");
 ```
 
 分类：JavaScript
@@ -537,15 +542,15 @@ if(a == 1 && a== 2 && a== 3){
 
 ```js
 const obj = {
-    '2': 3,
-    '3': 4,
-    'length': 2,
-    'splice': Array.prototype.splice,
-    'push': Array.prototype.push
-}
-obj.push(1)
-obj.push(2)
-console.log(obj)
+  2: 3,
+  3: 4,
+  length: 2,
+  splice: Array.prototype.splice,
+  push: Array.prototype.push,
+};
+obj.push(1);
+obj.push(2);
+console.log(obj);
 ```
 
 分类：JavaScript
@@ -557,11 +562,11 @@ console.log(obj)
 ### Day31:写出执行结果,并解释原因
 
 ```js
-let a = {n: 1};
+let a = { n: 1 };
 let b = a;
-a.x = a = {n: 2};
-console.log(a.x) 	
-console.log(b.x)
+a.x = a = { n: 2 };
+console.log(a.x);
+console.log(b.x);
 ```
 
 分类：JavaScript
@@ -573,17 +578,23 @@ console.log(b.x)
 ### Day32:写出执行结果,并解释原因
 
 ```js
-var a1={}, b1='123', c1=123;  
-a1[b1]='b';
-a1[c1]='c';  
+var a1 = {},
+  b1 = "123",
+  c1 = 123;
+a1[b1] = "b";
+a1[c1] = "c";
 console.log(a1[b1]);
-var a2={}, b2=Symbol('123'), c2=Symbol('123');  
-a2[b2]='b';
-a2[c2]='c';  
+var a2 = {},
+  b2 = Symbol("123"),
+  c2 = Symbol("123");
+a2[b2] = "b";
+a2[c2] = "c";
 console.log(a2[b2]);
-var a3={}, b3={key:'123'}, c3={key:'456'};  
-a3[b3]='b';
-a3[c3]='c';  
+var a3 = {},
+  b3 = { key: "123" },
+  c3 = { key: "456" };
+a3[b3] = "b";
+a3[c3] = "c";
 console.log(a3[b3]);
 ```
 
@@ -597,19 +608,19 @@ console.log(a3[b3]);
 
 ```js
 function Foo() {
-    Foo.a = function() {
-        console.log(1)
-    }
-    this.a = function() {
-        console.log(2)
-    }
+  Foo.a = function () {
+    console.log(1);
+  };
+  this.a = function () {
+    console.log(2);
+  };
 }
-Foo.prototype.a = function() {
-    console.log(3)
-}
-Foo.a = function() {
-    console.log(4)
-}
+Foo.prototype.a = function () {
+  console.log(3);
+};
+Foo.a = function () {
+  console.log(4);
+};
 Foo.a();
 let obj = new Foo();
 obj.a();
@@ -626,10 +637,10 @@ Foo.a();
 
 ```js
 function user(obj) {
-  obj.name = "京程一灯"
-  obj = new Object()
-  obj.name = "精英班"
-} 
+  obj.name = "京程一灯";
+  obj = new Object();
+  obj.name = "精英班";
+}
 let person = new Object();
 user(person);
 console.log(person.name);
@@ -648,8 +659,8 @@ let x, y;
 try {
   throw new Error();
 } catch (x) {
-  x =1;
-  y=2;
+  x = 1;
+  y = 2;
   console.log(x);
 }
 console.log(x);
@@ -666,14 +677,24 @@ console.log(y);
 
 ```js
 function fn() {
-    getValue = function () { console.log(1); };
-    return this;
+  getValue = function () {
+    console.log(1);
+  };
+  return this;
 }
-fn.getValue = function () { console.log(2);};
-fn.prototype.getValue = function () {console.log(3);};
-var getValue = function () {console.log(4);};
-function getValue() {console.log(5);}
- 
+fn.getValue = function () {
+  console.log(2);
+};
+fn.prototype.getValue = function () {
+  console.log(3);
+};
+var getValue = function () {
+  console.log(4);
+};
+function getValue() {
+  console.log(5);
+}
+
 //请写出以下输出结果：
 getValue();
 fn().getValue();
@@ -693,16 +714,16 @@ new fn().getValue();
 ```js
 let length = 10;
 function fn() {
-	console.log(this.length);
+  console.log(this.length);
 }
 var obj = {
   length: 5,
-  method: function(fn) {
+  method: function (fn) {
     fn();
     arguments[0]();
-  }
+  },
 };
-obj.method(fn,1);
+obj.method(fn, 1);
 ```
 
 分类：JavaScript
@@ -714,18 +735,18 @@ obj.method(fn,1);
 ### Day38:写出执行结果,并解释原因
 
 ```js
-var a=10;
-var foo={
-  a:20,
-  bar:function(){
-      var a=30;
-      return this.a;
-    }
-}
+var a = 10;
+var foo = {
+  a: 20,
+  bar: function () {
+    var a = 30;
+    return this.a;
+  },
+};
 console.log(foo.bar());
-console.log((foo.bar)());
-console.log((foo.bar=foo.bar)());
-console.log((foo.bar,foo.bar)());
+console.log(foo.bar());
+console.log((foo.bar = foo.bar)());
+console.log((foo.bar, foo.bar)());
 ```
 
 分类：JavaScript
@@ -737,15 +758,15 @@ console.log((foo.bar,foo.bar)());
 ### Day39:写出执行结果,并解释原因
 
 ```js
-function getName(){
-  for(let i = 0;i<5;i++){
-    setTimeout(function(){
-      console.log(i)
-    },i*1000);
+function getName() {
+  for (let i = 0; i < 5; i++) {
+    setTimeout(function () {
+      console.log(i);
+    }, i * 1000);
   }
-  return
+  return;
   {
-    name:'京程一灯'
+    name: "京程一灯";
   }
 }
 console.log(getName());
@@ -760,7 +781,7 @@ console.log(getName());
 ### Day40:写出执行结果,并解释原因
 
 ```js
-const num = parseInt("2*4",10);
+const num = parseInt("2*4", 10);
 console.log(num);
 ```
 
@@ -796,7 +817,7 @@ D. {name:"京程一灯"},["name","age"]
 ```js
 let num = 10;
 const increaseNumber = () => num++;
-const increasePassedNumber = number => number++;
+const increasePassedNumber = (number) => number++;
 const num1 = increaseNumber();
 const num2 = increasePassedNumber(num1);
 console.log(num1);
@@ -814,7 +835,7 @@ console.log(num2);
 ```js
 const value = { number: 10 };
 const multiply = (x = { ...value }) => {
-  console.log(x.number *= 2);
+  console.log((x.number *= 2));
 };
 multiply();
 multiply();
@@ -844,12 +865,12 @@ multiply(value);
 
 ```js
 // index.js
-console.log('running index.js');
-import { sum } from './sum.js';
+console.log("running index.js");
+import { sum } from "./sum.js";
 console.log(sum(1, 2));
 
 // sum.js
-console.log('running sum.js');
+console.log("running sum.js");
 export const sum = (a, b) => a + b;
 ```
 
@@ -863,7 +884,7 @@ export const sum = (a, b) => a + b;
 
 ```js
 function addToList(item, list) {
- return list.push(item);
+  return list.push(item);
 }
 const result = addToList("company", ["yideng"]);
 console.log(result);
@@ -879,13 +900,13 @@ console.log(result);
 
 ```js
 var a = 0;
-if(true){
+if (true) {
   a = 10;
-  console.log(a,window.a);
-  function a(){};
-  console.log(a,window.a);
+  console.log(a, window.a);
+  function a() {}
+  console.log(a, window.a);
   a = 20;
-  console.log(a,window.a);
+  console.log(a, window.a);
 }
 console.log(a);
 ```
@@ -911,14 +932,14 @@ var obj = { x: 1, y: 2, z: 3 };
 
 <br/>
 
-### Day49:请你完成一个safeGet函数，可以安全的获取无限多层次的数据
+### Day49:请你完成一个 safeGet 函数，可以安全的获取无限多层次的数据
 
 ```js
 // 请你完成一个safeGet函数，可以安全的获取无限多层次的数据，一旦数据不存在不会报错，会返回 undefined，例如
-var data = { a: { b: { c: 'yideng' } } }
-safeGet(data, 'a.b.c') // => yideng
-safeGet(data, 'a.b.c.d') // => undefined
-safeGet(data, 'a.b.c.d.e.f.g') // => undefined
+var data = { a: { b: { c: "yideng" } } };
+safeGet(data, "a.b.c"); // => yideng
+safeGet(data, "a.b.c.d"); // => undefined
+safeGet(data, "a.b.c.d.e.f.g"); // => undefined
 ```
 
 分类：JavaScript、编程题
@@ -927,7 +948,7 @@ safeGet(data, 'a.b.c.d.e.f.g') // => undefined
 
 <br/>
 
-### Day50:写一个isPrime()函数
+### Day50:写一个 isPrime()函数
 
 ```js
 写一个isPrime()函数，当其为质数时返回true，否则返回false。
@@ -940,7 +961,7 @@ safeGet(data, 'a.b.c.d.e.f.g') // => undefined
 
 <br/>
 
-### Day52:请实现一个flattenDeep函数，把嵌套的数组扁平化~~
+### Day52:请实现一个 flattenDeep 函数，把嵌套的数组扁平化~~
 
 ```js
 flattenDeep([1, [2, [3, [4]], 5]]); //[1, 2, 3, 4, 5]
@@ -956,7 +977,7 @@ flattenDeep([1, [2, [3, [4]], 5]]); //[1, 2, 3, 4, 5]
 ### Day53:请实现一个 uniq 函数，实现数组去重~~
 
 ```js
-uniq([1, 2, 3, 5, 3, 2]);//[1, 2, 3, 5]
+uniq([1, 2, 3, 5, 3, 2]); //[1, 2, 3, 5]
 // 请实现一个 uniq 函数，实现数组去重
 ```
 
@@ -966,7 +987,7 @@ uniq([1, 2, 3, 5, 3, 2]);//[1, 2, 3, 5]
 
 <br/>
 
-### Day54:new操作符都做了什么，并手动实现一下
+### Day54:new 操作符都做了什么，并手动实现一下
 
 分类：JavaScript、编程题
 
@@ -987,7 +1008,7 @@ console.log((5).add(3).minus(2)); // 6
 
 <br/>
 
-### Day56:介绍下Set、Map、WeakSet和WeakMap的区别
+### Day56:介绍下 Set、Map、WeakSet 和 WeakMap 的区别
 
 分类：JavaScript
 
@@ -1003,7 +1024,7 @@ console.log((5).add(3).minus(2)); // 6
 
 <br/>
 
-### Day58:Object.seal和Object.freeze方法之间有什么区别
+### Day58:Object.seal 和 Object.freeze 方法之间有什么区别
 
 分类：JavaScript
 
@@ -1011,32 +1032,30 @@ console.log((5).add(3).minus(2)); // 6
 
 <br/>
 
-### Day59:完成plus函数，通过全部的测试用例
+### Day59:完成 plus 函数，通过全部的测试用例
 
 ```js
-'use strict';
-function plus(n){
-  
-}
-module.exports = plus
+"use strict";
+function plus(n) {}
+module.exports = plus;
 // 测试用例如下
-'use strict';
-var assert = require('assert');
-var plus = require('../lib/assign-4');
-describe('测试用例',function(){
-  it('plus(0) === 0',function(){
-    assert.equal(0,plus(0).toString())
-  })
-  it('plus(1)(1)(2)(3)(5) === 12',function(){
-    assert.equal(12,plus(1)(1)(2)(3)(5).toString())
-  })
-  it('plus(1)(4)(2)(3) === 10',function(){
-    assert.equal(10,plus(1)(4)(2)(3).toString())
-  })
-  it('plus(1,1)(2,2)(3)(4) === 13',function(){
-   	assert.equal(13,plus(1,1)(2,2)(3)(4).toString())
-  })
-})
+("use strict");
+var assert = require("assert");
+var plus = require("../lib/assign-4");
+describe("测试用例", function () {
+  it("plus(0) === 0", function () {
+    assert.equal(0, plus(0).toString());
+  });
+  it("plus(1)(1)(2)(3)(5) === 12", function () {
+    assert.equal(12, plus(1)(1)(2)(3)(5).toString());
+  });
+  it("plus(1)(4)(2)(3) === 10", function () {
+    assert.equal(10, plus(1)(4)(2)(3).toString());
+  });
+  it("plus(1,1)(2,2)(3)(4) === 13", function () {
+    assert.equal(13, plus(1, 1)(2, 2)(3)(4).toString());
+  });
+});
 ```
 
 分类：JavaScript
@@ -1048,9 +1067,10 @@ describe('测试用例',function(){
 ### Day60:解释下这段代码的意思以及用到的技术点
 
 ```js
-[].forEach.call($$("*"),function(a){  
-  a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)  
-})  
+[].forEach.call($$("*"), function (a) {
+  a.style.outline =
+    "1px solid #" + (~~(Math.random() * (1 << 24))).toString(16);
+});
 ```
 
 分类：JavaScript
@@ -1086,11 +1106,11 @@ console.log(yideng_a === yideng_b);
 
 <br/>
 
-### Day63:实现一个isNegtiveZero函数，只检查+0和-0，-0则返回true,+0返回false
+### Day63:实现一个 isNegtiveZero 函数，只检查+0 和-0，-0 则返回 true,+0 返回 false
 
 ```js
 // 实现一个isNegtiveZero函数，只检查+0和-0，-0则返回true,+0返回false
-function isNegtiveZero(num){
+function isNegtiveZero(num) {
   // 代码实现
 }
 ```
@@ -1123,16 +1143,16 @@ export default url;
 
 ```js
 class YiDeng {
-  static str = '京程一灯';
-	sayStr = ()=>{
-    throw new Error('Need to implement');
-  }
+  static str = "京程一灯";
+  sayStr = () => {
+    throw new Error("Need to implement");
+  };
 }
-class Student extends YiDeng(){
-  constructor(){
+class Student extends YiDeng() {
+  constructor() {
     super();
   }
-  sayStr(){
+  sayStr() {
     console.log(Student.str);
   }
 }
@@ -1189,8 +1209,9 @@ laoyuan.sayStr();
 ### Day68:写出执行结果,并解释原因
 
 ```js
-function yideng(){}
-const a = {}, b = Object.prototype;
+function yideng() {}
+const a = {},
+  b = Object.prototype;
 console.log(a.prototype === b);
 console.log(Object.getPrototypeOf(a) === b);
 console.log(yideng.prototype === Object.getPrototypeOf(yideng));
@@ -1205,8 +1226,8 @@ console.log(yideng.prototype === Object.getPrototypeOf(yideng));
 ### Day69:写出执行结果,并解释原因
 
 ```js
-const lowerCaseOnly =  /^[a-z]+$/;
-console.log(lowerCaseOnly.test('yideng'));
+const lowerCaseOnly = /^[a-z]+$/;
+console.log(lowerCaseOnly.test("yideng"));
 console.log(lowerCaseOnly.test(null));
 console.log(lowerCaseOnly.test());
 ```
@@ -1224,14 +1245,14 @@ function captureOne(re, str) {
   var match = re.exec(str);
   return match && match[1];
 }
-var numRe  = /num=(\d+)/ig,
-    wordRe = /yideng=(\w+)/i,
-    a1 = captureOne(numRe,  "num=1"),
-    a2 = captureOne(wordRe, "yideng=1"),
-    a3 = captureOne(numRe,  "NUM=2"),
-    a4 = captureOne(wordRe,  "YIDENG=2"),
-		a5 = captureOne(numRe,  "Num=3"),
-    a6 = captureOne(wordRe,  "YiDeng=3");
+var numRe = /num=(\d+)/gi,
+  wordRe = /yideng=(\w+)/i,
+  a1 = captureOne(numRe, "num=1"),
+  a2 = captureOne(wordRe, "yideng=1"),
+  a3 = captureOne(numRe, "NUM=2"),
+  a4 = captureOne(wordRe, "YIDENG=2"),
+  a5 = captureOne(numRe, "Num=3"),
+  a6 = captureOne(wordRe, "YiDeng=3");
 console.log(a1 === a2);
 console.log(a3 === a4);
 console.log(a5 === a6);
@@ -1243,7 +1264,7 @@ console.log(a5 === a6);
 
 <br/>
 
-### Day71:[手写代码]实现Promise.all方法
+### Day71:[手写代码]实现 Promise.all 方法
 
 分类：JavaScript、编程题
 
@@ -1287,17 +1308,22 @@ console.log(a5 === a6);
 ### Day73:写出执行结果,并解释原因
 
 ```js
-function yideng(n,o){
-    console.log(o); // ？
-    return {
-        yideng:function(m){
-            return yideng(m,n);
-        }
-    }
+function yideng(n, o) {
+  console.log(o); // ？
+  return {
+    yideng: function (m) {
+      return yideng(m, n);
+    },
+  };
 }
-const a=yideng(0);a.yideng(1);a.yideng(2);a.yideng(3);
-const b=yideng(0).yideng(1).yideng(2).yideng(3);
-const c = yideng(0).yideng(1);c.yideng(2);c.yideng(3);
+const a = yideng(0);
+a.yideng(1);
+a.yideng(2);
+a.yideng(3);
+const b = yideng(0).yideng(1).yideng(2).yideng(3);
+const c = yideng(0).yideng(1);
+c.yideng(2);
+c.yideng(3);
 ```
 
 分类：JavaScript
@@ -1309,9 +1335,9 @@ const c = yideng(0).yideng(1);c.yideng(2);c.yideng(3);
 ### Day74:写出执行结果,并解释原因
 
 ```js
-var arr1 = "ab".split('');
-var arr2 = arr1.reverse(); 
-var arr3 = "abc".split('');
+var arr1 = "ab".split("");
+var arr2 = arr1.reverse();
+var arr3 = "abc".split("");
 arr2.push(arr3);
 console.log(arr1.length);
 console.log(arr1.slice(-1));
@@ -1328,14 +1354,14 @@ console.log(arr2.slice(-1));
 ### Day75:写出执行结果,并解释原因
 
 ```js
-var F = function(){}
-Object.prototype.a = function(){
-console.log('yideng')
-}
-Function.prototype.b = function(){
-console.log('xuetang')
-}
-var f = new F()
+var F = function () {};
+Object.prototype.a = function () {
+  console.log("yideng");
+};
+Function.prototype.b = function () {
+  console.log("xuetang");
+};
+var f = new F();
 F.a();
 F.b();
 f.a();
@@ -1351,11 +1377,11 @@ f.b();
 ### Day76:写出执行结果,并解释原因
 
 ```js
-const a = [1,2,3],
-    b = [1,2,3],
-    c = [1,2,4],
-		d = "2",
-		e = "11";
+const a = [1, 2, 3],
+  b = [1, 2, 3],
+  c = [1, 2, 4],
+  d = "2",
+  e = "11";
 console.log([a == b, a === b, a > c, a < c, d > e]);
 ```
 
@@ -1365,12 +1391,11 @@ console.log([a == b, a === b, a > c, a < c, d > e]);
 
 <br/>
 
-
 ### Day77:补充代码，使代码可以正确执行
 
 ```js
-const str = '1234567890';
-function formatNumber(str){
+const str = "1234567890";
+function formatNumber(str) {
   // your code
 }
 console.log(formatNumber(str)); //1,234,567,890
@@ -1383,13 +1408,13 @@ console.log(formatNumber(str)); //1,234,567,890
 
 <br/>
 
-### Day78:Script放在底部还会影响dom的解析和渲染吗？Script内部的代码执行会等待css加载完吗？css加载会影响DOMContentLoaded么？
+### Day78:Script 放在底部还会影响 dom 的解析和渲染吗？Script 内部的代码执行会等待 css 加载完吗？css 加载会影响 DOMContentLoaded 么？
 
 ```html
 <!ODCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>京程一灯，每日一题</title>
   </head>
   <body>
@@ -1398,10 +1423,10 @@ console.log(formatNumber(str)); //1,234,567,890
 			2.Script内部的代码执行会等待css加载完吗？
 			3.css加载会影响DOMContentLoaded么？
 		-->
-    <link href="https://cdn/css/bootstrap.css" ref="stylesheet">
+    <link href="https://cdn/css/bootstrap.css" ref="stylesheet" />
     <h1>京程一灯</h1>
     <script>
-    	console.log("DOMContentLoaded");
+      console.log("DOMContentLoaded");
     </script>
   </body>
 </html>
@@ -1413,7 +1438,7 @@ console.log(formatNumber(str)); //1,234,567,890
 
 <br/>
 
-### Day79:写出下面代码null和0进行比较的代码执行结果，并解释原因
+### Day79:写出下面代码 null 和 0 进行比较的代码执行结果，并解释原因
 
 ```js
 console.log(null == 0);
@@ -1427,11 +1452,11 @@ console.log(null < 0);
 
 <br/>
 
-### Day80:关于数组sort，下面代码的正确打印结果是什么，并解释原因
+### Day80:关于数组 sort，下面代码的正确打印结果是什么，并解释原因
 
 ```js
-const arr1 = ['a', 'b', 'c'];
-const arr2 = ['b', 'c', 'a'];
+const arr1 = ["a", "b", "c"];
+const arr2 = ["b", "c", "a"];
 console.log(
   arr1.sort() === arr1,
   arr2.sort() == arr2,
@@ -1449,14 +1474,14 @@ console.log(
 
 ```js
 // 京程一灯，每日一题
-const debounce = (fn,delay) => {
+const debounce = (fn, delay) => {
   // 介绍防抖函数原理，并实现
   // your code
-}
-const throttle = (fn,delay = 500) => {
+};
+const throttle = (fn, delay = 500) => {
   // 介绍节流函数原理，并实现
-   // your code
-}
+  // your code
+};
 ```
 
 分类：JavaScript
@@ -1464,7 +1489,6 @@ const throttle = (fn,delay = 500) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview/issues/129)
 
 <br/>
-
 
 ### Day82:关于隐式转换，下面代码的执行结果是什么？并解释原因
 
@@ -1487,7 +1511,7 @@ console.log(a == b);
 
 ```js
 var obj = {};
-var x = +obj.yideng?.name ?? '京程一灯';
+var x = +obj.yideng?.name ?? "京程一灯";
 console.log(x);
 ```
 
@@ -1497,13 +1521,13 @@ console.log(x);
 
 <br/>
 
-### Day84:对于length下面代码的输出结果是什么？并解释原因
+### Day84:对于 length 下面代码的输出结果是什么？并解释原因
 
 ```js
- function foo(){
-   console.log(length);
- }
-function bar(){
+function foo() {
+  console.log(length);
+}
+function bar() {
   var length = "京程一灯";
   foo();
 }
@@ -1535,13 +1559,13 @@ console.log(ydArray);
 
 ```js
 const arrLike = {
-  length:4,
-  0:0,
-  1:1,
-  '-1':2,
-  3:3,
-  4:4,
-}
+  length: 4,
+  0: 0,
+  1: 1,
+  "-1": 2,
+  3: 3,
+  4: 4,
+};
 console.log(Array.from(arrLike));
 console.log(Array.prototype.slice.call(arrLike));
 ```
@@ -1552,7 +1576,7 @@ console.log(Array.prototype.slice.call(arrLike));
 
 <br/>
 
-### Day87:写出下面代码1，2，3的大小判断结果
+### Day87:写出下面代码 1，2，3 的大小判断结果
 
 ```js
 console.log(1 < 2 < 3);
@@ -1593,7 +1617,7 @@ let ydWithXGetter2 = {
 
 <br/>
 
-### Day89:请问React调用机制一共对任务设置了几种优先级别？每种优先级都代表的具体含义是什么？在你开发过程中如果遇到影响主UI渲染卡顿的任务，你又是如何利用这些优先级的？
+### Day89:请问 React 调用机制一共对任务设置了几种优先级别？每种优先级都代表的具体含义是什么？在你开发过程中如果遇到影响主 UI 渲染卡顿的任务，你又是如何利用这些优先级的？
 
 分类：React
 
@@ -1601,7 +1625,7 @@ let ydWithXGetter2 = {
 
 <br/>
 
-### Day90:Vue父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。
+### Day90:Vue 父组件可以监听到子组件的生命周期吗？如果能请写出你的实现方法。
 
 分类：Vue
 
@@ -1609,12 +1633,11 @@ let ydWithXGetter2 = {
 
 <br/>
 
-
-### Day91:Vue 为什么要用 vm.$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？
+### Day91:Vue 为什么要用 vm.\$set() 解决对象新增属性不能响应的问题 ？你能说说如下代码的实现原理么？
 
 ```js
-Vue.set (object, propertyName, value) 
-vm.$set (object, propertyName, value)
+Vue.set(object, propertyName, value);
+vm.$set(object, propertyName, value);
 ```
 
 分类：Vue
@@ -1623,7 +1646,7 @@ vm.$set (object, propertyName, value)
 
 <br/>
 
-### Day92:既然 Vue 通过数据劫持可以精准探测数据在具体dom上的变化,为什么还需要虚拟 DOM diff 呢?
+### Day92:既然 Vue 通过数据劫持可以精准探测数据在具体 dom 上的变化,为什么还需要虚拟 DOM diff 呢?
 
 分类：Vue
 
@@ -1631,7 +1654,7 @@ vm.$set (object, propertyName, value)
 
 <br/>
 
-### Day93:Vue组件中写name选项有除了搭配keep-alive还有其他作用么？你能谈谈你对keep-alive了解么？（平时使用和源码实现方面）
+### Day93:Vue 组件中写 name 选项有除了搭配 keep-alive 还有其他作用么？你能谈谈你对 keep-alive 了解么？（平时使用和源码实现方面）
 
 分类：Vue
 
@@ -1639,7 +1662,7 @@ vm.$set (object, propertyName, value)
 
 <br/>
 
-### Day94:说一下React Hooks在平时开发中需要注意的问题和原因？
+### Day94:说一下 React Hooks 在平时开发中需要注意的问题和原因？
 
 分类：React
 
@@ -1647,7 +1670,7 @@ vm.$set (object, propertyName, value)
 
 <br />
 
-### Day95:Promise.all中任何一个Promise出现错误的时候都会执行reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？
+### Day95:Promise.all 中任何一个 Promise 出现错误的时候都会执行 reject，导致其它正常返回的数据也无法使用。你有什么解决办法么？
 
 分类：JavaScript
 
@@ -1655,7 +1678,7 @@ vm.$set (object, propertyName, value)
 
 <br />
 
-### Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中EventBus非常经典，你能手写实现下EventBus么？
+### Day96:请能尽可能多的说出 Vue 组件间通信方式？在组件的通信中 EventBus 非常经典，你能手写实现下 EventBus 么？
 
 分类：Vue
 
@@ -1663,7 +1686,7 @@ vm.$set (object, propertyName, value)
 
 <br />
 
-### Day97:请讲一下react-redux的实现原理?
+### Day97:请讲一下 react-redux 的实现原理?
 
 分类：React
 
@@ -1678,7 +1701,7 @@ Object.prototype.yideng = "京程一灯";
 var a = 123;
 a.b = 456;
 console.log(a.yideng);
-console.log(a.b)
+console.log(a.b);
 ```
 
 分类：React
@@ -1687,7 +1710,7 @@ console.log(a.b)
 
 <br />
 
-### Day99:React中setState后发生了什么？setState为什么默认是异步？setState什么时候是同步？
+### Day99:React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？
 
 分类：React
 
@@ -1695,7 +1718,7 @@ console.log(a.b)
 
 <br />
 
-### Day100:哪些方法会触发react重新渲染？重新渲染render会做些什么？
+### Day100:哪些方法会触发 react 重新渲染？重新渲染 render 会做些什么？
 
 分类：React
 
@@ -1807,7 +1830,7 @@ console.log(a.b)
 
 <br />
 
-### Day114:说一下Webpack 热更新的原理
+### Day114:说一下 Webpack 热更新的原理
 
 分类：工程化
 
@@ -1831,7 +1854,7 @@ console.log(a.b)
 
 <br />
 
-### Day117:React SSR实现过程？原理是什么？有什么注意事项？
+### Day117:React SSR 实现过程？原理是什么？有什么注意事项？
 
 分类：React
 
@@ -1953,7 +1976,6 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
-
 ### Day128:说一下 React.Component 和 React.PureComponent 的区别
 
 公司：高德、有赞、酷家乐
@@ -2010,7 +2032,6 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
-
 ### Day134:Typescript 里有哪些 JavaScript 没有的类型？
 
 公司：滴滴
@@ -2021,7 +2042,7 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
-### Day135:说一下单元测试、E2E测试？它们有什么区别？
+### Day135:说一下单元测试、E2E 测试？它们有什么区别？
 
 公司：头条
 
@@ -2069,14 +2090,13 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 
 <br />
 
-### Day140:Fiber算法原理，相比之前的stack算法哪些方面做了优化？
+### Day140:Fiber 算法原理，相比之前的 stack 算法哪些方面做了优化？
 
 分类：React
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/954)
 
 <br />
-
 
 ### Day141:请描述下 JavaScript 中 Scope、Closure、Prototype 概念，并说明 JavaScript 封装、继承实现原理。
 
@@ -2115,7 +2135,6 @@ mergePromise([ajax1, ajax2, ajax3]).then((data) => {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/958)
 
 <br />
-
 
 ### Day145:介绍下 pm2，pm2 依据什么重启服务
 
@@ -2167,9 +2186,6 @@ new Promise(function (resolve, reject) {
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/961)
 
-
-
-
 ### Day148:请实现一个 cacheRequest 方法，保证发出多次同一个 ajax 请求时都能拿到数据，而实际上只发出一次请求
 
 公司：快手
@@ -2179,7 +2195,6 @@ new Promise(function (resolve, reject) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/962)
 
 <br />
-
 
 ### Day149:一个人每次只能走一层楼梯或者两层楼梯，问走到第 80 层楼梯一共有多少种方法
 
@@ -2200,7 +2215,6 @@ new Promise(function (resolve, reject) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/964)
 
 <br />
-
 
 ### Day151:for..of 和 for...in 是否可以直接遍历对象？为什么？如果不可以有什么解决方案？
 
@@ -2283,8 +2297,6 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 <br />
 
-
-
 ### Day158:要求⽤不同⽅式对 A 进⾏改造实现 A.name 发⽣变化时⽴即执⾏ A.getName
 
 ```js
@@ -2301,7 +2313,6 @@ const repeatFunc = repeat(alert, 4, 3000);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/972)
 
 <br />
-
 
 ### Day159:如何把真实 dom 转变为虚拟 dom，代码实现一下
 
@@ -2323,7 +2334,6 @@ const repeatFunc = repeat(alert, 4, 3000);
 
 <br />
 
-
 ### Day161:说一下 koa2 和 express 区别
 
 公司：菜鸟网络、海风教育
@@ -2333,7 +2343,6 @@ const repeatFunc = repeat(alert, 4, 3000);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/975)
 
 <br />
-
 
 ### Day162:说一下 RN、Weex、Flutter 的优缺点
 
@@ -2352,7 +2361,6 @@ const repeatFunc = repeat(alert, 4, 3000);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/977)
 
 <br />
-
 
 ### Day164:说一下 koa-body 的原理
 
@@ -2387,7 +2395,7 @@ const repeatFunc = repeat(alert, 4, 3000);
 ### Day167:修改代码不造成死循环
 
 ```js
-while(1){
+while (1) {
   console.log(Math.random());
 }
 ```
@@ -2420,7 +2428,7 @@ export default {
   }
 }
 </script>
-``` 
+```
 
 公司：头条
 
@@ -2429,7 +2437,6 @@ export default {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/982)
 
 <br />
-
 
 ### Day169:怎么给 Vue 定义全局方法
 
@@ -2580,4 +2587,12 @@ function sortVersion(versions) {
 
 <br />
 
+### Day184:写一个方法，把 16 进制颜色转成 10 进制。(#fff => rgb(255,255,255))
 
+公司：快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1001)
+
+<br />
