@@ -46,9 +46,19 @@
 
 > 每天get一个知识点
 
-### Day184:写一个方法，把 16 进制颜色转成 10 进制。(#fff => rgb(255,255,255))
+### Day185:按要求完成代码
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1001)**
+```js
+function lottery(whiteList, participant) {
+  // your code
+}
+// whiteList:类型字符串数组,意义是表示从其他系统中计算出来的活跃用户，如果这批用户参与抽奖，则必定让他中奖。长度不超过1万
+// participant:类型字符串数组,意义是表示此次活动中真正参与抽奖的用户，长度约是10万。
+
+// 函数希望从participant返回 2 万个用户，表示中奖用户，优先选取whiteList上的用户，若不在whiteList上，对participant 剩余的随机 选取即可。
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1002)**
 
 <br /> 
 
