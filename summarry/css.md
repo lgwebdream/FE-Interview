@@ -13,7 +13,7 @@
 - [说一下 Css 预处理器，Less 带来的好处？](#说一下-css-预处理器less-带来的好处)
 - [Css 选择器都有什么，权重是怎么计算的](#css-选择器都有什么权重是怎么计算的)
 - [布局都有什么方式，float 和 position 有什么区别](#布局都有什么方式float-和-position-有什么区别)
-- [nth-child和nth-type-of 有什么区别](#nth-child和nth-type-of-有什么区别)
+- [nth-child和nth-of-type 有什么区别](#nth-child和nth-type-of-有什么区别)
 - [&lt;img&gt;是什么元素](#img是什么元素)
 - [flex 布局，如何实现把八个元素分两行摆放](#flex-布局如何实现把八个元素分两行摆放)
 - [Css 方式实现一个不知道宽高的 div 居中都有哪几种方法](#css-方式实现一个不知道宽高的-div-居中都有哪几种方法)
@@ -183,7 +183,7 @@
 
 <br/>
 
-### `nth-child`和`nth-type-of` 有什么区别
+### `nth-child`和`nth-of-type` 有什么区别
 
 公司：网易
 

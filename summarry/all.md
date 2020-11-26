@@ -141,7 +141,7 @@
 - [Import 和 CommonJS 在 webpack 打包过程中有什么不同](#import-和-commonjs-在-webpack-打包过程中有什么不同)
 - [说一下 base64 的编码方式](#说一下-base64-的编码方式)
 - [说一下单向数据流有什么好处](#说一下单向数据流有什么好处)
-- [nth-child和nth-type-of 有什么区别](#nth-child和nth-type-of-有什么区别)
+- [nth-child和nth-of-type 有什么区别](#nth-child和nth-type-of-有什么区别)
 - [&lt;img&gt;是什么元素](#img是什么元素)
 - [flex 布局，如何实现把八个元素分两行摆放](#flex-布局如何实现把八个元素分两行摆放)
 - [改变 this 指向的方式都有哪些？](#改变-this-指向的方式都有哪些)
@@ -2322,7 +2322,7 @@ function rightView(root){
 
 <br/>
 
-### `nth-child`和`nth-type-of` 有什么区别
+### `nth-child`和`nth-of-type` 有什么区别
 
 公司：网易
 
