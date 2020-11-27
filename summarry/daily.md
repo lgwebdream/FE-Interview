@@ -2597,7 +2597,6 @@ function sortVersion(versions) {
 
 <br />
 
-
 ### Day185:按要求完成代码
 
 ```js
@@ -2625,5 +2624,15 @@ function lottery(whiteList, participant) {
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1003)
+
+<br />
+
+### Day187:浏览器为什么要阻止跨域请求？如何解决跨域？每次跨域请求都需要到达服务端吗？
+
+公司：快手
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1004)
 
 <br />

@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day186:如何获取 html 元素实际的样式值？
+### Day187:浏览器为什么要阻止跨域请求？如何解决跨域？每次跨域请求都需要到达服务端吗？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1003)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1004)**
 
 <br /> 
 
