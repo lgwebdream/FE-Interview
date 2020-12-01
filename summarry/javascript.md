@@ -3161,7 +3161,7 @@ var yideng = {
 function test() {
   console.log("out");
 }
-(function () {
+(function () { 
   if (false) {
     function test() {
       console.log("in");

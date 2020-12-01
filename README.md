@@ -46,9 +46,23 @@
 
 > 每天 get 一个知识点
 
-### Day188:DOM 树中，如何判断节点 A 是否包含于节点 B?
+### Day189 写出代码正确执行结果，并解释原因
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1005)**
+```js
+function test() {
+  console.log("out");
+}
+(function () {
+  if (false) {
+    function test() {
+      console.log("in");
+    }
+  }
+  test();
+})();
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1006)**
 
 <br />
 
