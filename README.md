@@ -1,4 +1,4 @@
-<h1 align="center">前端面试星球</h1>
+<h1 align="center">前端面试</h1>
 
 <div align="center">
    <a href="https://github.com/lgwebdream/FE-Interview/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/lgwebdream/FE-Interview?color=success"></a>
@@ -42,22 +42,22 @@
 
 <br />
 
-## ☕ 每日一题
+## ☕ 前端面试每日一题
 
-> 每天get一个知识点
+> 每天 get 一个知识点
 
 ### Day188:DOM 树中，如何判断节点 A 是否包含于节点 B?
 
 **[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1005)**
 
-<br /> 
+<br />
 
-## ⏱️ 资源更新
+## ⏱️ 前端面试资源更新
 
 - **[Webpack5 新特性尝鲜实战案例](https://github.com/lgwebdream/FE-Interview/tree/master/demos/yd-webpack-demo)**
 - **[Vue v-model 是如何实现的，语法糖实际是什么](https://github.com/lgwebdream/FE-Interview/issues/914)**
 - **[React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？](https://github.com/lgwebdream/FE-Interview/issues/912)**
-- **[多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？](https://github.com/lgwebdream/FE-Interview/issues/916)** 
+- **[多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？](https://github.com/lgwebdream/FE-Interview/issues/916)**
 - **[对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？](https://github.com/lgwebdream/FE-Interview/issues/920)**
 - **[说一下 vue-router 的原理](https://github.com/lgwebdream/FE-Interview/issues/262)**
 - **[网站 SEO 怎么处理](https://github.com/lgwebdream/FE-Interview/issues/439)**
@@ -73,16 +73,14 @@
 - **[Webpack 热更新的原理](https://github.com/lgwebdream/FE-Interview/issues/616)**
 - **[说一下单点登录实现原理](https://github.com/lgwebdream/FE-Interview/issues/931)**
 
-
-
-## 📚 面试题汇总入口
+## 📚 前端面试题汇总
 
 - **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
 - **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
 
 <br />
 
-## 🏠 前端面试 Family    
+## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
