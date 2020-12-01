@@ -2636,3 +2636,13 @@ function lottery(whiteList, participant) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1004)
 
 <br />
+
+### Day188:DOM 树中，如何判断节点 A 是否包含于节点 B?
+
+公司：京东
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1005)
+
+<br />

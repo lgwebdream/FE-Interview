@@ -46,9 +46,9 @@
 
 > 每天get一个知识点
 
-### Day187:浏览器为什么要阻止跨域请求？如何解决跨域？每次跨域请求都需要到达服务端吗？
+### Day188:DOM 树中，如何判断节点 A 是否包含于节点 B?
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1004)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1005)**
 
 <br /> 
 
@@ -82,7 +82,7 @@
 
 <br />
 
-## 🏠 前端面试星球 Family    
+## 🏠 前端面试 Family    
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
 
