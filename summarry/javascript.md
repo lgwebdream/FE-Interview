@@ -3273,7 +3273,7 @@ if (yideng) {
 
 ```js
 function yideng() {
-  return;
+  return
   {
     a: 1;
   }

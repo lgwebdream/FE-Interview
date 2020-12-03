@@ -46,23 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day189 写出代码正确执行结果，并解释原因
+### Day190:怎么获取相交链表的第一个相交点？
 
-```js
-function test() {
-  console.log("out");
-}
-(function () {
-  if (false) {
-    function test() {
-      console.log("in");
-    }
-  }
-  test();
-})();
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1006)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1007)**
 
 <br />
 
