@@ -2680,3 +2680,13 @@ function test() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1007)
 
 <br />
+
+### Day191:移动端适配方案具体实现以及对比
+
+公司：头条
+
+分类：css
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1008)
+
+<br />

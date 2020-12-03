@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day190:怎么获取相交链表的第一个相交点？
+### Day191:移动端适配方案具体实现以及对比
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1007)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1008)**
 
 <br />
 
