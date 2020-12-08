@@ -2690,3 +2690,41 @@ function test() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1008)
 
 <br />
+
+### Day192:将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。本题中，一个高度平衡二叉树是指一个二叉树每个节点的左右两个子树的高度差的绝对值不超过 1。
+
+公司：头条
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1009)
+
+<br />
+
+### Day193：完善下面函数，实现图片的加载
+
+```js
+function createImg(url) {}
+createImg(url).then((value) => {
+  document.body.appendChild(value);
+});
+```
+
+公司：头条
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1010)
+
+<br />
+
+### Day194：`var arr =[['A','B'],['a','b'],[1,2]]` 求二维数组的全排列组合 结果：Aa1,Aa2,Ab1,Ab2,Ba1,Ba2,Bb1,Bb2
+
+公司：美团
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1011)
+
+<br />
+
