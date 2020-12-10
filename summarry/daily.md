@@ -2771,3 +2771,13 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1012)
 
 <br />
+
+### Day196:有看过 V8 源码吗？ 说下 `v8::Isolate`？
+
+公司：爱奇艺
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1013)
+
+<br />
