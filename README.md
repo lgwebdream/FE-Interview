@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day196:有看过 V8 源码吗？ 说下 `v8::Isolate`？
+### Day197:对 git flow 了解吗，应该如何使用
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1013)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1014)**
 
 <br /> 
 
