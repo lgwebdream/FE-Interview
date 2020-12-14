@@ -1239,7 +1239,7 @@ new Promise((resolve, reject) => {
   setTimeout(function () {
     console.log(int);
     int = 8;
-  });
+  }); 
   return false;
 });
 console.log(int);

@@ -2791,3 +2791,11 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1014)
 
 <br />
+
+### Day198:说一下 IoC 是啥，应用场景是啥？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1015)
+
+<br />
