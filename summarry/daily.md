@@ -2799,3 +2799,11 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1015)
 
 <br />
+
+### Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1016)
+
+<br />

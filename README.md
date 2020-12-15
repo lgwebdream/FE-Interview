@@ -46,11 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day198:说一下 IoC 是啥，应用场景是啥？
+### Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1015)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1016)**
 
-<br /> 
+<br />   
 
 ## ⏱️ 前端面试资源更新
 
