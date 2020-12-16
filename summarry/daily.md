@@ -2807,3 +2807,11 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1016)
 
 <br />
+
+### Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)
+
+<br />

@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？
+### Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1016)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)**
 
 <br />   
 
