@@ -54,23 +54,23 @@
 
 ## ⏱️ 前端面试资源更新
 
-- **[Webpack5 新特性尝鲜实战案例](https://github.com/lgwebdream/FE-Interview/tree/master/demos/yd-webpack-demo)**
-- **[Vue v-model 是如何实现的，语法糖实际是什么](https://github.com/lgwebdream/FE-Interview/issues/914)**
-- **[React 中 setState 后发生了什么？setState 为什么默认是异步？setState 什么时候是同步？](https://github.com/lgwebdream/FE-Interview/issues/912)**
-- **[多个 tab 只对应一个内容框，点击每个 tab 都会请求接口并渲染到内容框，怎么确保频繁点击 tab 但能够确保数据正常显示？](https://github.com/lgwebdream/FE-Interview/issues/916)**
-- **[对虚拟 DOM 的理解？虚拟 DOM 主要做了什么？虚拟 DOM 本身是什么？](https://github.com/lgwebdream/FE-Interview/issues/920)**
-- **[说一下 vue-router 的原理](https://github.com/lgwebdream/FE-Interview/issues/262)**
-- **[网站 SEO 怎么处理](https://github.com/lgwebdream/FE-Interview/issues/439)**
-- **[Webpack 为什么慢，如何进行优化](https://github.com/lgwebdream/FE-Interview/issues/921)**
+- **[如何获取 html 元素实际的样式值？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1003)**
+- **[说一下对 React Hook 的理解，它的实现原理，和生命周期有哪些区别？](https://github.com/lgwebdream/FE-Interview/issues/994)**
+- **[移动端适配方案具体实现以及对比](https://github.com/lgwebdream/FE-Interview/issues/1008)**
+- **[`var arr =[[‘A’,’B’],[‘a’,’b’],[1,2]]` 求二维数组的全排列组合 结果：Aa1,Aa2,Ab1,Ab2,Ba1,Ba2,Bb1,Bb2](https://github.com/lgwebdream/FE-Interview/issues/1011)**
+- **[怎么给 Vue 定义全局方法](https://github.com/lgwebdream/FE-Interview/issues/983)**
+- **[Promise.allSettled 了解吗？动手实现一下 Promise.allSettled](https://github.com/lgwebdream/FE-Interview/issues/996)**
+- **[浏览器为什么要阻止跨域请求？如何解决跨域？每次跨域请求都需要到达服务端吗？](https://github.com/lgwebdream/FE-Interview/issues/1004)**
+- **[动手实现一个 repeat 方法](https://github.com/lgwebdream/FE-Interview/issues/969)**
 - **[Webpack 打包出来的体积太大，如何优化体积？](https://github.com/lgwebdream/FE-Interview/issues/657)**
 - **[商城的列表页跳转到商品的详情页，详情页数据接口很慢，前端可以怎么优化用户体验？](https://github.com/lgwebdream/FE-Interview/issues/929)**
-- **[找出两个数组的交集元素](https://github.com/lgwebdream/FE-Interview/issues/806)**
-- **[Import 和 CommonJS 在 webpack 打包过程中有什么不同](https://github.com/lgwebdream/FE-Interview/issues/360)**
+- **[怎么计算组件在视口内出现了几次？IntersectionObserver 怎么使用的？怎么知道一个 DOM 节点出现在视口内？](https://github.com/lgwebdream/FE-Interview/issues/999)**
+- **[versions 是一个项目的版本号列表，因多人维护，不规则，动手实现一个版本号处理函数](https://github.com/lgwebdream/FE-Interview/issues/990)**
 - **[客户端缓存有几种方式？浏览器出现 from disk、from memory 的策略是啥](https://github.com/lgwebdream/FE-Interview/issues/923)**
-- **[介绍 Vue template 到 render 的过程](https://github.com/lgwebdream/FE-Interview/issues/704)**
+- **[什么是微服务，微服务跟单体应用的区别是啥，用微服务有啥好处？](https://github.com/lgwebdream/FE-Interview/issues/977)**
 - **[Vue data 中某一个属性的值发生改变后，视图会立即同步执行重新渲染吗？](https://github.com/lgwebdream/FE-Interview/issues/658)**
 - **[简述 mixin、extends 的覆盖逻辑](https://github.com/lgwebdream/FE-Interview/issues/654)**
-- **[Webpack 热更新的原理](https://github.com/lgwebdream/FE-Interview/issues/616)**
+- **[请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？](https://github.com/lgwebdream/FE-Interview/issues/956)**
 - **[说一下单点登录实现原理](https://github.com/lgwebdream/FE-Interview/issues/931)**
 
 ## 📚 前端面试题汇总
