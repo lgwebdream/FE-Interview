@@ -54,6 +54,19 @@
 
 <br />   
 
+## 📚 前端面试题汇总
+
+- **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
+- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
+
+<br />
+
+## 📱 手机刷题(附带详细答案)
+
+> 二维码加载失败请点击 [入口](http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png)
+
+ <img src="http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png" width="200px" >
+
 ## ⏱️ 前端面试资源更新
 
 - **[如何获取 html 元素实际的样式值？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1003)**
@@ -74,21 +87,6 @@
 - **[简述 mixin、extends 的覆盖逻辑](https://github.com/lgwebdream/FE-Interview/issues/654)**
 - **[请列出目前主流的 JavaScript 模块化实现的技术有哪些？说出它们的区别？](https://github.com/lgwebdream/FE-Interview/issues/956)**
 - **[说一下单点登录实现原理](https://github.com/lgwebdream/FE-Interview/issues/931)**
-
-## 📚 前端面试题汇总
-
-- **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
-- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
-
-<br />
-
-## 📱 手机刷题(附带详细答案)
-
-> 二维码加载失败请点击 [入口](http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png)
-
- <img src="http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png" width="200px" >
-
-
 ## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
