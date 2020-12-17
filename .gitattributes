@@ -1,6 +1,1 @@
 *.md linguist-language=JavaScript
-*.mjs linguist-language=Vue
-*.c linguist-language=Vue
-*.png linguist-language=Vue
-*.css linguist-language=Css
-*.json linguist-language=TypeScript
