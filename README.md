@@ -46,9 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？
+### Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)**
+公司：淘宝
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)**
 
 <br />   
 
