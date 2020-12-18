@@ -46,11 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？
+### Day202:说下 v8 引擎解释执行 js 代码的大致流程
 
 公司：淘宝
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)**
 
 <br />   
 
@@ -69,6 +69,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
 - [Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)
 - [Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？](https://github.com/lgwebdream/FE-Interview/issues/1016)
 - [Day198:说一下 IoC 是啥，应用场景是啥？](https://github.com/lgwebdream/FE-Interview/issues/1015)

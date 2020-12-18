@@ -2825,3 +2825,13 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
 
 <br />
+
+### Day202:说下 v8 引擎解释执行 js 代码的大致流程
+
+公司：淘宝
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
+
+<br />
