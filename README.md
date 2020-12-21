@@ -46,11 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day202:说下 v8 引擎解释执行 js 代码的大致流程
+### Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？
 
-公司：淘宝
+公司：百度
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)**
 
 <br />   
 
@@ -69,6 +69,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day202:说下 v8 引擎解释执行 js 代码的大致流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
 - [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
 - [Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)
 - [Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？](https://github.com/lgwebdream/FE-Interview/issues/1016)
@@ -80,7 +81,6 @@
 - [Day193：完善下面函数，实现图片的加载](https://github.com/lgwebdream/FE-Interview/issues/1010)
 - [Day192:将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。本题中，一个高度平衡二叉树是指一个二叉树每个节点的左右两个子树的高度差的绝对值不超过 1。](https://github.com/lgwebdream/FE-Interview/issues/1009)
 - [Day191:移动端适配方案具体实现以及对比](https://github.com/lgwebdream/FE-Interview/issues/1008)
-- [Day190:怎么获取相交链表的第一个相交点？](https://github.com/lgwebdream/FE-Interview/issues/1007)
 
 ## 🏠 前端面试 Family
 
