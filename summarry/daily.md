@@ -2845,3 +2845,13 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 
 <br />
+
+### Day204:说一下 Vue3 的 Composition API
+
+公司：京东、好未来
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
+
+<br />

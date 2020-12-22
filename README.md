@@ -46,11 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？
+### Day204:说一下 Vue3 的 Composition API
 
-公司：百度
+公司：京东、好未来
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)**
 
 <br />   
 
@@ -69,6 +69,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 - [Day202:说下 v8 引擎解释执行 js 代码的大致流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
 - [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
 - [Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)
@@ -80,7 +81,6 @@
 - [Day194：`var arr =[['A','B'],['a','b'],[1,2]]` 求二维数组的全排列组合 结果：Aa1,Aa2,Ab1,Ab2,Ba1,Ba2,Bb1,Bb2](https://github.com/lgwebdream/FE-Interview/issues/1011)
 - [Day193：完善下面函数，实现图片的加载](https://github.com/lgwebdream/FE-Interview/issues/1010)
 - [Day192:将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。本题中，一个高度平衡二叉树是指一个二叉树每个节点的左右两个子树的高度差的绝对值不超过 1。](https://github.com/lgwebdream/FE-Interview/issues/1009)
-- [Day191:移动端适配方案具体实现以及对比](https://github.com/lgwebdream/FE-Interview/issues/1008)
 
 ## 🏠 前端面试 Family
 
