@@ -2244,7 +2244,7 @@ new Promise(function (resolve, reject) {
 
 ```js
 // 输入两个字符串 2018-08  2018-12
-// 输出他们中间的月份 [2018-10, 2018-11]
+// 输出他们中间的月份 [2018-9,2018-10, 2018-11]
 ```
 
 分类：JavaScript
@@ -2853,5 +2853,22 @@ class Depository {
 分类：Vue
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
+
+<br />
+
+### Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：
+
+```js
+//str = "2[a]1[bc]", 返回 "aabc".
+// str = "2[e2[d]]", 返回 "eddedd".
+// str = "3[abc]2[cd]ff", 返回 "abcabcabccdcdff".
+// 可以看出: N[string]，表示string 正好重复 N 次。假设字符串一定是有效正确的字符串；但是你需要考虑其他可能出现的入参错误场景。
+```
+
+公司：腾讯微视
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)
 
 <br />

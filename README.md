@@ -46,13 +46,20 @@
 
 > 每天 get 一个知识点
 
-### Day204:说一下 Vue3 的 Composition API
+### Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：
 
-公司：京东、好未来
+```js
+//str = "2[a]1[bc]", 返回 "aabc".
+// str = "2[e2[d]]", 返回 "eddedd".
+// str = "3[abc]2[cd]ff", 返回 "abcabcabccdcdff".
+// 可以看出: N[string]，表示string 正好重复 N 次。假设字符串一定是有效正确的字符串；但是你需要考虑其他可能出现的入参错误场景。
+```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)**
+公司：腾讯微视
 
-<br />   
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)**
+
+<br />
 
 ## 📚 前端面试题汇总
 
@@ -69,6 +76,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day204:说一下 Vue3 的 Composition API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
 - [Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 - [Day202:说下 v8 引擎解释执行 js 代码的大致流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
 - [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
@@ -80,7 +88,6 @@
 - [Day195:实现一个简单的仓储系统，可以不断转入和转出货物，货物最多有两层子类目，数字代表该子类目转入/转出的数量。转出时不能出现爆仓情况。](https://github.com/lgwebdream/FE-Interview/issues/1012)
 - [Day194：`var arr =[['A','B'],['a','b'],[1,2]]` 求二维数组的全排列组合 结果：Aa1,Aa2,Ab1,Ab2,Ba1,Ba2,Bb1,Bb2](https://github.com/lgwebdream/FE-Interview/issues/1011)
 - [Day193：完善下面函数，实现图片的加载](https://github.com/lgwebdream/FE-Interview/issues/1010)
-- [Day192:将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。本题中，一个高度平衡二叉树是指一个二叉树每个节点的左右两个子树的高度差的绝对值不超过 1。](https://github.com/lgwebdream/FE-Interview/issues/1009)
 
 ## 🏠 前端面试 Family
 
