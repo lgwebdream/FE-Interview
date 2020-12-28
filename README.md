@@ -46,11 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day207:说一下 OAuth2.0 的登录详细流程
+### Day208:模拟实现 Object.freeze
 
-公司：360 金融
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)**
 
 <br />
 
@@ -69,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [### Day207:说一下 OAuth2.0 的登录详细流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
 - [Day206:秒 转换为 时分秒格式，不能使用 js API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1024)
 - [Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)
 - [Day204:说一下 Vue3 的 Composition API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
@@ -80,7 +79,6 @@
 - [Day198:说一下 IoC 是啥，应用场景是啥？](https://github.com/lgwebdream/FE-Interview/issues/1015)
 - [Day197:对 git flow 了解吗，应该如何使用](https://github.com/lgwebdream/FE-Interview/issues/1014)
 - [Day196:有看过 V8 源码吗？ 说下 `v8::Isolate`？](https://github.com/lgwebdream/FE-Interview/issues/1013)
-- [Day195:实现一个简单的仓储系统，可以不断转入和转出货物，货物最多有两层子类目，数字代表该子类目转入/转出的数量。转出时不能出现爆仓情况。](https://github.com/lgwebdream/FE-Interview/issues/1012)
 
 ## 🏠 前端面试 Family
 

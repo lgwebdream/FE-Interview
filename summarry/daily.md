@@ -2892,3 +2892,11 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
 
 <br />
+
+### Day208:模拟实现 Object.freeze
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)
+
+<br />
