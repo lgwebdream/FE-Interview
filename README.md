@@ -46,9 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day208:模拟实现 Object.freeze
+### Day209:介绍一下 node 核心模块，并且详细介绍下 Stream
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)**
+公司：菜鸟网络、自如
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1027)**
 
 <br />
 
@@ -67,6 +69,7 @@
 
 ## ⏱️ 最近更新
 
+- [### Day208:模拟实现 Object.freeze](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)
 - [### Day207:说一下 OAuth2.0 的登录详细流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
 - [Day206:秒 转换为 时分秒格式，不能使用 js API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1024)
 - [Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)
@@ -78,7 +81,6 @@
 - [Day199:你有封装过 axios 吗？主要是封装哪些方面？如何中断 axios 请求？](https://github.com/lgwebdream/FE-Interview/issues/1016)
 - [Day198:说一下 IoC 是啥，应用场景是啥？](https://github.com/lgwebdream/FE-Interview/issues/1015)
 - [Day197:对 git flow 了解吗，应该如何使用](https://github.com/lgwebdream/FE-Interview/issues/1014)
-- [Day196:有看过 V8 源码吗？ 说下 `v8::Isolate`？](https://github.com/lgwebdream/FE-Interview/issues/1013)
 
 ## 🏠 前端面试 Family
 
