@@ -2911,3 +2911,13 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1027)
 
 <br />
+
+### Day210:项目中有没有涉及到 Cluster，说一下你的理解
+
+公司：阿里
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1028)
+
+<br />
