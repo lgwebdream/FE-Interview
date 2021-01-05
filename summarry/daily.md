@@ -2941,3 +2941,13 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)
 
 <br />
+
+### Day213:如何设计一个 localStorage，保证数据的实效性?
+
+公司：有赞
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
+
+<br />
