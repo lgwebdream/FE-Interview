@@ -2951,3 +2951,28 @@ class Depository {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
 
 <br />
+
+### Day214:写出下面代码的输出结果，并解释为什么？
+
+```js
+//counter.js
+let counter = 10;
+const add = () => {
+  console.log(counter);
+};
+export { counter, add };
+
+//index.js
+add();
+import { counter, add } from "./counter";
+counter += 1;
+console.log(counter);
+```
+
+公司:快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
+
+<br />

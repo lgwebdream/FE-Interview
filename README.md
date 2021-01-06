@@ -45,11 +45,26 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day213:如何设计一个 localStorage，保证数据的实效性?
+### Day214:写出下面代码的输出结果，并解释为什么？
 
-公司：有赞
+```js
+//counter.js
+let counter = 10;
+const add = () => {
+  console.log(counter);
+};
+export { counter, add };
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)**
+//index.js
+add();
+import { counter, add } from "./counter";
+counter += 1;
+console.log(counter);
+```
+
+公司:快手
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)**
 
 <br />
 
@@ -68,6 +83,7 @@
 
 ## ⏱️ 最近更新
 
+- [### Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
 - [### Day212:说下对 AST（Abstract Syntax Tree）抽象语法树的理解？都有哪些用途？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)
 - [### Day211:有没有写过 Koa 中间件，说下中间件原理，介绍下自己写过的中间件](https://github.com/lgwebdream/FE-Interview-Planet/issues/1029)
 - [### Day210:项目中有没有涉及到 Cluster，说一下你的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1028)
@@ -80,7 +96,6 @@
 - [Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 - [Day202:说下 v8 引擎解释执行 js 代码的大致流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
 - [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
-- [Day200:Git 的快照是指什么？Git 的工作区域由哪三部分组成？在 Git 中，如何为提交的版本打标签？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1017)
 
 ## 🏠 前端面试 Family
 
