@@ -45,26 +45,18 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day214:写出下面代码的输出结果，并解释为什么？
+
+### Day215 下面代码的输出是什么？为什么？
 
 ```js
-//counter.js
-let counter = 10;
-const add = () => {
-  console.log(counter);
-};
-export { counter, add };
-
-//index.js
-add();
-import { counter, add } from "./counter";
-counter += 1;
-console.log(counter);
+const person = { name: "yd" };
+Object.defineProperty(person, "age", { value: 21 });
+person.age = 18;
+console.log(person);
+console.log(Object.keys(person));
 ```
 
-公司:快手
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)**
 
 <br />
 
@@ -83,6 +75,7 @@ console.log(counter);
 
 ## ⏱️ 最近更新
 
+- [### Day214:写出下面代码的输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 - [### Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
 - [### Day212:说下对 AST（Abstract Syntax Tree）抽象语法树的理解？都有哪些用途？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)
 - [### Day211:有没有写过 Koa 中间件，说下中间件原理，介绍下自己写过的中间件](https://github.com/lgwebdream/FE-Interview-Planet/issues/1029)

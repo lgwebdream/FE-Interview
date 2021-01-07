@@ -2976,3 +2976,19 @@ console.log(counter);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 
 <br />
+
+### Day215 下面代码的输出是什么？为什么？
+
+```js
+const person = { name: "yd" };
+Object.defineProperty(person, "age", { value: 21 });
+person.age = 18;
+console.log(person);
+console.log(Object.keys(person));
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
+
+<br />
