@@ -46,17 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day215 下面代码的输出是什么？为什么？
+### Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？
 
-```js
-const person = { name: "yd" };
-Object.defineProperty(person, "age", { value: 21 });
-person.age = 18;
-console.log(person);
-console.log(Object.keys(person));
-```
+公司：水滴筹
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)**
 
 <br />
 
@@ -75,6 +69,7 @@ console.log(Object.keys(person));
 
 ## ⏱️ 最近更新
 
+- [### Day215 下面代码的输出是什么？为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
 - [### Day214:写出下面代码的输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 - [### Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
 - [### Day212:说下对 AST（Abstract Syntax Tree）抽象语法树的理解？都有哪些用途？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)

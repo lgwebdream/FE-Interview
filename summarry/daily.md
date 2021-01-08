@@ -2992,3 +2992,13 @@ console.log(Object.keys(person));
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
 
 <br />
+
+### Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？
+
+公司：水滴筹
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)
+
+<br />
