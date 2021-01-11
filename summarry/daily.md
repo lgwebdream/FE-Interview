@@ -3002,3 +3002,23 @@ console.log(Object.keys(person));
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)
 
 <br />
+
+### Day217:写出下面代码输出结果，并解释为什么？
+
+```js
+const value = { number: 10 };
+let number = 2;
+const multiply = (x = { ...value }, y = number) => {
+  y++;
+  console.log((x.number *= y));
+};
+
+multiply();
+multiply();
+multiply(value, number);
+multiply(value, number);
+```
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)
+
+<br />

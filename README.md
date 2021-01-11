@@ -46,11 +46,23 @@
 
 > 每天 get 一个知识点
 
-### Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？
+### Day217:写出下面代码输出结果，并解释为什么？
 
-公司：水滴筹
+```js
+const value = { number: 10 };
+let number = 2;
+const multiply = (x = { ...value }, y = number) => {
+  y++;
+  console.log((x.number *= y));
+};
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)**
+multiply();
+multiply();
+multiply(value, number);
+multiply(value, number);
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)**
 
 <br />
 
@@ -69,6 +81,7 @@
 
 ## ⏱️ 最近更新
 
+- [### Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)
 - [### Day215 下面代码的输出是什么？为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
 - [### Day214:写出下面代码的输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 - [### Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
@@ -83,7 +96,6 @@
 - [Day204:说一下 Vue3 的 Composition API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
 - [Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 - [Day202:说下 v8 引擎解释执行 js 代码的大致流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1019)
-- [Day201:说一下从获得 HTML 到页面渲染的全部流程？为什么栅格线程使用 GPU 计算而不是 CPU 计算？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1018)
 
 ## 🏠 前端面试 Family
 
