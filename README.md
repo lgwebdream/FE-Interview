@@ -46,22 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day218:说下下面两段代码执行情况
+### Day219:说下 prototype 和 `__proto__`的关系
 
-```js
-// 代码片段一：是否存在堆栈溢出错误?
-function foo() {
-  setTimeout(foo, 0);
-}
-foo();
-
-// 代码片段二:如果在控制台中运行以下函数，页面(选项卡)的 UI 是否仍然响应?
-function foo() {
-  return Promise.resolve().then(foo);
-}
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)**
 
 <br />
 
@@ -80,6 +67,7 @@ function foo() {
 
 ## ⏱️ 最近更新
 
+- [### Day218:说下下面两段代码执行情况](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
 - [Day217:写出下面代码输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)
 - [Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)
 - [Day215 下面代码的输出是什么？为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
@@ -94,7 +82,6 @@ function foo() {
 - [Day206:秒 转换为 时分秒格式，不能使用 js API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1024)
 - [Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)
 - [Day204:说一下 Vue3 的 Composition API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
-- [Day203:Vue-router history 模式部署的时候要注意什么？server 端用 nginx 和 node 时候分别怎么处理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1020)
 
 ## 🏠 前端面试 Family
 

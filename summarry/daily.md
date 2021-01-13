@@ -3042,3 +3042,12 @@ function foo() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
 
 <br />
+
+### Day219:说下 prototype 和 `__proto__`的关系
+
+分类：JavaScript
+
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
+
+<br />
