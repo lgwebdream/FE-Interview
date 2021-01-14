@@ -3051,3 +3051,11 @@ function foo() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
 
 <br />
+
+### Day220:了解函数式编程中的 compose 吗？动手实现一下？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
+
+<br />

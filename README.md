@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day220:了解函数式编程中的 compose 吗？动手实现一下？
 
-### Day219:说下 prototype 和 `__proto__`的关系
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)**
 
 <br />
 
@@ -67,7 +66,8 @@
 
 ## ⏱️ 最近更新
 
-- [### Day218:说下下面两段代码执行情况](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
+- [Day219:说下 prototype 和 `__proto__`的关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
+- [Day218:说下下面两段代码执行情况](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
 - [Day217:写出下面代码输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)
 - [Day216:说一下 escape、encodeURI、encodeURIComponent 有什么区别？具体的使用场景？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1035)
 - [Day215 下面代码的输出是什么？为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
@@ -81,7 +81,6 @@
 - [Day207:说一下 OAuth2.0 的登录详细流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
 - [Day206:秒 转换为 时分秒格式，不能使用 js API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1024)
 - [Day205:这里有个约定规则，实现一个方法 decodeStr，输入一个字符串，根据约定规则输出编码结果。约定规则如下：](https://github.com/lgwebdream/FE-Interview-Planet/issues/1023)
-- [Day204:说一下 Vue3 的 Composition API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1021)
 
 ## 🏠 前端面试 Family
 
