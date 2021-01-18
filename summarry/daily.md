@@ -3067,3 +3067,11 @@ function foo() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 
 <br />
+
+### Day222:说一下 ES6 对 Object 类型做了哪些优化更新?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
+
+<br />

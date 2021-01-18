@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day221:说下 Webpack Runtime 和 Manifest 代码的作用？
+### Day222:说一下 ES6 对 Object 类型做了哪些优化更新?
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 - [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
 - [Day219:说下 prototype 和 `__proto__`的关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
 - [Day218:说下下面两段代码执行情况](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
@@ -80,7 +81,6 @@
 - [Day209:介绍一下 node 核心模块，并且详细介绍下 Stream](https://github.com/lgwebdream/FE-Interview-Planet/issues/1027)
 - [Day208:模拟实现 Object.freeze](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)
 - [Day207:说一下 OAuth2.0 的登录详细流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
-- [Day206:秒 转换为 时分秒格式，不能使用 js API](https://github.com/lgwebdream/FE-Interview-Planet/issues/1024)
 
 ## 🏠 前端面试 Family
 
