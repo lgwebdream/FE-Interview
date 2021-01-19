@@ -3075,3 +3075,22 @@ function foo() {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 
 <br />
+
+### Day223:使用队列来实现击鼓传花
+
+```js
+击鼓传花的规则:
+
+几个朋友一起玩一个游戏, 围成一圈, 开始数数（数数时数字都是挨着的，第一个人数1，之后的人数2）, 数到某个数字的人自动淘汰。汰的人后面再从1开始数，重复上面的游戏，直到就剩下一个人，请问剩下了谁
+
+// 测试例子
+var names = ["John", "Jack", "Camila", "Ingrid", "Carl"];
+var endName = passGame(names, 8); // 数到 8 的人淘汰
+console.log("最终留下:" + endName); // 'john'
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
+
+<br />

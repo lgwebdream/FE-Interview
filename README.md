@@ -45,9 +45,20 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day222:说一下 ES6 对 Object 类型做了哪些优化更新?
+### Day223:使用队列来实现击鼓传花
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)**
+```js
+击鼓传花的规则:
+
+几个朋友一起玩一个游戏, 围成一圈, 开始数数（数数时数字都是挨着的，第一个人数1，之后的人数2）, 数到某个数字的人自动淘汰。汰的人后面再从1开始数，重复上面的游戏，直到就剩下一个人，请问剩下了谁
+
+// 测试例子
+var names = ["John", "Jack", "Camila", "Ingrid", "Carl"];
+var endName = passGame(names, 8); // 数到 8 的人淘汰
+console.log("最终留下:" + endName); // 'john'
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)**
 
 <br />
 
@@ -66,6 +77,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 - [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 - [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
 - [Day219:说下 prototype 和 `__proto__`的关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
@@ -80,7 +92,6 @@
 - [Day210:项目中有没有涉及到 Cluster，说一下你的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1028)
 - [Day209:介绍一下 node 核心模块，并且详细介绍下 Stream](https://github.com/lgwebdream/FE-Interview-Planet/issues/1027)
 - [Day208:模拟实现 Object.freeze](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)
-- [Day207:说一下 OAuth2.0 的登录详细流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1025)
 
 ## 🏠 前端面试 Family
 
