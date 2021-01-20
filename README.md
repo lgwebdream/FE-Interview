@@ -45,20 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day223:使用队列来实现击鼓传花
 
-```js
-击鼓传花的规则:
+### Day224:多种方式实现圆形可点击区域(至少三种)
 
-几个朋友一起玩一个游戏, 围成一圈, 开始数数（数数时数字都是挨着的，第一个人数1，之后的人数2）, 数到某个数字的人自动淘汰。汰的人后面再从1开始数，重复上面的游戏，直到就剩下一个人，请问剩下了谁
-
-// 测试例子
-var names = ["John", "Jack", "Camila", "Ingrid", "Carl"];
-var endName = passGame(names, 8); // 数到 8 的人淘汰
-console.log("最终留下:" + endName); // 'john'
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)**
 
 <br />
 
@@ -77,6 +67,7 @@ console.log("最终留下:" + endName); // 'john'
 
 ## ⏱️ 最近更新
 
+- [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
 - [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 - [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 - [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
@@ -91,7 +82,6 @@ console.log("最终留下:" + endName); // 'john'
 - [Day211:有没有写过 Koa 中间件，说下中间件原理，介绍下自己写过的中间件](https://github.com/lgwebdream/FE-Interview-Planet/issues/1029)
 - [Day210:项目中有没有涉及到 Cluster，说一下你的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1028)
 - [Day209:介绍一下 node 核心模块，并且详细介绍下 Stream](https://github.com/lgwebdream/FE-Interview-Planet/issues/1027)
-- [Day208:模拟实现 Object.freeze](https://github.com/lgwebdream/FE-Interview-Planet/issues/1026)
 
 ## 🏠 前端面试 Family
 

@@ -3094,3 +3094,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
 
 <br />
+
+### Day224:多种方式实现圆形可点击区域(至少三种)
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
+
+<br />
