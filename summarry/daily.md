@@ -3110,3 +3110,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
 
 <br />
+
+### Day226:用 reduce 实现 map 方法
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
+
+<br />
