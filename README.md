@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day226:用 reduce 实现 map 方法
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)**
+### Day227:Webpack 如果使用了 hash 命名，是否每次都会重新生成 hash?简单说下 Webpack 的几种 hash 策略？
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1046)**
 
 <br />
 
@@ -66,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day226:用 reduce 实现 map 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
 - [Day225:介绍 instanceof 原理并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
 - [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
 - [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
@@ -80,7 +82,6 @@
 - [Day214:写出下面代码的输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 - [Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
 - [Day212:说下对 AST（Abstract Syntax Tree）抽象语法树的理解？都有哪些用途？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)
-- [Day211:有没有写过 Koa 中间件，说下中间件原理，介绍下自己写过的中间件](https://github.com/lgwebdream/FE-Interview-Planet/issues/1029)
 
 ## 🏠 前端面试 Family
 
