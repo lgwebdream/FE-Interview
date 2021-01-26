@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day227:Webpack 如果使用了 hash 命名，是否每次都会重新生成 hash?简单说下 Webpack 的几种 hash 策略？
+### Day228:Token 一般是存放在哪里?Token 放在 cookie 和放在 localStorage、sessionStorage 中有什么不同？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1046)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1047)**
 
 <br />
 
@@ -67,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day227:Webpack 如果使用了 hash 命名，是否每次都会重新生成 hash?简单说下 Webpack 的几种 hash 策略？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1046)
 - [Day226:用 reduce 实现 map 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
 - [Day225:介绍 instanceof 原理并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
 - [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
@@ -81,7 +82,6 @@
 - [Day215 下面代码的输出是什么？为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1034)
 - [Day214:写出下面代码的输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1033)
 - [Day213:如何封装一个 localStorage，保证数据的时效性?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1032)
-- [Day212:说下对 AST（Abstract Syntax Tree）抽象语法树的理解？都有哪些用途？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1031)
 
 ## 🏠 前端面试 Family
 
