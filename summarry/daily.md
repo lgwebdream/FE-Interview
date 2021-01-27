@@ -3134,3 +3134,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1047)
 
 <br />
+
+### Day229:说一下网页扫码登录的原理
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1048)
+
+<br />
