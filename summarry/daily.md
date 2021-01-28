@@ -3142,3 +3142,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1048)
 
 <br />
+
+### Day230:说一下 Vue 开发如何针对搜索引擎做 SEO 优化
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
+
+<br />
