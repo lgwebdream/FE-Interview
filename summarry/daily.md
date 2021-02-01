@@ -3150,3 +3150,19 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
 
 <br />
+
+### Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
+
+<br />
+
+### Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
+
+<br />
