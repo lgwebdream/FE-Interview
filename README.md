@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?
+### Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)**
 
 <br />
 
@@ -67,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
 - [Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
 - [Day230:说一下 Vue 开发如何针对搜索引擎做 SEO 优化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
 - [Day229:说一下网页扫码登录的原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1048)
