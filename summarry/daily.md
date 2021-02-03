@@ -3174,3 +3174,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 
 <br />
+
+### Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
+
+<br />

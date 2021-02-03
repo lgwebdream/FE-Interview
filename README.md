@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？
+### Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)**
 
 <br />
 
@@ -67,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 - [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
 - [Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
 - [Day230:说一下 Vue 开发如何针对搜索引擎做 SEO 优化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
@@ -82,7 +83,6 @@
 - [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
 - [Day219:说下 prototype 和 `__proto__`的关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
 - [Day218:说下下面两段代码执行情况](https://github.com/lgwebdream/FE-Interview-Planet/issues/1037)
-- [Day217:写出下面代码输出结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1036)
 
 ## 🏠 前端面试 Family
 
