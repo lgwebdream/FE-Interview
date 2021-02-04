@@ -3182,3 +3182,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
 
 <br />
+
+### Day235:动手实现一下数组 Reduce 方法的 polyfill
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
+
+<br />
