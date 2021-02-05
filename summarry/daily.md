@@ -3190,3 +3190,12 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
 
 <br />
+
+
+### Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
+
+<br />

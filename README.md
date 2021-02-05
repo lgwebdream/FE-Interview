@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day235:动手实现一下数组 Reduce 方法的 polyfill
+### Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day235:动手实现一下数组 Reduce 方法的 polyfill](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
 - [Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
 - [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 - [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
@@ -81,7 +82,6 @@
 - [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 - [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 - [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
-- [Day219:说下 prototype 和 `__proto__`的关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1038)
 
 ## 🏠 前端面试 Family
 
