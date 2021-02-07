@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)**
+### Day237:说一下什么是运营商劫持？有什么预防措施？
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)**
 
 <br />
 
@@ -66,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 - [Day235:动手实现一下数组 Reduce 方法的 polyfill](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
 - [Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
 - [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
@@ -81,7 +83,6 @@
 - [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
 - [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 - [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
-- [Day220:了解函数式编程中的 compose 吗？动手实现一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1039)
 
 ## 🏠 前端面试 Family
 

@@ -3199,3 +3199,11 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 
 <br />
+
+### Day237:说一下什么是运营商劫持？有什么预防措施？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
+
+<br />
