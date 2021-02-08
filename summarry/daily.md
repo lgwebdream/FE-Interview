@@ -3204,6 +3204,14 @@ console.log("最终留下:" + endName); // 'john'
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
+
+<br />
+
+### Day238:请介绍一下装饰者模式，并实现
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 
 <br />
