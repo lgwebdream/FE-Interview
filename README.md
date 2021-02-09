@@ -45,9 +45,16 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day238:请介绍一下装饰者模式，并实现
+### Day239:按要求实现 go 函数
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)**
+```js
+// 示例
+go("l"); //gol
+go()("l"); //gool
+go()()()("l"); //返回goool
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)**
 
 <br />
 
@@ -66,6 +73,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 - [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
 - [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 - [Day235:动手实现一下数组 Reduce 方法的 polyfill](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
@@ -82,7 +90,6 @@
 - [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
 - [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
 - [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
-- [Day221:说下 Webpack Runtime 和 Manifest 代码的作用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1040)
 
 ## 🏠 前端面试 Family
 

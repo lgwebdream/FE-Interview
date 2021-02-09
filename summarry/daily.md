@@ -3215,3 +3215,20 @@ console.log("最终留下:" + endName); // 'john'
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 
 <br />
+
+### Day239:按要求实现 go 函数
+
+```js
+// 示例
+go("l"); //gol
+go()("l"); //gool
+go()()()("l"); //返回goool
+```
+
+分类：JavaScript
+
+公司：深信服
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
+
+<br />
