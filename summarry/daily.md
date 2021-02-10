@@ -3232,3 +3232,20 @@ go()()()("l"); //返回goool
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 
 <br />
+
+### Day240:写出输出值并解释为什么？
+
+```js
+let a = 1,
+  b = 2,
+  head = { next: { next: 1 } };
+[a, b] = [b, a];
+[head.next, head.next.next] = [head.next.next, head.next];
+console.log(a, b, head);
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
+
+<br />

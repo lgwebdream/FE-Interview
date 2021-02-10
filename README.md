@@ -45,16 +45,19 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day239:按要求实现 go 函数
+
+### Day240:写出输出值并解释为什么？
 
 ```js
-// 示例
-go("l"); //gol
-go()("l"); //gool
-go()()()("l"); //返回goool
+let a = 1,
+  b = 2,
+  head = { next: { next: 1 } };
+[a, b] = [b, a];
+[head.next, head.next.next] = [head.next.next, head.next];
+console.log(a, b, head);
 ```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)**
 
 <br />
 
@@ -73,6 +76,7 @@ go()()()("l"); //返回goool
 
 ## ⏱️ 最近更新
 
+- [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 - [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 - [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
 - [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
@@ -89,7 +93,6 @@ go()()()("l"); //返回goool
 - [Day225:介绍 instanceof 原理并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
 - [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
 - [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
-- [Day222:说一下 ES6 对 Object 类型做了哪些优化更新?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1041)
 
 ## 🏠 前端面试 Family
 
