@@ -3249,3 +3249,13 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
 
 <br />
+
+### Day241:说一下深拷贝如何解决循环引用问题？
+
+公司：极光推送
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)
+
+<br />

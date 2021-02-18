@@ -45,19 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day241:说一下深拷贝如何解决循环引用问题？
 
-### Day240:写出输出值并解释为什么？
-
-```js
-let a = 1,
-  b = 2,
-  head = { next: { next: 1 } };
-[a, b] = [b, a];
-[head.next, head.next.next] = [head.next.next, head.next];
-console.log(a, b, head);
-```
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)**
 
 <br />
 
@@ -76,6 +66,7 @@ console.log(a, b, head);
 
 ## ⏱️ 最近更新
 
+- [Day240:写出输出值并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
 - [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 - [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 - [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
@@ -92,7 +83,6 @@ console.log(a, b, head);
 - [Day226:用 reduce 实现 map 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
 - [Day225:介绍 instanceof 原理并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
 - [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
-- [Day223:使用队列来实现击鼓传花](https://github.com/lgwebdream/FE-Interview-Planet/issues/1042)
 
 ## 🏠 前端面试 Family
 
