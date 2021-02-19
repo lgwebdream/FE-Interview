@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day241:说一下深拷贝如何解决循环引用问题？
+### Day242:实现一个函数 findLastIndex(), 返回指定数在“有序”数组中最后一次出现位置的索引。如 `findLastIndex([1,2,3,3,3,4,5], 3)`, 返回 4。时间复杂度是多少？什么情况下时间复杂度最高？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1061)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day241:说一下深拷贝如何解决循环引用问题？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)
 - [Day240:写出输出值并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
 - [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 - [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
@@ -82,7 +83,6 @@
 - [Day227:Webpack 如果使用了 hash 命名，是否每次都会重新生成 hash?简单说下 Webpack 的几种 hash 策略？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1046)
 - [Day226:用 reduce 实现 map 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
 - [Day225:介绍 instanceof 原理并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1044)
-- [Day224:多种方式实现圆形可点击区域(至少三种)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1043)
 
 ## 🏠 前端面试 Family
 
