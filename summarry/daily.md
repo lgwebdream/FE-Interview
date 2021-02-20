@@ -3269,3 +3269,13 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1061)
 
 <br />
+
+### Day243:WebWorker 的缺点是什么？在 worker 线程怎么获取主线程上下文？解决卡顿的问题除了使用 WebWorker 还有其他的解决方案吗？
+
+公司：快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1062)
+
+<br />
