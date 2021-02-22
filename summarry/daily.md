@@ -3279,3 +3279,13 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1062)
 
 <br />
+
+### Day244:虚拟列表是什么？说一下它的实现原理？
+
+公司：快手
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1063)
+
+<br />
