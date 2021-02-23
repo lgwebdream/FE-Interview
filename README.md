@@ -45,12 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day245:说一下请求是异步的为什么会造成阻塞？
 
-### Day244:虚拟列表是什么？说一下它的实现原理？
+公司：易车
 
-公司：快手
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1063)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)**
 
 <br />
 
@@ -69,6 +68,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day244:虚拟列表是什么？说一下它的实现原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1063)
 - [Day243:WebWorker 的缺点是什么？在 worker 线程怎么获取主线程上下文？解决卡顿的问题除了使用 WebWorker 还有其他的解决方案吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1062)
 - [Day242:实现一个函数 findLastIndex(), 返回指定数在“有序”数组中最后一次出现位置的索引。如 `findLastIndex([1,2,3,3,3,4,5], 3)`, 返回 4。时间复杂度是多少？什么情况下时间复杂度最高？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1061)
 - [Day241:说一下深拷贝如何解决循环引用问题？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)
@@ -86,7 +86,6 @@
 - [Day229:说一下网页扫码登录的原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1048)
 - [Day228:Token 一般是存放在哪里?Token 放在 cookie 和放在 localStorage、sessionStorage 中有什么不同？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1047)
 - [Day227:Webpack 如果使用了 hash 命名，是否每次都会重新生成 hash?简单说下 Webpack 的几种 hash 策略？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1046)
-- [Day226:用 reduce 实现 map 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1045)
 
 ## 🏠 前端面试 Family
 

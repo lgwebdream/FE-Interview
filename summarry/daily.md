@@ -3289,3 +3289,13 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1063)
 
 <br />
+
+### Day245:说一下请求是异步的为什么会造成阻塞？
+
+公司：易车
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)
+
+<br />
