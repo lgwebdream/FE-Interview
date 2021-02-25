@@ -3299,3 +3299,21 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)
 
 <br />
+
+### Day246:详细说一下你对 cookie、session、token 的理解
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1065)
+
+<br />
+
+### Day247:说一下对纯函数的理解
+
+公司：有赞
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
+
+<br />
