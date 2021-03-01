@@ -3317,3 +3317,11 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
 
 <br />
+
+### Day249:说一下 Generator 的实现原理
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
+
+<br />
