@@ -45,11 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day247:说一下对纯函数的理解
+### Day249:说一下 Generator 的实现原理
 
-公司：有赞
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)**
 
 <br />
 
@@ -68,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day247:说一下对纯函数的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
 - [Day246:详细说一下你对 cookie、session、token 的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1065)
 - [Day245:说一下请求是异步的为什么会造成阻塞？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)
 - [Day244:虚拟列表是什么？说一下它的实现原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1063)
@@ -85,7 +84,6 @@
 - [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
 - [Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
 - [Day230:说一下 Vue 开发如何针对搜索引擎做 SEO 优化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
-- [Day229:说一下网页扫码登录的原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1048)
 
 ## 🏠 前端面试 Family
 
