@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day249:说一下 Generator 的实现原理
+### Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)**
 
 <br />
 
@@ -66,6 +66,9 @@
 
 ## ⏱️ 最近更新
 
+
+- [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
+- [Day248:说一下 MySQL 和 MongoDB 区别？MongoDB 有哪些缺点和优点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
 - [Day247:说一下对纯函数的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
 - [Day246:详细说一下你对 cookie、session、token 的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1065)
 - [Day245:说一下请求是异步的为什么会造成阻塞？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)
@@ -83,7 +86,6 @@
 - [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 - [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
 - [Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
-- [Day230:说一下 Vue 开发如何针对搜索引擎做 SEO 优化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1049)
 
 ## 🏠 前端面试 Family
 

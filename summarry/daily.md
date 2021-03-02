@@ -3318,10 +3318,26 @@ console.log(a, b, head);
 
 <br />
 
+### Day248:说一下 MySQL 和 MongoDB 区别？MongoDB 有哪些缺点和优点？
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
+
+<br />
+
 ### Day249:说一下 Generator 的实现原理
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
+
+<br />
+
+### Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 
 <br />
