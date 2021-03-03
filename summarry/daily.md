@@ -3341,3 +3341,11 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 
 <br />
+
+### Day251:详细说一下对 JavaScript 执行上下文的理解
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
+
+<br />

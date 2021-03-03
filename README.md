@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下
+### Day251:详细说一下对 JavaScript 执行上下文的理解
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)**
 
 <br />
 
@@ -66,7 +66,7 @@
 
 ## ⏱️ 最近更新
 
-
+- [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 - [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
 - [Day248:说一下 MySQL 和 MongoDB 区别？MongoDB 有哪些缺点和优点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
 - [Day247:说一下对纯函数的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
@@ -85,7 +85,6 @@
 - [Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
 - [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 - [Day232:详细说一下 JSON.stringify 的一些特性？和遍历相比，哪个性能高?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1051)
-- [Day231:说下你的 vue 项目目录结构，如果是大型项目你该怎么划分结构和划分组件呢？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1050)
 
 ## 🏠 前端面试 Family
 
