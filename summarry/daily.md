@@ -3357,3 +3357,11 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
 
 <br />
+
+### Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
+
+<br />

@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day252:说一下递归和迭代的区别是什么，各有什么优缺点？
+### Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day252:说一下递归和迭代的区别是什么，各有什么优缺点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
 - [Day251:详细说一下对 JavaScript 执行上下文的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
 - [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 - [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
@@ -84,7 +85,6 @@
 - [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 - [Day235:动手实现一下数组 Reduce 方法的 polyfill](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
 - [Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
-- [Day233:Vuex 的 action 和 mutation 的特性是什么？有什么区别？Vuex 怎么知道 state 是通过 mutation 修改还是外部直接修改的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1052)
 
 ## 🏠 前端面试 Family
 
