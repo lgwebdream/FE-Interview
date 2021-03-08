@@ -45,9 +45,16 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？
+### Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)**
+```js
+// 代码一
+function (){}()
+// 代码二
+function foo(){}()
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)**
 
 <br />
 
@@ -66,6 +73,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 - [Day252:说一下递归和迭代的区别是什么，各有什么优缺点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
 - [Day251:详细说一下对 JavaScript 执行上下文的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
 - [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
@@ -84,7 +92,6 @@
 - [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
 - [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 - [Day235:动手实现一下数组 Reduce 方法的 polyfill](https://github.com/lgwebdream/FE-Interview-Planet/issues/1054)
-- [Day234:Vue-cli 默认是单页面的，如果要开发多页面应该怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1053)
 
 ## 🏠 前端面试 Family
 

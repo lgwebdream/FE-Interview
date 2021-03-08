@@ -3365,3 +3365,18 @@ console.log(a, b, head);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 
 <br />
+
+### Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？
+
+```js
+// 代码一
+function (){}()
+// 代码二
+function foo(){}()
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
+
+<br />
