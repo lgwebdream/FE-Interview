@@ -46,21 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力
+### Day256:将二维数组转成一维数组的方法有哪些？
 
-```js
-let dataArr = [
-  { id: 1, name: "i1" },
-  { id: 2, name: "i2", parentId: 1 },
-  { id: 4, name: "i4", parentId: 3 },
-  { id: 3, name: "i3", parentId: 2 },
-  { id: 8, name: "i8", parentId: 7 },
-];
-```
-
-公司：阿里
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)**
 
 <br />
 
@@ -79,6 +67,7 @@ let dataArr = [
 
 ## ⏱️ 最近更新
 
+- [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
 - [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
 - [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 - [Day252:说一下递归和迭代的区别是什么，各有什么优缺点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
@@ -97,7 +86,6 @@ let dataArr = [
 - [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 - [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 - [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
-- [Day236:了解 HTTP3.0 吗？简要说一下 HTTP 的一个发展历程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1055)
 
 ## 🏠 前端面试 Family
 
