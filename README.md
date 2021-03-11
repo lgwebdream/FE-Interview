@@ -45,10 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day257:在不改变原数组的前提下，添加或删除某个元素
 
-### Day256:将二维数组转成一维数组的方法有哪些？
+公司：有赞
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)**
 
 <br />
 
@@ -67,6 +68,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day256:将二维数组转成一维数组的方法有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)
 - [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
 - [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
 - [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
@@ -85,7 +87,6 @@
 - [Day240:写出输出值并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
 - [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
 - [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
-- [Day237:说一下什么是运营商劫持？有什么预防措施？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1056)
 
 ## 🏠 前端面试 Family
 
