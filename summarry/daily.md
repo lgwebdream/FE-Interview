@@ -3411,12 +3411,20 @@ let dataArr = [
 
 <br />
 
-### Day257:在不改变原数组的前提下，添加或删除某个元素
+### Day257:在不改变原数组的前提下，添加或删除某个元素，获得一个新数组(多种方式实现)
 
 分类：JavaScript
 
 公司：有赞
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)
+
+<br />
+
+### Day258:聊聊你对 Orinoco 认知
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)
 
 <br />

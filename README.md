@@ -45,11 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day257:在不改变原数组的前提下，添加或删除某个元素
+### Day258:聊聊你对 Orinoco 认知
 
-公司：有赞
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)**
 
 <br />
 
@@ -68,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day257:在不改变原数组的前提下，添加或删除某个元素](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)
 - [Day256:将二维数组转成一维数组的方法有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)
 - [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
 - [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
@@ -86,7 +85,6 @@
 - [Day241:说一下深拷贝如何解决循环引用问题？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1060)
 - [Day240:写出输出值并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1059)
 - [Day239:按要求实现 go 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1058)
-- [Day238:请介绍一下装饰者模式，并实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1057)
 
 ## 🏠 前端面试 Family
 
