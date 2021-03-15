@@ -3428,3 +3428,25 @@ let dataArr = [
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)
 
 <br />
+
+### Day259:按要求实现代码
+
+```js
+var items = [{ name: "item1" }, { name: "item2" }];
+var str = '<div ali-for="item in items">{{item.name}}<div>';
+
+ParseDom(str);
+// <div>item1</div><div>item2</div>
+
+function ParseDom(str) {
+  // your code
+}
+```
+
+分类：JavaScript
+
+公司：阿里
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1078)
+
+<br />

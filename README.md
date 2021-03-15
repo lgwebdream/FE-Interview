@@ -45,9 +45,23 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day258:聊聊你对 Orinoco 认知
+### Day259:按要求实现代码
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)**
+```js
+var items = [{ name: "item1" }, { name: "item2" }];
+var str = '<div ali-for="item in items">{{item.name}}<div>';
+
+ParseDom(str);
+// <div>item1</div><div>item2</div>
+
+function ParseDom(str) {
+  // your code
+}
+```
+
+公司：阿里
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1078)**
 
 <br />
 
@@ -66,6 +80,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day258:聊聊你对 Orinoco 认知](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)
 - [Day257:在不改变原数组的前提下，添加或删除某个元素](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)
 - [Day256:将二维数组转成一维数组的方法有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)
 - [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
