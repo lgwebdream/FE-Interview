@@ -3476,9 +3476,14 @@ function ParseDom(str) {
 
 <br />
 
-### Day263:了解过 RPC 吗，简单说一下?
+### Day263:请写出以下代码结果，并解释为什么？
 
-分类：其它
+```js
+let { ...yideng } = Object.create({ x: 1 });
+console.log(yideng.x);
+```
+
+分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
 

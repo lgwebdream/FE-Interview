@@ -45,8 +45,12 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day263:请写出以下代码结果，并解释为什么？
 
-### Day263:了解过 RPC 吗，简单说一下?
+```js
+let { ...yideng } = Object.create({ x: 1 });
+console.log(yideng.x);
+```
 
 **[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)**
 
