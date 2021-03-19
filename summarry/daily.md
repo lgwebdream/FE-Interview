@@ -3467,3 +3467,19 @@ function ParseDom(str) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1080)
 
 <br />
+
+### Day262:为什么 WeakMap 和 WeakSet 的键只能使用对象？在什么场景下使用？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1081)
+
+<br />
+
+### Day263:了解过 RPC 吗，简单说一下?
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
+
+<br />
