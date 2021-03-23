@@ -3488,3 +3488,28 @@ console.log(yideng.x);
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
 
 <br />
+
+### Day264:请实现 uncurring 完成函数柯里化
+
+```js
+var yideng = Array.prototype.push.uncurring();
+(function () {
+  yideng(arguments, 4);
+  console.log(arguments); // [1,2,3,4]
+})(1, 2, 3);
+```
+
+分类：JavaScript
+
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1083)
+
+<br />
+
+### Day265:了解过 RPC 吗，简单说一下?
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
+
+<br />
