@@ -45,9 +45,18 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day265:了解过 RPC 吗，简单说一下?
+### Day268:请修改代码跳出死循环
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)**
+```js
+while (1) {
+  switch ("yideng") {
+    case "yideng":
+    // 禁止只写一句break;
+  }
+}
+```
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)**
 
 <br />
 
@@ -66,8 +75,10 @@
 
 ## ⏱️ 最近更新
 
-
-- [Day264:请实现 uncurring 完成函数柯里化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1083)
+- [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
+- [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
+- [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
+- [Day264:请实现 uncurring 完成函数柯里化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
 - [Day263:请写出以下代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
 - [Day262:为什么 WeakMap 和 WeakSet 的键只能使用对象？在什么场景下使用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1081)
 - [Day261:说一下 webpack4.x 模块化加载原理?(CommonJS、ES6 module、动态加载)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1080)
@@ -84,9 +95,6 @@
 - [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 - [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
 - [Day248:说一下 MySQL 和 MongoDB 区别？MongoDB 有哪些缺点和优点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
-- [Day247:说一下对纯函数的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1066)
-- [Day246:详细说一下你对 cookie、session、token 的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1065)
-- [Day245:说一下请求是异步的为什么会造成阻塞？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1064)
 
 ## 🏠 前端面试 Family
 

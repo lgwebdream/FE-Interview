@@ -3502,7 +3502,7 @@ var yideng = Array.prototype.push.uncurring();
 分类：JavaScript
 
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1083)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
 
 <br />
 
@@ -3510,6 +3510,54 @@ var yideng = Array.prototype.push.uncurring();
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
+
+<br />
+
+### Day266:写出下面代码结果，并解释为什么？
+
+```js
+function test() {}
+console.log(test.prototype.constructor.constructor);
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
+
+<br />
+
+### Day267:请写出执行结果,并解释原因
+
+```js
+var yideng = {
+  n: 1,
+};
+yideng.x = yideng = {
+  n: 2,
+};
+console.log(yideng.x);
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
+
+<br />
+
+### Day268:请修改代码跳出死循环
+
+```js
+while (1) {
+  switch ("yideng") {
+    case "yideng":
+    // 禁止只写一句break;
+  }
+}
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)
 
 <br />
