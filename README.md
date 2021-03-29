@@ -45,18 +45,20 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day268:请修改代码跳出死循环
+### Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。
 
 ```js
-while (1) {
-  switch ("yideng") {
-    case "yideng":
-    // 禁止只写一句break;
-  }
-}
+// 说明: 初始化 nums1 和 nums2 的元素数量分别为 m 和 n 。 你可以假设 nums1 有足够的空间（空间大小大于或等于 m + n）来保存 nums2 中的元素。
+
+// 输入:
+var nums1 = [1, 2, 3],
+  m = 3;
+var nums2 = [2, 5, 6],
+  n = 3;
+// 输出: [1,2,2,3,5,6]
 ```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)**
 
 <br />
 
@@ -75,6 +77,7 @@ while (1) {
 
 ## ⏱️ 最近更新
 
+- [Day268:请修改代码跳出死循环](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)
 - [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
 - [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
 - [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
@@ -94,7 +97,6 @@ while (1) {
 - [Day251:详细说一下对 JavaScript 执行上下文的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
 - [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
 - [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
-- [Day248:说一下 MySQL 和 MongoDB 区别？MongoDB 有哪些缺点和优点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1067)
 
 ## 🏠 前端面试 Family
 
