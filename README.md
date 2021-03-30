@@ -45,20 +45,15 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。
+
+### Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。
 
 ```js
-// 说明: 初始化 nums1 和 nums2 的元素数量分别为 m 和 n 。 你可以假设 nums1 有足够的空间（空间大小大于或等于 m + n）来保存 nums2 中的元素。
-
-// 输入:
-var nums1 = [1, 2, 3],
-  m = 3;
-var nums2 = [2, 5, 6],
-  n = 3;
-// 输出: [1,2,2,3,5,6]
+// 示例
+给定数组 nums = [-1, 0, 1, 2, -1, -4]， 满足要求的三元组集合为： [ [-1, 0, 1], [-1, -1, 2] ]
 ```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)**
 
 <br />
 
@@ -77,6 +72,7 @@ var nums2 = [2, 5, 6],
 
 ## ⏱️ 最近更新
 
+- [Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)
 - [Day268:请修改代码跳出死循环](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)
 - [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
 - [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
@@ -95,8 +91,6 @@ var nums2 = [2, 5, 6],
 - [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 - [Day252:说一下递归和迭代的区别是什么，各有什么优缺点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
 - [Day251:详细说一下对 JavaScript 执行上下文的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
-- [Day250:说一下 let、const 的实现，使用 ES5 模拟实现一下](https://github.com/lgwebdream/FE-Interview-Planet/issues/1069)
-- [Day249:说一下 Generator 的实现原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1068)
 
 ## 🏠 前端面试 Family
 
