@@ -46,14 +46,20 @@
 
 > 每天 get 一个知识点
 
-### Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。
+### Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。
 
 ```js
-// 示例
-给定数组 nums = [-1, 0, 1, 2, -1, -4]， 满足要求的三元组集合为： [ [-1, 0, 1], [-1, -1, 2] ]
+/*
+输入: "aba"
+输出: True
+输入: "abca"
+输出: True
+注意: 字符串只包含从 a-z 的小写字母。字符串的最大长度是50000。
+*/
 ```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)**
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)**
 
 <br />
 
@@ -72,6 +78,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)
 - [Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)
 - [Day268:请修改代码跳出死循环](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)
 - [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
@@ -90,7 +97,6 @@
 - [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
 - [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 - [Day252:说一下递归和迭代的区别是什么，各有什么优缺点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1071)
-- [Day251:详细说一下对 JavaScript 执行上下文的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1070)
 
 ## 🏠 前端面试 Family
 
