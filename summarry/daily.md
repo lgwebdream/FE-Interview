@@ -3593,3 +3593,46 @@ var nums2 = [2, 5, 6],
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)
 
 <br />
+
+### Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。
+
+```js
+/*
+输入: "aba"
+输出: True
+输入: "abca"
+输出: True
+注意: 字符串只包含从 a-z 的小写字母。字符串的最大长度是50000。
+*/
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)
+
+<br />
+
+### Day272:设计一个支持两种操作的数据结构
+
+```js
+addWord(word) // 添加字符串
+search(word)   // 返回布尔值，是否存在
+//search可以搜索文字或正则表达式字符串，字符串只包含字母 . 或 a-z 。
+// . 可以表示任何一个字母。
+
+// 示例
+addWord("bad")
+addWord("dad")
+addWord("mad")
+search("pad") -> false
+search("bad") -> true
+search(".ad") -> true
+search("b..") -> true
+// 可以假设所有单词都是由小写字母 a-z 组成的。
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
+
+<br />
