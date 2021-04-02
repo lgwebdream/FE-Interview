@@ -3636,3 +3636,23 @@ search("b..") -> true
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
 
 <br />
+
+### Day273:写出执行结果，并解释为什么？
+
+```html
+<script>
+  // 使用未定义的变量
+  yideng;
+  console.log(1);
+</script>
+<script>
+  console.log(2);
+</script>
+```
+
+分类：JavaScript
+
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)
+
+<br />

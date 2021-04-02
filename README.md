@@ -46,29 +46,21 @@
 
 > 每天 get 一个知识点
 
-### Day272:设计一个支持两种操作的数据结构
+### Day273:写出执行结果，并解释为什么？
 
-```js
-addWord(word) // 添加字符串
-search(word)   // 返回布尔值，是否存在
-//search可以搜索文字或正则表达式字符串，字符串只包含字母 . 或 a-z 。
-// . 可以表示任何一个字母。
-
-// 示例
-addWord("bad")
-addWord("dad")
-addWord("mad")
-search("pad") -> false
-search("bad") -> true
-search(".ad") -> true
-search("b..") -> true
-// 可以假设所有单词都是由小写字母 a-z 组成的。
+```html
+<script>
+  // 使用未定义的变量
+  yideng;
+  console.log(1);
+</script>
+<script>
+  console.log(2);
+</script>
 ```
 
-分类：算法
 
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)**
 
 <br />
 
@@ -87,6 +79,7 @@ search("b..") -> true
 
 ## ⏱️ 最近更新
 
+- [Day272:设计一个支持两种操作的数据结构](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
 - [Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)
 - [Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)
 - [Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)
@@ -105,7 +98,6 @@ search("b..") -> true
 - [Day256:将二维数组转成一维数组的方法有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)
 - [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
 - [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
-- [Day253:说一下 JavaScript 的宿主对象和原生对象的区别？为什么扩展 JavaScript 内置对象不是好的做法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1072)
 
 ## 🏠 前端面试 Family
 
