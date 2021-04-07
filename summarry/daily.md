@@ -3656,3 +3656,24 @@ search("b..") -> true
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)
 
 <br />
+
+### Day274:设计 AutoComplete 组件(又叫搜索组件、自动补全组件等)时，需要考虑什么问题？
+
+公司：头条
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1095)
+
+<br />
+
+### Day275:输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
+
+```js
+//输入：1->2->4, 1->3->4
+//输出：1->1->2->3->4->4
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1096)
+
+<br />

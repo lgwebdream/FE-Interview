@@ -46,21 +46,15 @@
 
 > 每天 get 一个知识点
 
-### Day273:写出执行结果，并解释为什么？
+### Day275:输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
 
-```html
-<script>
-  // 使用未定义的变量
-  yideng;
-  console.log(1);
-</script>
-<script>
-  console.log(2);
-</script>
+```js
+//输入：1->2->4, 1->3->4
+//输出：1->1->2->3->4->4
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1096)**
 
 <br />
 
@@ -79,6 +73,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day274:设计 AutoComplete 组件(又叫搜索组件、自动补全组件等)时，需要考虑什么问题？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1095)
+- [Day273:写出执行结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)
 - [Day272:设计一个支持两种操作的数据结构](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
 - [Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)
 - [Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)
@@ -96,8 +92,6 @@
 - [Day258:聊聊你对 Orinoco 认知](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)
 - [Day257:在不改变原数组的前提下，添加或删除某个元素](https://github.com/lgwebdream/FE-Interview-Planet/issues/1076)
 - [Day256:将二维数组转成一维数组的方法有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1075)
-- [Day255:将输入的数组组装成一颗树状的数据结构，要求程序具有侦测错误输入的能力](https://github.com/lgwebdream/FE-Interview-Planet/issues/1074)
-- [Day254:请解释下面代码为什么不能用作 IIFE？需要作出哪些修改才能使其成为 IIFE？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1073)
 
 ## 🏠 前端面试 Family
 
