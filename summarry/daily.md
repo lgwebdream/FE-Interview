@@ -3696,3 +3696,17 @@ search("b..") -> true
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1097)
 
 <br />
+
+### Day277:给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
+
+```js
+// 给定一个链表: 1->2->3->4->5, 和 n = 2.
+// 当删除了倒数第二个结点后，链表变为 1->2->3->5.
+// 说明：给定的n保证是有效的
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
+
+<br />
