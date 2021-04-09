@@ -348,8 +348,8 @@ const person = { name: "yideng" };
 function sayHi(age) {
   return `${this.name} is ${age}`;
 }
-console.log(sayHi.call(person, 5));
-console.log(sayHi.bind(person, 5));
+console.log(sayHi.call(person, 21));
+console.log(sayHi.bind(person, 21));
 ```
 
 分类：JavaScript
@@ -2942,7 +2942,7 @@ class Depository {
 
 <br />
 
-### Day213:如何设计一个 localStorage，保证数据的实效性?
+### Day213:如何设计一个 localStorage，保证数据的时效性?
 
 公司：有赞
 

@@ -13,7 +13,7 @@
 - [A、B 两个条件组件，如何做到 webpack 只打包条件为 true 的组件，false 的组件不打包](#ab-两个条件组件如何做到-webpack-只打包条件为-true-的组件false-的组件不打包)
 - [webpack 怎么处理内联 css 的](#webpack-怎么处理内联-css-的)
 - [webpack 如何做异步加载](#webpack-如何做异步加载)
-- [Webpack 里面的插件时怎么实现的](#webpack-里面的插件时怎么实现的)
+- [Webpack 里面的插件是怎么实现的](#webpack-里面的插件时怎么实现的)
 - [dev-server 是怎么跑起来的](#dev-server-是怎么跑起来的)
 - [Webpack 抽取公共文件是怎么配置的](#webpack-抽取公共文件是怎么配置的)
 - [import { Button } from 'antd'，打包的时候只打包 button，分模块加载，是怎么做到的](#import--button--from-antd打包的时候只打包-button分模块加载是怎么做到的)
@@ -164,7 +164,7 @@
 
 <br/>
 
-### Webpack 里面的插件时怎么实现的
+### Webpack 里面的插件是怎么实现的
 
 公司：阿里
 
