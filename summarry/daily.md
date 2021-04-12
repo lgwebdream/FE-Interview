@@ -3710,3 +3710,16 @@ search("b..") -> true
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
 
 <br />
+
+### Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。
+
+```js
+//输入: 1->2->3->4->5->NULL
+//输出: 5->4->3->2->1->NULL
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
+
+<br />
