@@ -3733,7 +3733,7 @@ search("b..") -> true
 // 输出: 1->4->3->2->5->NULL
 ```
 
-分类：算法
+分类：算法 
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
 
