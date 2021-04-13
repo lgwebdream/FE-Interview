@@ -46,15 +46,17 @@
 
 > 每天 get 一个知识点
 
-### Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。
+### Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。
 
 ```js
-//输入: 1->2->3->4->5->NULL
-//输出: 5->4->3->2->1->NULL
+// 说明：1 ≤ m ≤ n ≤ 链表长度。
+// 示例：
+// 输入: 1->2->3->4->5->NULL, m = 2, n = 4
+// 输出: 1->4->3->2->5->NULL
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/10100)**
 
 <br />
 
@@ -73,6 +75,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
 - [Day277:给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
 - [Day276:给定一个排序链表，删除所有含有重复数字的结点，只保留原始链表中没有重复出现的数字。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1097)
 - [Day275:输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1096)
@@ -92,7 +95,6 @@
 - [Day261:说一下 webpack4.x 模块化加载原理?(CommonJS、ES6 module、动态加载)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1080)
 - [Day260:说下什么是 Reflect？有什么作用？你对元编程是如何理解的？有没有实际应用的例子？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1079)
 - [Day259:按要求实现代码](https://github.com/lgwebdream/FE-Interview-Planet/issues/1078)
-- [Day258:聊聊你对 Orinoco 认知](https://github.com/lgwebdream/FE-Interview-Planet/issues/1077)
 
 ## 🏠 前端面试 Family
 
