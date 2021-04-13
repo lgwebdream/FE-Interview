@@ -56,7 +56,7 @@
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/10100)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)**
 
 <br />
 
