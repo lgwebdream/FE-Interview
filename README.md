@@ -62,8 +62,7 @@
 
 ## 📚 前端面试题汇总
 
-- **[每日一题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/daily.md)**
-- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview-Planet/blob/master/summarry/all.md)**
+- **[全部面试题汇总](https://github.com/lgwebdream/FE-Interview/issues)**
 
 <br />
 
