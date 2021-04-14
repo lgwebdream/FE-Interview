@@ -3738,3 +3738,16 @@ search("b..") -> true
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
 
 <br />
+
+### Day280:给定一个链表，如何判断链表是否有环？
+
+```js
+// 如果链表中有某个节点，可以通过连续跟踪 next 指针再次到达，则链表中存在环。
+// 如果链表中存在环，则返回 true 。 否则，返回 false 。
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
+
+<br />
