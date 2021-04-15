@@ -46,15 +46,10 @@
 
 > 每天 get 一个知识点
 
-### Day280:给定一个链表，如何判断链表是否有环？
-
-```js
-// 如果链表中有某个节点，可以通过连续跟踪 next 指针再次到达，则链表中存在环。
-// 如果链表中存在环，则返回 true 。 否则，返回 false 。
-```
+### Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)**
 
 <br />
 
@@ -72,6 +67,8 @@
 
 ## ⏱️ 最近更新
 
+
+- [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
 - [Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
 - [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
 - [Day277:给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
@@ -91,7 +88,6 @@
 - [Day263:请写出以下代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
 - [Day262:为什么 WeakMap 和 WeakSet 的键只能使用对象？在什么场景下使用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1081)
 - [Day261:说一下 webpack4.x 模块化加载原理?(CommonJS、ES6 module、动态加载)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1080)
-- [Day260:说下什么是 Reflect？有什么作用？你对元编程是如何理解的？有没有实际应用的例子？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1079)
 
 ## 🏠 前端面试 Family
 
