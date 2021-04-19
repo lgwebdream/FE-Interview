@@ -45,15 +45,28 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。
+
+### Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
 
 ```js
-// 例如，给定一个列表 temperatures = [73, 74, 75, 71, 69, 72, 76, 73]，你的输出应该是 [1, 1, 4, 2, 1, 1, 0, 0]。
-// 提示：气温 列表长度的范围是 [1, 30000]。每个气温的值的均为华氏度，都是在 [30, 10
+push(x);//将元素 x 推入栈中。
+pop(); // 删除栈顶元素
+top(); // 获取栈顶元素
+getMin();// 检索栈中最小的元素
+
+// 示例
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin();   // --> 返回 -3
+minStack.pop();
+minStack.top();      // --> 返回 0
+minStack.getMin();   // --> 返回 -2
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)**
 
 <br />
 
@@ -71,6 +84,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)
 - [Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)
 - [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
 - [Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
@@ -90,7 +104,6 @@
 - [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
 - [Day264:请实现 uncurring 完成函数柯里化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
 - [Day263:请写出以下代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
-- [Day262:为什么 WeakMap 和 WeakSet 的键只能使用对象？在什么场景下使用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1081)
 
 ## 🏠 前端面试 Family
 
