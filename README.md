@@ -46,27 +46,29 @@
 
 > 每天 get 一个知识点
 
-### Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
+### Day284:如何用栈实现一个队列
 
 ```js
-push(x);//将元素 x 推入栈中。
-pop(); // 删除栈顶元素
-top(); // 获取栈顶元素
-getMin();// 检索栈中最小的元素
+push(x) // 将一个元素放入队列的尾部。
+pop()  // 队列首部移除元素。
+peek()  // 返回队列首部的元素。
+empty() // 返回队列是否为空。
 
 // 示例
-MinStack minStack = new MinStack();
-minStack.push(-2);
-minStack.push(0);
-minStack.push(-3);
-minStack.getMin();   // --> 返回 -3
-minStack.pop();
-minStack.top();      // --> 返回 0
-minStack.getMin();   // --> 返回 -2
+MyQueue queue = new MyQueue();
+queue.push(1);
+queue.push(2);
+queue.peek(); // 返回 1
+queue.pop(); // 返回 1
+queue.empty(); // 返回 false
+
+// 说明
+// 只能使用标准的栈操作 -- 也就是只有 push to top, peek/pop from top, size, 和 is empty 操作是合法的。
+// 假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）。
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)**
 
 <br />
 
@@ -84,6 +86,7 @@ minStack.getMin();   // --> 返回 -2
 
 ## ⏱️ 最近更新
 
+- [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 - [Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)
 - [Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)
 - [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
