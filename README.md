@@ -46,29 +46,18 @@
 
 > 每天 get 一个知识点
 
-### Day284:如何用栈实现一个队列
+### Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。
 
 ```js
-push(x) // 将一个元素放入队列的尾部。
-pop()  // 队列首部移除元素。
-peek()  // 返回队列首部的元素。
-empty() // 返回队列是否为空。
-
 // 示例
-MyQueue queue = new MyQueue();
-queue.push(1);
-queue.push(2);
-queue.peek(); // 返回 1
-queue.pop(); // 返回 1
-queue.empty(); // 返回 false
-
-// 说明
-// 只能使用标准的栈操作 -- 也就是只有 push to top, peek/pop from top, size, 和 is empty 操作是合法的。
-// 假设所有操作都是有效的 （例如，一个空的队列不会调用 pop 或者 peek 操作）。
+// 输入:
+// nums = [1, 3, -1, -3, 5, 3, 6, 7], k = 3;
+// 输出:
+// [3, 3, 5, 5, 6, 7];
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)**
 
 <br />
 
@@ -86,6 +75,7 @@ queue.empty(); // 返回 false
 
 ## ⏱️ 最近更新
 
+- [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
 - [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 - [Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)
 - [Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)
@@ -106,7 +96,6 @@ queue.empty(); // 返回 false
 - [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
 - [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
 - [Day264:请实现 uncurring 完成函数柯里化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
-- [Day263:请写出以下代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1082)
 
 ## 🏠 前端面试 Family
 
