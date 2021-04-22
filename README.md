@@ -46,18 +46,25 @@
 
 > 每天 get 一个知识点
 
-### Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。
+### Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。
 
 ```js
-// 示例
-// 输入:
-// nums = [1, 3, -1, -3, 5, 3, 6, 7], k = 3;
-// 输出:
-// [3, 3, 5, 5, 6, 7];
+/**
+示例
+输入: [1,2,3]
+输出: [
+  [1,2,3],
+  [1,3,2],
+  [2,1,3],
+  [2,3,1],
+  [3,1,2],
+  [3,2,1]
+]
+*/
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)**
 
 <br />
 
@@ -75,6 +82,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
 - [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
 - [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 - [Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)
@@ -95,7 +103,6 @@
 - [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
 - [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
 - [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
-- [Day264:请实现 uncurring 完成函数柯里化](https://github.com/lgwebdream/FE-Interview-Planet/issues/1084)
 
 ## 🏠 前端面试 Family
 
