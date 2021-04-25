@@ -3796,6 +3796,8 @@ minStack.getMin();   // --> 返回 -2
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 
+<br />
+
 ### Day284:如何用栈实现一个队列
 
 ```js
@@ -3821,6 +3823,8 @@ queue.empty(); // 返回 false
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
 
+<br />
+
 ### Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。
 
 ```js
@@ -3834,6 +3838,8 @@ queue.empty(); // 返回 false
 分类：算法
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
+
+<br />
 
 ### Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。
 
@@ -3855,3 +3861,53 @@ queue.empty(); // 返回 false
 分类：算法
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)
+
+<br />
+
+### Day287:给定一组不含重复元素的整数数组 nums，返回该数组所有可能的子集（幂集）。说明：解集不能包含重复的子集。
+
+```js
+// 输入： nums = [1,2,3]
+/* 
+输出
+[
+  [3],
+  [1],
+  [2],
+  [1,2,3],
+  [1,3],
+  [2,3],
+  [1,2],
+  []
+]
+*/
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1108)
+
+<br />
+
+### Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。
+
+```js
+/* 
+输入：n = 4,k = 2;
+输出：
+[
+  [2,4],
+  [3,4],
+  [2,3],
+  [1,2],
+  [1,3],
+  [1,4],
+]
+ */
+```
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
+
+<br />

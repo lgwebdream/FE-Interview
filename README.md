@@ -46,25 +46,25 @@
 
 > 每天 get 一个知识点
 
-### Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。
+### Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。
 
 ```js
-/**
-示例
-输入: [1,2,3]
-输出: [
-  [1,2,3],
-  [1,3,2],
-  [2,1,3],
-  [2,3,1],
-  [3,1,2],
-  [3,2,1]
+/* 
+输入：n = 4,k = 2;
+输出：
+[
+  [2,4],
+  [3,4],
+  [2,3],
+  [1,2],
+  [1,3],
+  [1,4],
 ]
-*/
+ */
 ```
 
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)**
 
 <br />
 
@@ -82,6 +82,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day287:给定一组不含重复元素的整数数组 nums，返回该数组所有可能的子集（幂集）。说明：解集不能包含重复的子集。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1108)
+- [Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)
 - [Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
 - [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
 - [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
@@ -101,8 +103,6 @@
 - [Day269:给你两个有序整数数组 nums1 和 nums2，请你将 nums2 合并到 nums1 中，使 nums1 成为一个有序数组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1090)
 - [Day268:请修改代码跳出死循环](https://github.com/lgwebdream/FE-Interview-Planet/issues/1089)
 - [Day267:请写出执行结果,并解释原因](https://github.com/lgwebdream/FE-Interview-Planet/issues/1088)
-- [Day266:写出下面代码结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1087)
-- [Day265:了解过 RPC 吗，简单说一下?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1085)
 
 ## 🏠 前端面试 Family
 
