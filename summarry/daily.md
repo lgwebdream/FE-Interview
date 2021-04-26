@@ -3911,3 +3911,13 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
 
 <br />
+
+### Day289:项目中如何应用数据结构?
+
+公司：挖财
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
+
+<br />
