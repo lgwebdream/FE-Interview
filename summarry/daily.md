@@ -3921,3 +3921,13 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
 
 <br />
+
+### Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？
+
+公司：自如
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
+
+<br />
