@@ -3931,3 +3931,11 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
 
 <br />
+
+### Day291:说一下 JavaScript 的执行流程
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
+
+<br />
