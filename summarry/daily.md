@@ -3939,3 +3939,13 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 
 <br />
+
+### Day292:如何设计状态树
+
+公司：挖财
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
+
+<br />

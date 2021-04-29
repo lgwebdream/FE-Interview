@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day291:说一下 JavaScript 的执行流程
+### Day292:如何设计状态树
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 - [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
 - [Day289:项目中如何应用数据结构?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
 - [Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
@@ -86,7 +87,6 @@
 - [Day273:写出执行结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)
 - [Day272:设计一个支持两种操作的数据结构](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
 - [Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)
-- [Day270:给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有满足条件且不重复的三元组。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1091)
 
 ## 🏠 前端面试 Family
 
