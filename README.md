@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）
 
-### Day292:如何设计状态树
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)**
 
 <br />
 
@@ -66,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day292:如何设计状态树](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
 - [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 - [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
 - [Day289:项目中如何应用数据结构?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
@@ -86,7 +86,6 @@
 - [Day274:设计 AutoComplete 组件(又叫搜索组件、自动补全组件等)时，需要考虑什么问题？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1095)
 - [Day273:写出执行结果，并解释为什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1094)
 - [Day272:设计一个支持两种操作的数据结构](https://github.com/lgwebdream/FE-Interview-Planet/issues/1093)
-- [Day271:给定一个字符串 s，最多删除一个字符。判断是否能成为回文字符串。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1092)
 
 ## 🏠 前端面试 Family
 
