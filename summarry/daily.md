@@ -3957,3 +3957,11 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
 
 <br />
+
+### Day294：说一下进程和线程的区别？
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
+
+<br />
