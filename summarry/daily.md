@@ -3965,3 +3965,11 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
 
 <br />
+
+### Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
+
+<br />
