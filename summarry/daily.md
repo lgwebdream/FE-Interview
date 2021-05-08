@@ -3973,3 +3973,19 @@ queue.empty(); // 返回 false
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 
 <br />
+
+### Day296:下面代码是否会导致堆栈溢出错误
+
+```js
+function foo() {
+  setTimeout(foo, 0);
+}
+foo();
+// 是否存在堆栈溢出错误
+```
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
+
+<br />
