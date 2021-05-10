@@ -3989,3 +3989,13 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 
 <br />
+
+### Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略
+
+分类：Node
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
+
+<br />

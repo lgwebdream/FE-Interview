@@ -45,17 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day296:下面代码是否会导致堆栈溢出错误
 
-```js
-function foo() {
-  setTimeout(foo, 0);
-}
-foo();
-// 是否存在堆栈溢出错误
-```
+### Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)**
 
 <br />
 
@@ -73,6 +66,8 @@ foo();
 
 ## ⏱️ 最近更新
 
+
+- [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 - [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 - [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
 - [Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
@@ -92,7 +87,6 @@ foo();
 - [Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
 - [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
 - [Day277:给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
-- [Day276:给定一个排序链表，删除所有含有重复数字的结点，只保留原始链表中没有重复出现的数字。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1097)
 
 ## 🏠 前端面试 Family
 
