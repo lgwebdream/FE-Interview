@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day298:手写一个 Ajax
 
-### Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)**
 
 <br />
 
@@ -66,7 +65,7 @@
 
 ## ⏱️ 最近更新
 
-
+- [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
 - [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 - [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 - [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
@@ -86,7 +85,6 @@
 - [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
 - [Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
 - [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
-- [Day277:给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点](https://github.com/lgwebdream/FE-Interview-Planet/issues/1098)
 
 ## 🏠 前端面试 Family
 

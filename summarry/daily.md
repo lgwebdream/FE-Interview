@@ -3999,3 +3999,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
 
 <br />
+
+### Day298:手写一个 Ajax
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
+
+<br />
