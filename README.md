@@ -84,7 +84,7 @@
 - [Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)
 - [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
 - [Day279:反转从位置 m 到 n 的链表。请使用一趟扫描完成反转。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1100)
-- [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099)
+- [Day278:定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1099) 
 
 ## 🏠 前端面试 Family
 
