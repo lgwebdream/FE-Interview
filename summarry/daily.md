@@ -4007,3 +4007,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
 
 <br />
+
+### Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
+
+<br />
