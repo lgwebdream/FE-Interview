@@ -4015,3 +4015,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
 
 <br />
+
+### Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
+
+<br />
