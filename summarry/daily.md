@@ -4023,3 +4023,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
 
 <br />
+
+### Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
+
+<br />

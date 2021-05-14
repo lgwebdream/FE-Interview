@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？
+### Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
 - [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
 - [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
 - [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
@@ -84,7 +85,6 @@
 - [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 - [Day282:根据每日气温列表，请重新生成一个列表，对应位置的输出是需要再等待多久温度才会升高超过该日的天数。如果之后都不会升高，请在该位置用 0 来代替。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1103)
 - [Day281:给定一个链表，返回链表开始入环的第一个结点。 如果链表无环，则返回 null。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1102)
-- [Day280:给定一个链表，如何判断链表是否有环？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1101)
 
 ## 🏠 前端面试 Family
 
