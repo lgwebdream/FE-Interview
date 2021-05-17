@@ -4031,3 +4031,13 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
 
 <br />
+
+### Day302:实现 10 进制转换为 36 进制
+
+分类：JavaScript
+
+公司：头条
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
+
+<br />
