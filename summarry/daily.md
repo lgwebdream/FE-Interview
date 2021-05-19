@@ -4051,3 +4051,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 
 <br />
+
+### Day304:什么情况下会触发 options 请求
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
+
+<br />

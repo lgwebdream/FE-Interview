@@ -45,11 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day303:什么时候用 TCP，什么时候适合 UDP？
+### Day304:什么情况下会触发 options 请求
 
 公司：腾讯
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)**
 
 <br />
 
@@ -67,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 - [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
 - [Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
 - [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
@@ -86,7 +87,6 @@
 - [Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)
 - [Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
 - [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
-- [Day283:设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1104)
 
 ## 🏠 前端面试 Family
 
