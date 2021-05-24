@@ -3954,7 +3954,7 @@ queue.empty(); // 返回 false
 
 分类：工程化
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
 
 <br />
 
@@ -3962,7 +3962,7 @@ queue.empty(); // 返回 false
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 
 <br />
 
@@ -3970,7 +3970,7 @@ queue.empty(); // 返回 false
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 
 <br />
 
@@ -3986,7 +3986,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
 
 <br />
 
@@ -3996,7 +3996,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
 
 <br />
 
@@ -4004,7 +4004,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
 
 <br />
 
@@ -4012,7 +4012,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
 
 <br />
 
@@ -4020,7 +4020,7 @@ foo();
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 
 <br />
 
@@ -4028,7 +4028,7 @@ foo();
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
 
 <br />
 
@@ -4038,7 +4038,7 @@ foo();
 
 公司：头条
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1126)
 
 <br />
 
@@ -4048,7 +4048,7 @@ foo();
 
 公司：腾讯
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
 
 <br />
 
@@ -4056,6 +4056,35 @@ foo();
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
+
+<br />
+
+### Day305:说一下 Taro 编译的原理？
+
+分类：其它
+
+公司：阿里
+
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
+
+<br />
+
+### Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
+
+<br />
+
+### Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?
+
+分类：网络&安全
+
+公司：腾讯
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
 
 <br />

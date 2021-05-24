@@ -45,11 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day304:什么情况下会触发 options 请求
+### Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?
 
 公司：腾讯
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)**
 
 <br />
 
@@ -67,17 +67,20 @@
 
 ## ⏱️ 最近更新
 
-- [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
-- [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1123)
-- [Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
-- [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1121)
-- [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1120)
-- [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
-- [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
-- [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
-- [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
-- [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
-- [Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）](https://github.com/lgwebdream/FE-Interview-Planet/issues/1114)
+- [Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
+- [Day305:说一下 Taro 编译的原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
+- [Day304:什么情况下会触发 options 请求](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
+- [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
+- [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1126)
+- [Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
+- [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
+- [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
+- [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
+- [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
+- [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
+- [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
+- [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
+- [Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
 - [Day292:如何设计状态树](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
 - [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 - [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
@@ -85,8 +88,6 @@
 - [Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
 - [Day287:给定一组不含重复元素的整数数组 nums，返回该数组所有可能的子集（幂集）。说明：解集不能包含重复的子集。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1108)
 - [Day286：给定一个没有重复数字的序列，返回其所有可能的全排列。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1107)
-- [Day285:给定一个数组 nums 和滑动窗口的大小 k，请找出所有滑动窗口里的最大值。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1106)
-- [Day284:如何用栈实现一个队列](https://github.com/lgwebdream/FE-Interview-Planet/issues/1105)
 
 ## 🏠 前端面试 Family
 
