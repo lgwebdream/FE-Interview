@@ -4093,7 +4093,7 @@ foo();
 
 分类：工程化
 
-公司：美团
+公司：美团 
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
 
