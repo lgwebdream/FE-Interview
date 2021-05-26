@@ -4098,3 +4098,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
 
 <br />
+
+### Day309:说下你对 Node.js 支持高并发的理解？
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
+
+<br />
