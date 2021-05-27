@@ -46,9 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day309:说下你对 Node.js 支持高并发的理解？
+### Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)**
+公司：腾讯
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)**
 
 <br />
 
@@ -58,7 +60,7 @@
 
 <br />
 
-## 📱 手机刷题(附带详细答案) 
+## 📱 手机刷题(附带详细答案)
 
 > 二维码加载失败请点击 [入口](http://img-static.yidengxuetang.com/wxapp/issue-img/wxqr-github.png)
 
@@ -66,6 +68,8 @@
 
 ## ⏱️ 最近更新
 
+
+- [Day309:说下你对 Node.js 支持高并发的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
 - [Day308:说下你对 ESLint 的了解？ 如何使用？它的工作原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
 - [Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
 - [Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
@@ -86,7 +90,6 @@
 - [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 - [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
 - [Day289:项目中如何应用数据结构?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
-- [Day288:给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。](https://github.com/lgwebdream/FE-Interview-Planet/issues/1109)
 
 ## 🏠 前端面试 Family
 

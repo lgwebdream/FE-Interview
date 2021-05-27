@@ -4106,3 +4106,13 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
 
 <br />
+
+### Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？
+
+公司：腾讯
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
+
+<br />
