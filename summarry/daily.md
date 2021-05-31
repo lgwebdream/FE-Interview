@@ -4116,3 +4116,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
 
 <br />
+
+### Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
+
+<br />

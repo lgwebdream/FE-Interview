@@ -46,11 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？
+### Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？
 
-公司：腾讯
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)**
 
 <br />
 
@@ -68,7 +66,7 @@
 
 ## ⏱️ 最近更新
 
-
+- [Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
 - [Day309:说下你对 Node.js 支持高并发的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
 - [Day308:说下你对 ESLint 的了解？ 如何使用？它的工作原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
 - [Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
@@ -89,7 +87,6 @@
 - [Day292:如何设计状态树](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
 - [Day291:说一下 JavaScript 的执行流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1112)
 - [Day290:node 如何做错误监控？如何生成日志？日志等级如何划分？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1111)
-- [Day289:项目中如何应用数据结构?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1110)
 
 ## 🏠 前端面试 Family
 
