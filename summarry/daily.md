@@ -4124,3 +4124,19 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
 
 <br />
+
+### Day312:接口怎么防刷
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
+
+<br />
+
+### Day313:说下你对前端工程化的理解
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
+
+<br />
