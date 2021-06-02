@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day313:说下你对前端工程化的理解
+### Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day313:说下你对前端工程化的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
 - [Day312:接口怎么防刷](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
 - [Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
 - [Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
@@ -85,7 +86,6 @@
 - [Day295:详细描述一个 http 请求从发起请求到收到响应的全部过程(越细越好)](https://github.com/lgwebdream/FE-Interview-Planet/issues/1117)
 - [Day294：说一下进程和线程的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1116)
 - [Day293:说下在项目开发你是怎么组织 CSS 的？（Webpack）](https://github.com/lgwebdream/FE-Interview-Planet/issues/1115)
-- [Day292:如何设计状态树](https://github.com/lgwebdream/FE-Interview-Planet/issues/1113)
 
 ## 🏠 前端面试 Family
 

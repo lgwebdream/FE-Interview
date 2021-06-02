@@ -4140,3 +4140,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
 
 <br />
+
+### Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
+
+<br />
