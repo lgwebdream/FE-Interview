@@ -4148,3 +4148,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
 
 <br />
+
+### Day315:请说说你对 Sparkplug 的理解？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
+
+<br />
