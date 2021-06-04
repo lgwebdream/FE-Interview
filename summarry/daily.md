@@ -4156,3 +4156,11 @@ foo();
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
 
 <br />
+
+### Day316:说一下实现骨架屏的方案？具体思路?
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1141)
+
+<br />
