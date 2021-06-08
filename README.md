@@ -45,35 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系
+### Day318:WebSocket 如何断开重连
 
-```js
-// 1 => A
-// 2 => B
-// 3 => C
-// ...
-// 26 => Z
-// 27 => AA
-// 28 => AB
-// ...
-// 52 => AZ
-// 53 => BA
-// 54 => BB
-
-// 实现下方函数
-function convert(){
-    // todo
-}
-// 测试代码
-const output1 = convert(1);
-console.log(output1); //A
-const output2 = convert(26);
-console.log(output2);// Z
-```
-
-公司：腾讯微视
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)**
 
 <br />
 
@@ -91,6 +65,7 @@ console.log(output2);// Z
 
 ## ⏱️ 最近更新
 
+- [Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
 - [Day316:说一下实现骨架屏的方案？具体思路?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1141)
 - [Day315:请说说你对 Sparkplug 的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
 - [Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
@@ -111,7 +86,6 @@ console.log(output2);// Z
 - [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 - [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
 - [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
-- [Day296:下面代码是否会导致堆栈溢出错误](https://github.com/lgwebdream/FE-Interview-Planet/issues/1118)
 
 ## 🏠 前端面试 Family
 
