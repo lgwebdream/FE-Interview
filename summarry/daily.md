@@ -4206,3 +4206,13 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)
 
 <br />
+
+### Day319:为什么说利用多个域名来存储网站资源会更有效？
+
+分类：网络&安全
+
+公司：字节跳动
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)
+
+<br />

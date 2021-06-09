@@ -45,9 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day318:WebSocket 如何断开重连
+### Day319:为什么说利用多个域名来存储网站资源会更有效？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)**
+公司：字节跳动
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)**
 
 <br />
 
@@ -65,6 +67,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day318:WebSocket 如何断开重连](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)
 - [Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
 - [Day316:说一下实现骨架屏的方案？具体思路?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1141)
 - [Day315:请说说你对 Sparkplug 的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
@@ -85,7 +88,6 @@
 - [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 - [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 - [Day298:手写一个 Ajax](https://github.com/lgwebdream/FE-Interview-Planet/issues/1122)
-- [Day297:说下 Node 文件查找的优先级以及 Require 方法的文件查找策略](https://github.com/lgwebdream/FE-Interview-Planet/issues/1119)
 
 ## 🏠 前端面试 Family
 
