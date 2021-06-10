@@ -4216,3 +4216,13 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)
 
 <br />
+
+### Day320:文件上传如何实现？除了 input 还有哪些别的方法？
+
+公司：字节跳动
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
+
+<br />
