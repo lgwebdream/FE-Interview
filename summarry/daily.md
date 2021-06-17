@@ -4226,3 +4226,37 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
 
 <br />
+
+### Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
+
+<br />
+
+### Day322:手写发布订阅模式
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
+
+<br />
+
+### Day323:大数计算如何实现
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
+
+<br />
+
+### Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？
+
+公司：淘宝
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
+
+<br />

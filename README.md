@@ -45,11 +45,12 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day320:文件上传如何实现？除了 input 还有哪些别的方法？
 
-公司：字节跳动
+### Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)**
+公司：淘宝
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)**
 
 <br />
 
@@ -67,6 +68,10 @@
 
 ## ⏱️ 最近更新
 
+- [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
+- [Day322:手写发布订阅模式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
+- [Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
+- [Day320:文件上传如何实现？除了 input 还有哪些别的方法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
 - [Day319:为什么说利用多个域名来存储网站资源会更有效？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)
 - [Day318:WebSocket 如何断开重连](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)
 - [Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
@@ -85,9 +90,6 @@
 - [Day304:什么情况下会触发 options 请求](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
 - [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
 - [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1126)
-- [Day301:鼠标滚动的时候，会触发很多次事件，你是如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1125)
-- [Day300 Get 请求传参长度存在限制，是 HTTP 协议限制的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
-- [Day299:说一下什么是功能检测（feature detection）、功能推断（feature inference）、UA 字符串？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1124)
 
 ## 🏠 前端面试 Family
 
