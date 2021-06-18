@@ -46,11 +46,11 @@
 
 > 每天 get 一个知识点
 
-### Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？
+### Day325:请求在客户端报 413 是什么错误，怎么解决？
 
 公司：淘宝
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1151)**
 
 <br />
 
@@ -68,6 +68,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
 - [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
 - [Day322:手写发布订阅模式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
 - [Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
@@ -89,7 +90,6 @@
 - [Day305:说一下 Taro 编译的原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
 - [Day304:什么情况下会触发 options 请求](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
 - [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
-- [Day302:实现 10 进制转换为 36 进制](https://github.com/lgwebdream/FE-Interview-Planet/issues/1126)
 
 ## 🏠 前端面试 Family
 
