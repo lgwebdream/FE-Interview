@@ -45,12 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day326:请用 ES5 模拟实现 Number 的 isInteger 方法
 
-### Day325:请求在客户端报 413 是什么错误，怎么解决？
-
-公司：淘宝
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1151)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)**
 
 <br />
 
@@ -68,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day325:请求在客户端报 413 是什么错误，怎么解决？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
 - [Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
 - [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
 - [Day322:手写发布订阅模式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
@@ -89,7 +87,6 @@
 - [Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
 - [Day305:说一下 Taro 编译的原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
 - [Day304:什么情况下会触发 options 请求](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
-- [Day303:什么时候用 TCP，什么时候适合 UDP？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1127)
 
 ## 🏠 前端面试 Family
 

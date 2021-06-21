@@ -4267,6 +4267,14 @@ console.log(output2);// Z
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1151)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
+
+<br />
+
+### Day326:请用 ES5 模拟实现 Number 的 isInteger 方法
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 
 <br />
