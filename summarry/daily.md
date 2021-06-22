@@ -4278,3 +4278,11 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 
 <br />
+
+### Day327:谈一下微信小程序的架构以及为什么要使用双线程？
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
+
+<br />

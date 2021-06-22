@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day326:请用 ES5 模拟实现 Number 的 isInteger 方法
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)**
+### Day327:谈一下微信小程序的架构以及为什么要使用双线程？
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)**
 
 <br />
 
@@ -65,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day326:请用 ES5 模拟实现 Number 的 isInteger 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 - [Day325:请求在客户端报 413 是什么错误，怎么解决？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
 - [Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
 - [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
@@ -86,7 +88,6 @@
 - [Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
 - [Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
 - [Day305:说一下 Taro 编译的原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1129)
-- [Day304:什么情况下会触发 options 请求](https://github.com/lgwebdream/FE-Interview-Planet/issues/1128)
 
 ## 🏠 前端面试 Family
 
