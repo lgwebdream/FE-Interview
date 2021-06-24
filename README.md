@@ -46,10 +46,11 @@
 
 > 每天 get 一个知识点
 
+### Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?
 
-### Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组
+公司：伴鱼、喜马拉雅
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)**
 
 <br />
 
@@ -67,6 +68,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 - [Day327:谈一下微信小程序的架构以及为什么要使用双线程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
 - [Day326:请用 ES5 模拟实现 Number 的 isInteger 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 - [Day325:请求在客户端报 413 是什么错误，怎么解决？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
@@ -88,7 +90,6 @@
 - [Day309:说下你对 Node.js 支持高并发的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
 - [Day308:说下你对 ESLint 的了解？ 如何使用？它的工作原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
 - [Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
-- [Day306:Vue2.x 和 Vue3.x 渲染器的 diff 算法分别说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1130)
 
 ## 🏠 前端面试 Family
 

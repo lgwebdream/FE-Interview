@@ -4294,3 +4294,13 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 
 <br />
+
+### Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?
+
+公司：伴鱼、喜马拉雅
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
+
+<br />
