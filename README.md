@@ -46,11 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?
+### Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
 
-公司：伴鱼、喜马拉雅
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)**
 
 <br />
 
@@ -68,6 +66,10 @@
 
 ## ⏱️ 最近更新
 
+- [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
+- [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
+- [Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
+- [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 - [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 - [Day327:谈一下微信小程序的架构以及为什么要使用双线程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
 - [Day326:请用 ES5 模拟实现 Number 的 isInteger 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
@@ -87,9 +89,6 @@
 - [Day312:接口怎么防刷](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
 - [Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
 - [Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
-- [Day309:说下你对 Node.js 支持高并发的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1133)
-- [Day308:说下你对 ESLint 的了解？ 如何使用？它的工作原理？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1132)
-- [Day307:如果一个页面突然出现了一段广告，可能是什么原因，怎么解决?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1131)
 
 ## 🏠 前端面试 Family
 
