@@ -46,9 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`
+### Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)**
 
 <br />
 
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
 - [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
 - [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
 - [Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
@@ -88,8 +89,6 @@
 - [Day313:说下你对前端工程化的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
 - [Day312:接口怎么防刷](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
 - [Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
-- [Day310:了解 WebSocket 吗？WebSocket 是如何进行握手的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1134)
-
 ## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。

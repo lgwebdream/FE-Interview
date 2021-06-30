@@ -4331,3 +4331,11 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
 
 <br />
+
+### Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
+
+<br />
