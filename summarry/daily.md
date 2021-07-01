@@ -4339,3 +4339,28 @@ console.log(output2);// Z
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
 
 <br />
+
+### Day334:按要求实现 rightView 函数
+
+```js
+function TreeNode(val){
+  this.val = val;
+  this.left = null;
+  this.right = null;
+}
+function rightView(root){
+  // 请你实现
+}
+// => [1,4,3]
+     1      => 1
+   2   4    => 4
+ 7   3      => 3
+```
+
+公司：头条
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
+
+<br />

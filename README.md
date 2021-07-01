@@ -46,9 +46,27 @@
 
 > 每天 get 一个知识点
 
-### Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)**
+### Day334:按要求实现 rightView 函数
+
+```js
+function TreeNode(val){
+  this.val = val;
+  this.left = null;
+  this.right = null;
+}
+function rightView(root){
+  // 请你实现
+}
+// => [1,4,3]
+     1      => 1
+   2   4    => 4
+ 7   3      => 3
+```
+
+公司：头条
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)**
 
 <br />
 
@@ -66,6 +84,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
 - [Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
 - [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
 - [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
@@ -88,7 +107,6 @@
 - [Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
 - [Day313:说下你对前端工程化的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
 - [Day312:接口怎么防刷](https://github.com/lgwebdream/FE-Interview-Planet/issues/1136)
-- [Day311:介绍下 npm 模块安装机制？输入 npm install 命令敲下回车后它的一个执行流程是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1135)
 ## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。
