@@ -4364,3 +4364,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
 
 <br />
+
+### Day335：动手实现一下 Node utils 模块中的 Promisify 函数
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
+
+<br />
