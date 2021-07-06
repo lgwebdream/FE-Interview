@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day337:输入一个日期,返回几秒前、几小时前、几天前、几月前
 
-### Day335：动手实现一下 Node utils 模块中的 Promisify 函数
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1167)**
 
 <br />
 
@@ -66,7 +65,8 @@
 
 ## ⏱️ 最近更新
 
-
+- [Day336:说一下 jQuery ajax、axios、fetch 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1166)
+- [Day335：动手实现一下 Node utils 模块中的 Promisify 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
 - [Day334:按要求实现 rightView 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
 - [Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
 - [Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
@@ -88,8 +88,6 @@
 - [Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
 - [Day316:说一下实现骨架屏的方案？具体思路?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1141)
 - [Day315:请说说你对 Sparkplug 的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1140)
-- [Day314:ES6 代码转成 ES5 代码的实现思路是什么？大致说一下 babel 原理?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1139)
-- [Day313:说下你对前端工程化的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1138)
 ## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。

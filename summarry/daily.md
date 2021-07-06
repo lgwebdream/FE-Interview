@@ -4372,3 +4372,20 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
 
 <br />
+
+### Day336:说一下 jQuery ajax、axios、fetch 的区别
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1166)
+
+<br />
+
+### Day337:输入一个日期,返回几秒前、几小时前、几天前、几月前
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1167)
+
+<br />
+
