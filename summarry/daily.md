@@ -4389,3 +4389,10 @@ function rightView(root){
 
 <br />
 
+### Day338:说一下你对函数式编程的理解
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1168)
+
+<br />
