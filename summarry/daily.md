@@ -4396,3 +4396,14 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1168)
 
 <br />
+
+
+### Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理
+
+公司：玄武科技
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
+
+<br />
