@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理
+### Day:340:动手实现一个简单的 mvvm 模型
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
 - [Day338:说一下你对函数式编程的理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1168)
 - [Day337:输入一个日期,返回几秒前、几小时前、几天前、几月前](https://github.com/lgwebdream/FE-Interview-Planet/issues/1167)
 - [Day336:说一下 jQuery ajax、axios、fetch 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1166)
@@ -87,7 +88,6 @@
 - [Day320:文件上传如何实现？除了 input 还有哪些别的方法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
 - [Day319:为什么说利用多个域名来存储网站资源会更有效？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1145)
 - [Day318:WebSocket 如何断开重连](https://github.com/lgwebdream/FE-Interview-Planet/issues/1143)
-- [Day317:完成一个转换函数，将数字转换成对应的大写字母，满足下面的对应关系](https://github.com/lgwebdream/FE-Interview-Planet/issues/1142)
 ## 🏠 前端面试 Family
 
 如果你在工作中遇到问题、在面试中遇到疑惑、在前端路上遇到了阻碍，都可以加入我们前端星球 Family，我们会竭尽全力为大家答疑解惑，让我们共同努力，一同成长。

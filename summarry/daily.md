@@ -4407,3 +4407,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
 
 <br />
+
+### Day:340:动手实现一个简单的 mvvm 模型
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
+
+<br />
