@@ -4408,10 +4408,20 @@ function rightView(root){
 
 <br />
 
-### Day:340:动手实现一个简单的 mvvm 模型
+### Day340:动手实现一个简单的 mvvm 模型
 
 分类：JavaScript
 
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
+
+<br />
+
+### Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？
+
+公司：字节跳动、京东
+
+分类：算法
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 
 <br />
