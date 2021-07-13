@@ -4425,3 +4425,13 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 
 <br />
+
+### Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程
+
+公司：爱奇艺
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
+
+<br />
