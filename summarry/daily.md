@@ -4435,3 +4435,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 
 <br />
+
+### Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
+
+<br />

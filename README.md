@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?
 
-### Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)**
 
 <br />
 
@@ -66,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 - [Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 - [Day340:动手实现一个简单的 mvvm 模型](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
 - [Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
@@ -88,7 +88,6 @@
 - [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
 - [Day322:手写发布订阅模式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
 - [Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
-- [Day320:文件上传如何实现？除了 input 还有哪些别的方法？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1146)
 
 ## 🏠 前端面试 Family
 
