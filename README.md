@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?
+### Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)**
 
 <br />
 
@@ -65,6 +65,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
+- [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
 - [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 - [Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 - [Day340:动手实现一个简单的 mvvm 模型](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
@@ -86,8 +88,6 @@
 - [Day325:请求在客户端报 413 是什么错误，怎么解决？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
 - [Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
 - [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
-- [Day322:手写发布订阅模式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1148)
-- [Day321:请设计一个方案：有 a、b、c 三个 npm 插件，它们会经常更新，在前端项目 npm run start 启动后，要求 a、b、c 三个 npm 插件自动更新到最新版本](https://github.com/lgwebdream/FE-Interview-Planet/issues/1147)
 
 ## 🏠 前端面试 Family
 

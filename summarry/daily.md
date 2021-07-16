@@ -4443,3 +4443,21 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
 
 <br />
+
+### Day344:封装公共组件需要注意什么？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
+
+<br />
+
+### Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？
+
+公司：盒马
+
+分类：Vue、React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
+
+<br />
