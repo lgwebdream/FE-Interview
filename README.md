@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？
+### Day346: Node 中怎么开启一个子线程
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
 - [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
 - [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
 - [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
@@ -87,7 +88,6 @@
 - [Day326:请用 ES5 模拟实现 Number 的 isInteger 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 - [Day325:请求在客户端报 413 是什么错误，怎么解决？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1152)
 - [Day324:说一下网络通信中引入滑动窗口的作用，它的机制原理是怎样的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1150)
-- [Day323:大数计算如何实现](https://github.com/lgwebdream/FE-Interview-Planet/issues/1149)
 
 ## 🏠 前端面试 Family
 

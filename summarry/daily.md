@@ -4461,3 +4461,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
 
 <br />
+
+### Day346: Node 中怎么开启一个子线程
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
+
+<br />
