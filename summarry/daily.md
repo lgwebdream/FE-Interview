@@ -4469,3 +4469,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 
 <br />
+
+### Day347:说一下小程序页面的通讯方式
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
+
+<br />
