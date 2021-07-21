@@ -4477,3 +4477,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
 
 <br />
+
+### Day348:class 的继承和 prototype 继承 是完全一样的吗？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
+
+<br />

@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day347:说一下小程序页面的通讯方式
+### Day348:class 的继承和 prototype 继承 是完全一样的吗？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day347:说一下小程序页面的通讯方式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
 - [Day346: Node 中怎么开启一个子线程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 - [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
 - [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
@@ -86,7 +87,6 @@
 - [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 - [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 - [Day327:谈一下微信小程序的架构以及为什么要使用双线程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
-- [Day326:请用 ES5 模拟实现 Number 的 isInteger 方法](https://github.com/lgwebdream/FE-Interview-Planet/issues/1154)
 
 ## 🏠 前端面试 Family
 
