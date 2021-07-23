@@ -4440,7 +4440,7 @@ function rightView(root){
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
 
 <br />
 
@@ -4448,7 +4448,7 @@ function rightView(root){
 
 分类：工程化
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
 
 <br />
 
@@ -4458,7 +4458,7 @@ function rightView(root){
 
 分类：Vue、React
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 
 <br />
 
@@ -4466,7 +4466,7 @@ function rightView(root){
 
 分类：Node
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
 
 <br />
 
@@ -4474,7 +4474,7 @@ function rightView(root){
 
 分类：其它
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
 
 <br />
 
@@ -4482,6 +4482,22 @@ function rightView(root){
 
 分类：JavaScript
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
+
+<br />
+
+### Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
+
+<br />
+
+### Day350:Reflect.ownKeys 与 Object.keys 的区别
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
 
 <br />

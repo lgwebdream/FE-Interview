@@ -45,9 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day348:class 的继承和 prototype 继承 是完全一样的吗？
+### Day350:Reflect.ownKeys 与 Object.keys 的区别
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)**
+分类：JavaScript
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)**
 
 <br />
 
@@ -65,6 +67,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
+- [Day348:class 的继承和 prototype 继承 是完全一样的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
 - [Day347:说一下小程序页面的通讯方式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
 - [Day346: Node 中怎么开启一个子线程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 - [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
@@ -85,8 +89,6 @@
 - [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
 - [Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
 - [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
-- [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
-- [Day327:谈一下微信小程序的架构以及为什么要使用双线程？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1155)
 
 ## 🏠 前端面试 Family
 
