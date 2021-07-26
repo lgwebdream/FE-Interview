@@ -45,11 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day350:Reflect.ownKeys 与 Object.keys 的区别
+### Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?
 
 分类：JavaScript
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)**
 
 <br />
 
@@ -67,13 +67,15 @@
 
 ## ⏱️ 最近更新
 
-- [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
-- [Day348:class 的继承和 prototype 继承 是完全一样的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
-- [Day347:说一下小程序页面的通讯方式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
-- [Day346: Node 中怎么开启一个子线程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
-- [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
-- [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
-- [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1173)
+
+- [Day350:Reflect.ownKeys 与 Object.keys 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
+- [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
+- [Day348:class 的继承和 prototype 继承 是完全一样的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
+- [Day347:说一下小程序页面的通讯方式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
+- [Day346: Node 中怎么开启一个子线程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
+- [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
+- [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
+- [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
 - [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 - [Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 - [Day340:动手实现一个简单的 mvvm 模型](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
@@ -88,7 +90,6 @@
 - [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
 - [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
 - [Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
-- [Day328:给定一个数组，按找到每个元素右侧第一个比它大的数字，没有的话返回-1 规则返回一个数组](https://github.com/lgwebdream/FE-Interview-Planet/issues/1156)
 
 ## 🏠 前端面试 Family
 

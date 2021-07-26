@@ -4501,3 +4501,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
 
 <br />
+
+### Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
+
+<br />
