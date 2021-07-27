@@ -4509,3 +4509,11 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
 
 <br />
+
+### Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
+
+<br />

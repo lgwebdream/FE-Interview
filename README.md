@@ -45,11 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?
 
-分类：JavaScript
+### Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)**
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)**
 
 <br />
 
@@ -68,6 +68,7 @@
 ## ⏱️ 最近更新
 
 
+- [Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
 - [Day350:Reflect.ownKeys 与 Object.keys 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
 - [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
 - [Day348:class 的继承和 prototype 继承 是完全一样的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
@@ -89,7 +90,6 @@
 - [Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
 - [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
 - [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
-- [Day329:说一说 promise，有几个状态，通过 catch 捕获到 reject 之后，在 catch 后面还能继续执行 then 方法嘛，如果能执行执行的是第几个回调函数?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1157)
 
 ## 🏠 前端面试 Family
 
