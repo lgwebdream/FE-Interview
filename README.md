@@ -46,10 +46,20 @@
 
 > 每天 get 一个知识点
 
-### Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？
+### Day355:下面代码在 vue 中输出什么？为什么?
 
+```js
+for (let i = 0; i < 10; i++) {
+  this.a = i;
+  this.$nextTick(() => {
+    console.log(this.a);
+  });
+}
+```
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)**
+公司：头条
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)**
 
 <br />
 
@@ -67,7 +77,9 @@
 
 ## ⏱️ 最近更新
 
-
+- [Day354:模拟实现 Symbol](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
+- [Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
+- [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
 - [Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
 - [Day350:Reflect.ownKeys 与 Object.keys 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
 - [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
@@ -87,9 +99,6 @@
 - [Day335：动手实现一下 Node utils 模块中的 Promisify 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
 - [Day334:按要求实现 rightView 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
 - [Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
-- [Day332:手写代码实现`kuai-shou-front-end=>KuaiShouFrontEnd`](https://github.com/lgwebdream/FE-Interview-Planet/issues/1162)
-- [Day331:说一下对称加密和非对称加密的区别和用处？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1161)
-- [Day330:为什么 React useState 要使用数组而不是对象?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1160)
 
 ## 🏠 前端面试 Family
 

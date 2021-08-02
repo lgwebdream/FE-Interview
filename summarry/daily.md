@@ -4517,3 +4517,38 @@ function rightView(root){
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
 
 <br />
+
+### Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
+
+<br />
+
+### Day354:模拟实现 Symbol
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
+
+<br />
+
+### Day355:下面代码在 vue 中输出什么？为什么?
+
+```js
+for (let i = 0; i < 10; i++) {
+  this.a = i;
+  this.$nextTick(() => {
+    console.log(this.a);
+  });
+}
+```
+
+公司：头条
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
+
+<br />
