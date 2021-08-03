@@ -4552,3 +4552,19 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
 
 <br />
+
+### Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
+
+<br />
+
+### Day357:说一下你觉得的 vue 开发规范有哪些？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
+
+<br />

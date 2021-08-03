@@ -46,20 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day355:下面代码在 vue 中输出什么？为什么?
+### Day357:说一下你觉得的 vue 开发规范有哪些？
 
-```js
-for (let i = 0; i < 10; i++) {
-  this.a = i;
-  this.$nextTick(() => {
-    console.log(this.a);
-  });
-}
-```
-
-公司：头条
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)**
 
 <br />
 
@@ -77,6 +66,8 @@ for (let i = 0; i < 10; i++) {
 
 ## ⏱️ 最近更新
 
+- [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
+- [Day355:下面代码在 vue 中输出什么？为什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
 - [Day354:模拟实现 Symbol](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
 - [Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
 - [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
@@ -97,8 +88,6 @@ for (let i = 0; i < 10; i++) {
 - [Day337:输入一个日期,返回几秒前、几小时前、几天前、几月前](https://github.com/lgwebdream/FE-Interview-Planet/issues/1167)
 - [Day336:说一下 jQuery ajax、axios、fetch 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1166)
 - [Day335：动手实现一下 Node utils 模块中的 Promisify 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1165)
-- [Day334:按要求实现 rightView 函数](https://github.com/lgwebdream/FE-Interview-Planet/issues/1164)
-- [Day333:用尽量短的代码实现一个 array 的链式操作，将数组中的大于 10 的值进行一个累加](https://github.com/lgwebdream/FE-Interview-Planet/issues/1163)
 
 ## 🏠 前端面试 Family
 
