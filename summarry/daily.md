@@ -4573,7 +4573,7 @@ for (let i = 0; i < 10; i++) {
 
 分类：Vue
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1189)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
 
 <br />
 
@@ -4581,6 +4581,14 @@ for (let i = 0; i < 10; i++) {
 
 分类：Vue
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1189)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
+
+<br />
+
+### Day360:Vue2.x 为什么要求组件模板只能有一个根元素？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
 
 <br />

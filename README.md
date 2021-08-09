@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)**
+### Day360:Vue2.x 为什么要求组件模板只能有一个根元素？
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)**
 
 <br />
 
@@ -65,7 +66,8 @@
 
 ## ⏱️ 最近更新
 
-- [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1189)
+- [Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
+- [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
 - [Day357:说一下你觉得的 vue 开发规范有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
 - [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
 - [Day355:下面代码在 vue 中输出什么？为什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
