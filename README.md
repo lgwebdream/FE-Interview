@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？
+### Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
 - [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
 - [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
 - [Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
@@ -87,7 +88,6 @@
 - [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 - [Day341:说下 LRU 算法的原理并手写实现？一般有哪些优化方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1171)
 - [Day340:动手实现一个简单的 mvvm 模型](https://github.com/lgwebdream/FE-Interview-Planet/issues/1170)
-- [Day339：说出前端框架设计模式(MVVM 或 MVP 又或 MVC)的含义以及原理](https://github.com/lgwebdream/FE-Interview-Planet/issues/1169)
 
 ## 🏠 前端面试 Family
 
