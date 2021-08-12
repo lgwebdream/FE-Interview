@@ -4616,3 +4616,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
 
 <br />
+
+### Day364：为什么说 React 中 props 是只读的？
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
+
+<br />
