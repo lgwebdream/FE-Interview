@@ -4624,3 +4624,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
 
 <br />
+
+### Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？
+
+分类：Vue
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
+
+<br />
