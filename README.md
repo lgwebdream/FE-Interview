@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day366:什么是 CSP?
 
-### Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)**
 
 <br />
 
@@ -66,8 +65,9 @@
 
 ## ⏱️ 最近更新
 
-- [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
-- [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
+- [Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
+- [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
+- [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
 - [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
 - [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
 - [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
@@ -88,7 +88,6 @@
 - [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 - [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
 - [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
-- [Day342:有没有搭建过 CI/CD？说下 CI/CD 搭建的流程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1172)
 
 ## 🏠 前端面试 Family
 

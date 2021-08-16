@@ -4632,3 +4632,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
 
 <br />
+
+### Day366:什么是 CSP?
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
+
+<br />
