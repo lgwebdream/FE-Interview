@@ -4640,3 +4640,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
 
 <br />
+
+### Day367:说下 URL 和 URI 的区别？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
+
+<br />

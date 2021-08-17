@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day366:什么是 CSP?
+### Day367:说下 URL 和 URI 的区别？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day366:什么是 CSP?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
 - [Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
 - [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
 - [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
@@ -87,7 +88,6 @@
 - [Day346: Node 中怎么开启一个子线程](https://github.com/lgwebdream/FE-Interview-Planet/issues/1177)
 - [Day345:Prerender 预渲染是什么原理？预渲染 prerender-spa-plugin 能详细讲讲吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1176)
 - [Day344:封装公共组件需要注意什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1175)
-- [Day343:说一下 TypeScript 中 Partial、Pick、Record 作用?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1174)
 
 ## 🏠 前端面试 Family
 
