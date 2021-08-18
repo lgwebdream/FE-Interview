@@ -4648,3 +4648,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
 
 <br />
+
+### Day368:说一下你对 Get 请求传参长度限制的理解？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
+
+<br />
