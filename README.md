@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day368:说一下你对 Get 请求传参长度限制的理解？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)**
+### Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)**
 
 <br />
 
@@ -65,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day368:说一下你对 Get 请求传参长度限制的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
 - [Day367:说下 URL 和 URI 的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
 - [Day366:什么是 CSP?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1200)
 - [Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
