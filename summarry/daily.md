@@ -4664,3 +4664,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
 
 <br />
+
+### Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
+
+<br />
