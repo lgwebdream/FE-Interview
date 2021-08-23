@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day371:使用 Symbol 函数都有哪些要注意的点？
 
-### Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)**
 
 <br />
 
@@ -66,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
 - [Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
 - [Day368:说一下你对 Get 请求传参长度限制的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
 - [Day367:说下 URL 和 URI 的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
@@ -88,7 +88,6 @@
 - [Day350:Reflect.ownKeys 与 Object.keys 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
 - [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
 - [Day348:class 的继承和 prototype 继承 是完全一样的吗？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1179)
-- [Day347:说一下小程序页面的通讯方式](https://github.com/lgwebdream/FE-Interview-Planet/issues/1178)
 
 ## 🏠 前端面试 Family
 

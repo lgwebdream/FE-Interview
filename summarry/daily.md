@@ -4672,3 +4672,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
 
 <br />
+
+### Day371:使用 Symbol 函数都有哪些要注意的点？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
+
+<br />
