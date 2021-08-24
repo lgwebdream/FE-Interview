@@ -4680,3 +4680,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
 
 <br />
+
+### Day372:说一下你对 Get 和 Post 请求在缓存方面理解
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
+
+<br />
