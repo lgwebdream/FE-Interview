@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day372:说一下你对 Get 和 Post 请求在缓存方面理解
+### Day373：说下 Node 中 require 模块引入的查找方式？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)**
+
 
 <br />
 
@@ -65,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day372:说一下你对 Get 和 Post 请求在缓存方面理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
 - [Day371:使用 Symbol 函数都有哪些要注意的点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
 - [Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
 - [Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
@@ -87,7 +89,6 @@
 - [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
 - [Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
 - [Day350:Reflect.ownKeys 与 Object.keys 的区别](https://github.com/lgwebdream/FE-Interview-Planet/issues/1181)
-- [Day349:说一下 vite 和 webpack 对比，为什么 vite 在 dev 模式下运行速度快很多？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1180)
 
 ## 🏠 前端面试 Family
 

@@ -4688,3 +4688,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
 
 <br />
+
+### Day373：说下 Node 中 require 模块引入的查找方式？
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
+
+<br />
