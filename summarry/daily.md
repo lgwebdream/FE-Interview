@@ -4696,3 +4696,11 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
 
 <br />
+
+### Day374:说一下开发中常用的几种 Content-Type ？
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)
+
+<br />
