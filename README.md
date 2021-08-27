@@ -45,10 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
+### Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?
 
-### Day374:说一下开发中常用的几种 Content-Type ？
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)**
 
 
 <br />
@@ -67,10 +66,11 @@
 
 ## ⏱️ 最近更新
 
-- [Day373：说下 Node 中 require 模块引入的查找方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
-- [Day372:说一下你对 Get 和 Post 请求在缓存方面理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
-- [Day371:使用 Symbol 函数都有哪些要注意的点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
-- [Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
+- [Day374:说一下开发中常用的几种 Content-Type ？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)
+- [Day373：说下 Node 中 require 模块引入的查找方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
+- [Day372:说一下你对 Get 和 Post 请求在缓存方面理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
+- [Day371:使用 Symbol 函数都有哪些要注意的点？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1205)
+- [Day370:为什么使用 setTimeout 实现 setInterval？怎么模拟？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1204)
 - [Day369:说下你对 Reflect 的理解？为什么会有 Reflect 的出现？Proxy 也简单的说一下？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1203)
 - [Day368:说一下你对 Get 请求传参长度限制的理解？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1202)
 - [Day367:说下 URL 和 URI 的区别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1201)
@@ -89,7 +89,6 @@
 - [Day354:模拟实现 Symbol](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
 - [Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
 - [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
-- [Day351:说一下对事件流的理解,如果 addEventListener 的第三个参数设置为 true 会发生什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1182)
 
 ## 🏠 前端面试 Family
 
