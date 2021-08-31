@@ -4712,3 +4712,20 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)
 
 <br />
+
+### Day376:说一下你对进程和线程的了解？Node 中进程间是如何进行通信的？
+
+分类：Node
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1210)
+
+<br />
+
+### Day377:说一下你了解的 WebSocket 鉴权授权方案？
+
+分类：其它
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1211)
+
+<br />
+

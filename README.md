@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?
+### Day377:说一下你了解的 WebSocket 鉴权授权方案？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1211)**
 
 
 <br />
@@ -66,6 +66,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day376:说一下你对进程和线程的了解？Node 中进程间是如何进行通信的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1210)
+- [Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)
 - [Day374:说一下开发中常用的几种 Content-Type ？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1208)
 - [Day373：说下 Node 中 require 模块引入的查找方式？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1207)
 - [Day372:说一下你对 Get 和 Post 请求在缓存方面理解](https://github.com/lgwebdream/FE-Interview-Planet/issues/1206)
@@ -87,8 +89,6 @@
 - [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
 - [Day355:下面代码在 vue 中输出什么？为什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
 - [Day354:模拟实现 Symbol](https://github.com/lgwebdream/FE-Interview-Planet/issues/1185)
-- [Day353:React Hooks 解决了什么问题？其原理是什么(以 useEffect 为例)？useMemo 和 useCallback 差别？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1184)
-- [Day352：React Hooks 的 useState 相对于有状态组件 state 区别是什么？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1183)
 
 ## 🏠 前端面试 Family
 
