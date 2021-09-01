@@ -4729,3 +4729,10 @@ for (let i = 0; i < 10; i++) {
 
 <br />
 
+### Day378:说一下什么是 Http 协议无状态?怎么解决 Http 协议无状态?
+
+分类：网络&安全
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1212)
+
+<br />
