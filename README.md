@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day378:说一下什么是 Http 协议无状态?怎么解决 Http 协议无状态?
+### Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1212)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)**
 
 
 <br />
@@ -66,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day378:说一下什么是 Http 协议无状态?怎么解决 Http 协议无状态?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1213)
 - [Day377:说一下你了解的 WebSocket 鉴权授权方案？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1211)
 - [Day376:说一下你对进程和线程的了解？Node 中进程间是如何进行通信的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1210)
 - [Day375:setTimeout/setInterval 实现倒计时如何解决时间偏差的问题?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1209)
@@ -88,7 +89,6 @@
 - [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
 - [Day357:说一下你觉得的 vue 开发规范有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
 - [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
-- [Day355:下面代码在 vue 中输出什么？为什么?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1186)
 
 ## 🏠 前端面试 Family
 

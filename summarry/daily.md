@@ -4733,6 +4733,14 @@ for (let i = 0; i < 10; i++) {
 
 分类：网络&安全
 
-[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1212)
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1213)
+
+<br />
+
+### Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？
+
+分类：工程化
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)
 
 <br />
