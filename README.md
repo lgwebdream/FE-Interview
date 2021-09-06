@@ -45,9 +45,11 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)**
+### Day381:说一下 JavaScript 严格模式下有哪些不同？
+
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)**
 
 
 <br />
@@ -66,6 +68,8 @@
 
 ## ⏱️ 最近更新
 
+- [Day380:实现一个系统，统计前端页面性能、页面 JS 报错、用户操作行为、PV/UV、用户设备等消息，并进行必要的监控报警。方案如何设计，用什么技术点，什么样的系统架构，难点会在哪里？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1215)
+- [Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)
 - [Day378:说一下什么是 Http 协议无状态?怎么解决 Http 协议无状态?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1213)
 - [Day377:说一下你了解的 WebSocket 鉴权授权方案？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1211)
 - [Day376:说一下你对进程和线程的了解？Node 中进程间是如何进行通信的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1210)
@@ -87,8 +91,6 @@
 - [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
 - [Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
 - [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
-- [Day357:说一下你觉得的 vue 开发规范有哪些？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1188)
-- [Day356:说说 Context 有哪些属性？怎么使用 Context 开发组件？除了实例的属性可以获取 Context 外哪些地方还能直接获取 Context ？为什么 React 并不推荐我们优先考虑使用 Context？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1187)
 
 ## 🏠 前端面试 Family
 
