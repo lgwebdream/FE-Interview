@@ -46,11 +46,9 @@
 
 > 每天 get 一个知识点
 
-### Day381:说一下 JavaScript 严格模式下有哪些不同？
+### Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？
 
-
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)**
-
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)**
 
 <br />
 
@@ -68,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day381:说一下 JavaScript 严格模式下有哪些不同？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
 - [Day380:实现一个系统，统计前端页面性能、页面 JS 报错、用户操作行为、PV/UV、用户设备等消息，并进行必要的监控报警。方案如何设计，用什么技术点，什么样的系统架构，难点会在哪里？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1215)
 - [Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)
 - [Day378:说一下什么是 Http 协议无状态?怎么解决 Http 协议无状态?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1213)
@@ -90,7 +89,6 @@
 - [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
 - [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
 - [Day359:你知道 Vue 的模板语法用的是哪个 web 模板引擎的吗？说说你对这模板引擎的理解?](https://github.com/lgwebdream/FE-Interview-Planet/issues/1191)
-- [Day358:说一下你对 vue keep-alive 的理解？以及使用过程需要注意的地方？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1190)
 
 ## 🏠 前端面试 Family
 

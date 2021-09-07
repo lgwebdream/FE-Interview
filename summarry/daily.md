@@ -4762,3 +4762,12 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
 
 <br />
+
+
+### Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
+
+<br />
