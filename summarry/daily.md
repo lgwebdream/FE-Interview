@@ -4771,3 +4771,12 @@ for (let i = 0; i < 10; i++) {
 [答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
 
 <br />
+
+### Day383:说下 React 的 useEffect、useCallback、useMemo
+
+分类：React
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1218)
+
+<br />
+
