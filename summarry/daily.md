@@ -4780,3 +4780,11 @@ for (let i = 0; i < 10; i++) {
 
 <br />
 
+### Day384:JavaScript 中如何实现一个类？怎么实例化这个类？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1219)
+
+<br />
+

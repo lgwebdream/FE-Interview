@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day383:说下 React 的 useEffect、useCallback、useMemo
+### Day384:JavaScript 中如何实现一个类？怎么实例化这个类？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1218)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1219)**
 
 <br />
 
@@ -65,6 +65,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day383:说下 React 的 useEffect、useCallback、useMemo](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
 - [Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
 - [Day381:说一下 JavaScript 严格模式下有哪些不同？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
 - [Day380:实现一个系统，统计前端页面性能、页面 JS 报错、用户操作行为、PV/UV、用户设备等消息，并进行必要的监控报警。方案如何设计，用什么技术点，什么样的系统架构，难点会在哪里？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1215)
@@ -87,7 +88,6 @@
 - [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
 - [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
 - [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
-- [Day360:Vue2.x 为什么要求组件模板只能有一个根元素？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1192)
 
 ## 🏠 前端面试 Family
 
