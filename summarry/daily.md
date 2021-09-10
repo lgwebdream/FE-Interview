@@ -4788,3 +4788,11 @@ for (let i = 0; i < 10; i++) {
 
 <br />
 
+### Day385:在一个 DOM 上同时绑定两个点击事件：一个用捕获，一个用冒泡。事件会执行几次？先执行冒泡还是捕获？
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1220)
+
+<br />
+

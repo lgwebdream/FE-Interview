@@ -45,9 +45,9 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day384:JavaScript 中如何实现一个类？怎么实例化这个类？
+### Day385:在一个 DOM 上同时绑定两个点击事件：一个用捕获，一个用冒泡。事件会执行几次？先执行冒泡还是捕获？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1219)**
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1220)**
 
 <br />
 
@@ -65,8 +65,9 @@
 
 ## ⏱️ 最近更新
 
-- [Day383:说下 React 的 useEffect、useCallback、useMemo](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
-- [Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
+- [Day384:JavaScript 中如何实现一个类？怎么实例化这个类？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1219)
+- [Day383:说下 React 的 useEffect、useCallback、useMemo](https://github.com/lgwebdream/FE-Interview-Planet/issues/1218)
+- [Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
 - [Day381:说一下 JavaScript 严格模式下有哪些不同？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1216)
 - [Day380:实现一个系统，统计前端页面性能、页面 JS 报错、用户操作行为、PV/UV、用户设备等消息，并进行必要的监控报警。方案如何设计，用什么技术点，什么样的系统架构，难点会在哪里？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1215)
 - [Day379:如果让你来实现一个前端监控系统，应该考虑什么？如何去实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1214)
@@ -87,7 +88,6 @@
 - [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
 - [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
 - [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
-- [Day361:Vue 切换路由时，需要保存草稿的功能，怎么实现？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1193)
 
 ## 🏠 前端面试 Family
 
