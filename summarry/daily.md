@@ -4796,3 +4796,11 @@ for (let i = 0; i < 10; i++) {
 
 <br />
 
+### Day386:写一个通用的事件侦听器函数
+
+分类：JavaScript
+
+[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1221)
+
+<br />
+

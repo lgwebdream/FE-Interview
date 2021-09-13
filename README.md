@@ -45,9 +45,10 @@
 ## ☕ 前端面试每日一题
 
 > 每天 get 一个知识点
-### Day385:在一个 DOM 上同时绑定两个点击事件：一个用捕获，一个用冒泡。事件会执行几次？先执行冒泡还是捕获？
 
-**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/1220)**
+### Day386:写一个通用的事件侦听器函数
+
+**[答案&解析](https://github.com/lgwebdream/FE-Interview-Planet/issues/122)**
 
 <br />
 
@@ -65,6 +66,7 @@
 
 ## ⏱️ 最近更新
 
+- [Day385:在一个 DOM 上同时绑定两个点击事件：一个用捕获，一个用冒泡。事件会执行几次？先执行冒泡还是捕获？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1220)
 - [Day384:JavaScript 中如何实现一个类？怎么实例化这个类？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1219)
 - [Day383:说下 React 的 useEffect、useCallback、useMemo](https://github.com/lgwebdream/FE-Interview-Planet/issues/1218)
 - [Day382:说一下 setTimeout 和 setInterval 的区别，包含内存方面的分析？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1217)
@@ -87,7 +89,6 @@
 - [Day365:如何解决 Vue 打包 vendor 过大的问题？Webpack 打包 vue 速度慢怎么办？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1199)
 - [Day364：为什么说 React 中 props 是只读的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1197)
 - [Day363:举例说明 React 的插槽有哪些运用场景？你有用过 React 的插槽(Portals)吗？怎么用？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1196)
-- [Day362:说一下 Vue 中 EventBus 的使用？在使用过程中有没有遇到重复触发的问题？如何解决的？](https://github.com/lgwebdream/FE-Interview-Planet/issues/1195)
 
 ## 🏠 前端面试 Family
 
